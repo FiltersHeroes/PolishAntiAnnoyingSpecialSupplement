@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Title: Oficjalne polskie filtry blokujące sekcje RSS na stronach do Adblock, uBlock Origin, Adguard.
+! Oficjalne polskie filtry blokujące sekcje RSS na stronach do Adblock, uBlock Origin, Adguard.
+! Collaborators: RikoDEV
+! Uzywanie polskich filtrow jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
+! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
+! Last modified: 18 March 2018
+! Expires: 3 days
+! Version: 2018031803
+! Support:
+!   Discord >> http://ds.certyficate.it
+!   Github >> https://github.com/RikoDEV/polish-rss-filter/issues
+! License: https://creativecommons.org/li
+
+! ---- GENERAL FILTERS --- !
+
+dobreprogramy.pl##.clearfix.grid-margin-top.nested-grid > .span-2:nth-of-type(2)
+forum.unturned.pl##a[href="forums/-/index.rss"]
+niebezpiecznik.pl###text-3 > .textwidget > p
+skyup.pl##.bradius-fifty.trns-normal.rs.sicon
