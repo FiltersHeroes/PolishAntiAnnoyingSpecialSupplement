@@ -4,9 +4,9 @@
 ! Collaborators: RikoDEV
 ! Uzywanie polskich filtrow jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
 ! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
-! Last modified: 19 March 2018
+! Last modified: 23 March 2018
 ! Expires: 3 days
-! Version: 2018031915
+! Version: 2018032315
 ! Support:
 !   Discord >> http://ds.certyficate.it
 !   Github >> https://github.com/RikoDEV/polish-rss-filter/issues
@@ -15,7 +15,10 @@
 ! ---- GENERAL FILTERS --- !
 
 businessinsider.com.pl##.links-promo > .social:nth-of-type(4), .links-promo, .links-user > .social:nth-of-type(4) > a[href="https://businessinsider.com.pl/.feed"] > .ks-header-rss.fa-rss.fa
+crazynauka.pl###text-5
 dobreprogramy.pl##.clearfix.grid-margin-top.nested-grid > .span-2:nth-of-type(2)
+dzieje.pl##.rss
 forum.unturned.pl##a[href="forums/-/index.rss"]
 niebezpiecznik.pl###text-3 > .textwidget > p
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
+videoquality.pl##.feed
