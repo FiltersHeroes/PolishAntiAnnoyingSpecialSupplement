@@ -2,6 +2,11 @@
 Dziękujemy za zgłoszenie do Polskich Filtrów RSS!
 -->
 
+### Typ elementu/problemu
+<!--
+Co mamy schować, zablokować albo w czym jest problem, może pojawił się jakiś błąd?
+-->
+
 ### Moja konfiguracja
 **Przeglądarka internetowa:** 
 
@@ -17,12 +22,12 @@ Dziękujemy za zgłoszenie do Polskich Filtrów RSS!
 5.
 6.
 
-### Link bezpośredni
+### Link bezpośredni (opcjonalny)
 <!--
 Wstaw tutaj link bezpośredni do strony, na której występuje element albo błąd.
 -->
 
-### Zrzut ekranu
+### Zrzut ekranu (opcjonalny)
 <!--
 Przeciągnij tutaj swój zrzut lub zamieść do niego link.
 -->
