@@ -1,32 +1,33 @@
 <!--
-Dziękujemy za zgłoszenie na rzecz polskich filtrów do Adblocka i uBlocka
+Dziękujemy za zgłoszenie do Polskich Filtrów RSS!
 -->
-### Zrzut ekranu
-<!--
-Przeciągnij i upuść tutaj swój zrzut lub zamieść do niego link.
--->
+
+### Moja konfiguracja
+**Przeglądarka internetowa:** 
+
+**System operacyjny:** 
+
+**Bloker:** 
+
+**Używane filtry:**
+1. EasyList
+2. Oficjalne Polskie Filtry do AdBlocka, uBlocka Origin i AdGuarda
+3. Polskie Filtry RSS
+4.
+5.
+6.
 
 ### Link bezpośredni
 <!--
-Wstaw tutaj link bezpośredni do strony, na której występuje element, reklama albo błąd.
+Wstaw tutaj link bezpośredni do strony, na której występuje element albo błąd.
 -->
 
-### Co trzeba zrobić, aby pojawił się element, reklama albo błąd?
-1. 
-2. 
-3. 
+### Zrzut ekranu
+<!--
+Przeciągnij tutaj swój zrzut lub zamieść do niego link.
+-->
 
-
-### Moja konfiguracja
-**Przeglądarka internetowa:**
-
-**Rozszerzenia i skrypty:**
-
-**Filtry:**
-1. Polskie filtry do Adblocka i uBlocka
-2. 
-3. 
-4. 
-
-**Inne ważne informacje mogące mieć znaczenie (opcjonalne):**
-
+### Inne ważne informacje mogące mieć znaczenie (opcjonalne):
+<!--
+Coś co nie da się opisać wizualnie, etapy odtworzenia problemu (co doprowadziło do błędu) albo twoja metoda rozwiązania problemu.
+-->
