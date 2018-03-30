@@ -1,0 +1,7 @@
+||di.com.pl/pic/belkainfor/bg-belka-line.gif$image
+||di.com.pl/pic/rss-little.gif$image
+||fajne.it/img/custom/rss.png$image
+||img.wprost.pl/_i/icon-20-a-soc-rss.png$image
+||purepc.pl/skin/m_rs.png$image
+||rmf24.pl/s/classic/ikony@2x.png?2$image
+||rynek-kolejowy.pl/themes/rssmiddle.png$image 

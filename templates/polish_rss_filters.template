@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Checksum: 
+! Title: Polskie Filtry RSS
+! Description: Filtry blokujące sekcje RSS na polskich stronach.
+! Uzywanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
+! Działają najlepiej z EasyList - pamiętaj aby zasubskrybować!
+! Last modified: 
+! Version: 
+! Expires: 2 days
+! Support:
+!   Discord >> http://ds.certyficate.it
+!   Github >> https://github.com/RikoDEV/polish-rss-filter/issues
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Copyright © 2018 Polish Filters Team
+! Aktualizacja: 
+!
+!
+! ---- GENERAL FILTERS --- !
+@include general
+!
+!
+! ---- IMAGES --- !
+@include images
+ 
