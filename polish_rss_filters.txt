@@ -1,19 +1,22 @@
 [Adblock Plus 2.0]
+! Checksum: YGsDMuPup/AU8khj2Xmjog
 ! Title: Polskie Filtry RSS
-! Polskie filtry blokujące sekcje RSS na stronach do Adblock, uBlock Origin, Adguard.
-! Collaborators: RikoDEV
-! Uzywanie polskich filtrow jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
-! Działa najlepiej z EasyList - pamiętaj aby zasubskrybować!
-! Last modified: 29 March 2018
-! Expires: 3 days
-! Version: 2018032911
+! Polish RSS Filters
+! Codename: RSS
+! Description: Filtry blokujące sekcje RSS na polskich stronach.
+! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
+! Last modified: 30 Mar 2018 11:49 UTC+02
+! Version: 201803301149
+! Expires: 2 days
 ! Support:
 !   Discord >> http://ds.certyficate.it
 !   Github >> https://github.com/RikoDEV/polish-rss-filter/issues
-! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
+! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+! Copyright © 2018 Polish Filters Team
+! Aktualizacja: pią, 30 mar 2018, 11:49 UTC+02
+!
+!
 ! ---- GENERAL FILTERS --- !
-
 businessinsider.com.pl##.links-promo > .social:nth-of-type(4), .links-promo, .links-user > .social:nth-of-type(4) > a[href="https://businessinsider.com.pl/.feed"] > .ks-header-rss.fa-rss.fa
 crazynauka.pl###text-5
 di.com.pl##.subbelka > ul > li:nth-of-type(6), .footnag:nth-of-type(2), .footcol:nth-of-type(5) > ul > .first, .footcol:nth-of-type(5) > ul > li:nth-of-type(3), .footcol:nth-of-type(5) > ul > li:nth-of-type(2)
@@ -30,14 +33,15 @@ skyup.pl##.bradius-fifty.trns-normal.rs.sicon
 videoquality.pl##.feed
 wprost.pl##.soc-button.rss-button.footer-button
 wykop.pl##.m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(5), .m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(4), .m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(3)
-zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
-
+zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box 
+!
+!
 ! ---- IMAGES --- !
-
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif$image
 ||di.com.pl/pic/rss-little.gif$image
 ||fajne.it/img/custom/rss.png$image
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png$image
 ||purepc.pl/skin/m_rs.png$image
 ||rmf24.pl/s/classic/ikony@2x.png?2$image
-||rynek-kolejowy.pl/themes/rssmiddle.png$image
+||rynek-kolejowy.pl/themes/rssmiddle.png$image 
+ 
