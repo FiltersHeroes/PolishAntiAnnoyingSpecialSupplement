@@ -6,3 +6,4 @@
 ||purepc.pl/skin/m_rs.png
 ||rmf24.pl/s/classic/ikony@2x.png?2
 ||rynek-kolejowy.pl/themes/rssmiddle.png
+||suwalki24.pl/site/gfx/social/rss_big.png
