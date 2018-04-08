@@ -9,3 +9,6 @@
 ||rmf24.pl/s/classic/ikony@2x.png?2
 ||rynek-kolejowy.pl/themes/rssmiddle.png
 ||suwalki24.pl/site/gfx/social/rss_big.png
+||katalogmsp.pl/components/com_sobi2/images/feed.gif
+||fight24.pl/rss.png
+||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png

@@ -30,3 +30,4 @@ wschodnik.pl##.icon-rss
 wykop.pl##.m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(5), .m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(4), .m-set-fullwidth.width-one-fourth:nth-of-type(3) > .space > ul > li:nth-of-type(3)
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box 
+zarabiamykase.com.pl###sfsi-widget-2
