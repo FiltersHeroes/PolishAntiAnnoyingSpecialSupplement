@@ -10,11 +10,18 @@ farmer.pl##.greyBox
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href^="http://www.forum.paramythology.pl/misc.php"]
 forum.satkurier.pl###rss_feed
 forum.unturned.pl##a[href="forums/-/index.rss"]
+gala.pl##.nav-pills.nav > .el-6.rss > a[href="http://www.gala.pl/rss/"]
+inwestycje.pl##li:nth-of-type(3) > .link, #footFeed
 istotne.pl##a[href="http://istotne.pl/rss"]
+iwanowice.pl##.rss-wrapper
+joomla.pl##.icon-feed
 krytykapolityczna.pl###menu-item-166280
 lokalnatelewizja.pl##.rss
+mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 niebezpiecznik.pl###text-3 > .textwidget > p
+ozonowanie-powietrza.pl##.art-rss-tag-icon
 pl##.fa-rss
+polsatsport.pl##.ico-rss
 praca.policja.pl##li:nth-of-type(1) > h2
 praca.policja.pl###social > li:nth-of-type(1)
 purepc.pl##.foot_rs
@@ -23,6 +30,10 @@ rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column.mt-4.col-lg-2.col-sm-4.col-xs-6:nth-of-type(6) > h3
 silesiasem.pl###text-6
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
+sledzimykonkursy.pl##li:nth-of-type(2) > a[href="http://www.sledzimykonkursy.pl/rss"]
+testhub.pl##a[href="https://testhub.pl/feed"]
+twoje-seriale.pl##.Syn > ul
+utrzymanieruchu.pl###portale_spolecznosciowe, #footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl##.feed
 webinsider.pl##.fa-feed
 wprost.pl##.soc-buttons, .rss-button
