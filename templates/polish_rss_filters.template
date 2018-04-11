@@ -3,7 +3,7 @@
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
 ! Codename: RSS
-! Description: Filtry blokujące sekcje RSS na polskich stronach.
+! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 ! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
 ! Last modified: 
 ! Version: 
@@ -16,8 +16,8 @@
 ! Aktualizacja: 
 !
 !
-! ---- GENERAL FILTERS --- !
-@include general
+! ---- SPECIFIC ELEMENT HIDING RULES --- !
+@include specific_hiding
 !
 !
 ! ---- IMAGES --- !
