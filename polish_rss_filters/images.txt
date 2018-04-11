@@ -1,9 +1,10 @@
 /feed.png$domain=marcinmazurek.com.pl|booklips.pl
+/ico_rss.
+/rss.png
+||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
-||fajne.it/img/custom/rss.png
-||fight24.pl/rss.png
 ||filmydokumentalne.eu/wp-content/themes/filmy/images/b_rss.png
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
@@ -11,7 +12,7 @@
 ||purepc.pl/skin/m_rs.png
 ||rmf24.pl/s/classic/ikony@2x.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
+||sandecja.org/templates/default/images/rss.gif
 ||sps24.pl/media/desktop/rss.swf
-||static.wirtualnemedia.pl/new/img/ico_rss.png
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
