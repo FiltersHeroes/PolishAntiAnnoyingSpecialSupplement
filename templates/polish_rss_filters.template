@@ -5,15 +5,15 @@
 ! Codename: RSS
 ! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 ! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-! Last modified: 
-! Version: 
+! Last modified: @modified 
+! Version: @wersja
 ! Expires: 3 days
 ! Support:
 !   Discord => http://ds.certyficate.it
 !   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2018 Polish Filters Team
-! Aktualizacja: 
+! Aktualizacja: @aktualizacja
 !
 !
 ! ---- SPECIFIC ELEMENT HIDING RULES --- !

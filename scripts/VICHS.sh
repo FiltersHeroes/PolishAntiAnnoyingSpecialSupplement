@@ -109,17 +109,17 @@ for i in "$@"; do
 
     # Aktualizacja daty i godziny w polu „Last modified"
     export LC_ALL=en_US.UTF-8
-    data=$(date +"%d %b %Y %H:%M UTC%:::z")
-    sed -i '/! Last modified:/c\'"! Last modified: $data" $i
+    modified=$(date +"%a, %d %b %Y, %H:%M UTC%:::z")
+    sed -i "s|@modified|$modified|g" $i
 
     # Aktualizacja wersji
     wersja=$(date +"%Y%m%d%H%M")
-    sed -i '/! Version:/c\'"! Version: $wersja" $i
+    sed -i "s|@wersja|$wersja|g" $i
 
     # Aktualizacja pola „aktualizacja"
     export LC_ALL=pl_PL.UTF-8
     aktualizacja=$(date +"%a, %d %b %Y, %H:%M UTC%:::z")
-    sed -i '/! Aktualizacja:/c\'"! Aktualizacja: $aktualizacja" $i
+    sed -i "s|@aktualizacja|$aktualizacja|g" $i
     
     # Aktualizacja sumy kontrolnej
     # Założenie: kodowanie UTF-8 i styl końca linii Unix
