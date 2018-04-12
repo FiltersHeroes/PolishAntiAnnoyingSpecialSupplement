@@ -9,6 +9,7 @@
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||pionki24.pl/images/index_r.png
+||police24.pl/templates/zp24/images/livemarks.png
 ||purepc.pl/skin/m_rs.png
 ||rmf24.pl/s/classic/ikony@2x.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
