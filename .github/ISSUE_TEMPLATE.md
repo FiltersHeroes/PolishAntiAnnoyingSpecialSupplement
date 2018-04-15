@@ -5,7 +5,12 @@ Dziękujemy za zgłoszenie do Polskich Filtrów RSS!
 ### Typ elementu/problemu
 <!--
 Co mamy schować, zablokować albo w czym jest problem, może pojawił się jakiś błąd?
+Proszę wstawić x pomiędzy znakami [] obok typu/typów, którego/których to zgłoszenie dotyczy,
 -->
+- [] błąd
+- [] pytanie
+- [] ulepszenie
+- [] widżet
 
 ### Moja konfiguracja
 **Przeglądarka internetowa:** 
