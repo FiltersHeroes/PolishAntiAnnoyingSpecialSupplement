@@ -1,6 +1,7 @@
-/feed.png$domain=marcinmazurek.com.pl|booklips.pl
+/feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl
 /ico_rss.
 /rss.png
+/rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
