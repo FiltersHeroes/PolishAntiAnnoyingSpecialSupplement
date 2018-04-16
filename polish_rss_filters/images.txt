@@ -4,10 +4,13 @@
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
+||bip.warszawa.pl/UMBIP/Images/ikona_rss.png
+||bip.warszawa.pl/UMBIP/Images/ikona_rss_info.png
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
 ||filmydokumentalne.eu/wp-content/themes/filmy/images/b_rss.png
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
+||i.racjonalista.pl/img/rssc.gif
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||pionki24.pl/images/index_r.png
 ||police24.pl/templates/zp24/images/livemarks.png
