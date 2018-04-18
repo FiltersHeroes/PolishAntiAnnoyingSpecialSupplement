@@ -16,6 +16,10 @@
 ! Aktualizacja: @aktualizacja
 !
 !
+! ---- GENERAL ELEMENT HIDING RULES --- !
+@include general_hiding
+!
+!
 ! ---- SPECIFIC ELEMENT HIDING RULES --- !
 @include specific_hiding
 !
