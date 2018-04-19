@@ -11,7 +11,7 @@ Znalazłeś błąd, masz propozycje lub chcesz zgłosić stronę? W tym miejscu 
 - Na discordzie: https://discord.gg/SAmsAX2
 
 ## Współtwórcy
-Osoby, które pomogły/pomagają w pracy przy liście.
+Osoby, które pomogły/pomagają w tworzeniu listy.
 
 - RikoDEV
 - hawkeye116477
