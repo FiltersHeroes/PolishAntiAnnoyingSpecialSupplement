@@ -77,10 +77,11 @@ slomski.us###text-4
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 stosunki-miedzynarodowe.pl##.art-rss-tag-icon
+tvn24.pl##.rbox
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
-ugotuj.to,anetaduk.com,epremki.com##.fa-rss
+ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu##.fa-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl##.feed
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
