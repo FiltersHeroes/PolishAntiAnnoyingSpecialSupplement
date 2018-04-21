@@ -1,2 +1,3 @@
 pl##.rss
 pl##.fa-rss
+pl##.fa-rss-square
