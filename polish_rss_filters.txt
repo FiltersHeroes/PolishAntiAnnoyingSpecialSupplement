@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: 0vApsxFOctoLLdbEGpLIkw
+! Checksum: 7ZxWkCjqYe83j3VrddbLcQ
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
 ! Codename: RSS
 ! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 ! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-! Last modified: Sat, 21 Apr 2018, 14:17 UTC+02 
-! Version: 201804211417
+! Last modified: Sat, 21 Apr 2018, 14:20 UTC+02 
+! Version: 201804211420
 ! Expires: 3 days
 ! Support:
 !   Discord => http://ds.certyficate.it
 !   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2018 Polish Filters Team
-! Aktualizacja: sob, 21 kwi 2018, 14:17 UTC+02
+! Aktualizacja: sob, 21 kwi 2018, 14:20 UTC+02
 !
 !
 ! ---- GENERAL ELEMENT HIDING RULES --- !
@@ -102,6 +102,7 @@ slomski.us###text-4
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 stosunki-miedzynarodowe.pl##.art-rss-tag-icon
+tvn24.pl##.rbox
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
