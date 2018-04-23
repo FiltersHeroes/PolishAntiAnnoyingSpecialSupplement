@@ -43,6 +43,7 @@ kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 korso.pl##a[href="http://www.korso.pl/rss"]
+kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kwadratowyswiat.pl##.bradius-fifty.trns-normal.rs.sicon
 manjaro.pl###text-3
