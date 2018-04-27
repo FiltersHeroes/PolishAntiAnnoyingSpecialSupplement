@@ -32,6 +32,7 @@ forum.unturned.pl##a[href="forums/-/index.rss"]
 fotoblogia.pl##.link-rss
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
+godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 gospodarkapodkarpacka.pl###rssBaner
 histmag.org##.sidebar > div:nth-of-type(9)
 inwestycje.pl##.ico-foot-rss
