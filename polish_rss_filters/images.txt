@@ -21,4 +21,5 @@
 ||sandecja.org/templates/default/images/rss.gif
 ||sps24.pl/media/desktop/rss.swf
 ||suwalki24.pl/site/gfx/social/rss_big.png
+||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
