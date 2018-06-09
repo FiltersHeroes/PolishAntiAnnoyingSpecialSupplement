@@ -27,6 +27,7 @@ energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##[href="/rss"]
 farmer.pl##.greyBox
+film.com.pl,smaki.pl##.stay-updated
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
 forum.archlinux.org.pl###feedlinks
 forum.linuxmint.pl###button_rss
@@ -102,7 +103,7 @@ wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 webinsider.pl##.fa-feed
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
-wprost.pl##.soc-buttons, .rss-button
+wprost.pl##.soc-buttons
 wschodnik.pl##.icon-rss
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
