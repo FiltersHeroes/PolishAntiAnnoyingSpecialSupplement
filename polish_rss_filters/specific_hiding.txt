@@ -18,8 +18,7 @@ czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl##.subbelka > ul > li:nth-of-type(6)
-dobreprogramy.pl##.no-mobile.block:nth-of-type(7)
-dobreprogramy.pl##[href="#rssModal"]
+dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
