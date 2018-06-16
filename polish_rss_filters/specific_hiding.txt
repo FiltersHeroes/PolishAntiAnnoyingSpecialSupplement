@@ -100,7 +100,7 @@ tvn24.pl##.rbox
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
-ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,tvpolsat.info##.fa-rss
+ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info##.fa-rss
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl##.feed
