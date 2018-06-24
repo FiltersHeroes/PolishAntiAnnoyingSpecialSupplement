@@ -30,6 +30,7 @@ farmer.pl##.greyBox
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
+forumsamochodowe.pl##.rsslink
 forum.archlinux.org.pl###feedlinks
 forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href^="http://www.forum.paramythology.pl/misc.php"]
