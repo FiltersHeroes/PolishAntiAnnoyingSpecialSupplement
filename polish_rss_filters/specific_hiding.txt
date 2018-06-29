@@ -17,6 +17,7 @@ crazynauka.pl###text-5
 czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
+digitalassets.pl##.feed-link-wrap
 di.com.pl##.subbelka > ul > li:nth-of-type(6)
 dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
