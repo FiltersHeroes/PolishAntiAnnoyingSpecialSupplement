@@ -13,6 +13,7 @@ biznesalert.pl##.social.row > .col-md-4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
+comparic.pl###menu-item-264018
 crazynauka.pl###text-5
 czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
