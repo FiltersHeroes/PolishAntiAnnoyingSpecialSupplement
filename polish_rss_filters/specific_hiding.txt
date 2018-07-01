@@ -10,6 +10,7 @@ bazatelefonow.pl###rightpane > div:nth-of-type(1)
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
 biznesalert.pl##.social.row > .col-md-4
+blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
@@ -60,6 +61,7 @@ korso.pl##a[href="http://www.korso.pl/rss"]
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kwadratowyswiat.pl##.bradius-fifty.trns-normal.rs.sicon
+kwestiasmaku.com###block-block-16
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marucha.wordpress.com###text-13
