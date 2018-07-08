@@ -14,6 +14,7 @@ blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
+centrum.fm##.rss
 comparic.pl###menu-item-264018
 crazynauka.pl###text-5
 czasdzieci.pl##.atom
