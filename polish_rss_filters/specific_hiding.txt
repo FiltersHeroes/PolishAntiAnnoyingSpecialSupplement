@@ -100,6 +100,7 @@ slomski.us###text-4
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 stosunki-miedzynarodowe.pl##.art-rss-tag-icon
+tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 tvn24.pl##.rbox
 twoje-seriale.pl##.Syn > ul
