@@ -78,6 +78,7 @@ ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl###rss_icon
 policja.pl###social > li:nth-of-type(1)
 polsatsport.pl##.ico-rss
+porozmawiajmyoit.pl##.buzz_rss
 powrotroberta.blogspot.co.uk##.feed-links
 praca.policja.pl##li:nth-of-type(1) > h2
 praca.policja.pl###social > li:nth-of-type(1)
@@ -102,6 +103,7 @@ sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .head
 stosunki-miedzynarodowe.pl##.art-rss-tag-icon
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
+telko.in##.social li:nth-of-type(3)
 tvn24.pl##.rbox
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
