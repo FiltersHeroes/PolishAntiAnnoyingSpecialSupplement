@@ -1,8 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
-tvpogranicze.pl##.sbuttons > li:nth-child(3)
-kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 anyforum.pl##.rs.sicon
@@ -19,6 +16,7 @@ bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
 centrum.fm##.rss
 comparic.pl###menu-item-264018
+copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
 czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
@@ -61,6 +59,7 @@ joomla.pl,testhub.pl##.icon-feed
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
+kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 korso.pl##a[href="http://www.korso.pl/rss"]
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
@@ -108,6 +107,7 @@ tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telko.in##.social li:nth-of-type(3)
 tvn24.pl##.rbox
+tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
