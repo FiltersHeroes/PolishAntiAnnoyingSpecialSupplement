@@ -95,6 +95,7 @@ rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column:nth-of-type(6) > h3
 rynekaptek.pl##.box > .bordered
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
+sadownictwo.com.pl###socialBox > a:nth-child(6)
 silesiasem.pl###text-6
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
 sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
