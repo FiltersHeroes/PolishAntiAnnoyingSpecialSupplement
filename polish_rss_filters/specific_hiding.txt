@@ -23,6 +23,7 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl##.subbelka > ul > li:nth-of-type(6)
+dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
 egospodarka.pl##.ego-ico4
@@ -69,6 +70,7 @@ majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
+mmorpg.org.pl##.footer__top > .socials > [href^="/rss"]
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
@@ -125,5 +127,5 @@ wschodnik.pl##.icon-rss
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zarabiamykase.com.pl###sfsi-widget-2
-zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box 
+zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)

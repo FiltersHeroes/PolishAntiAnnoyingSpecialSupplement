@@ -1,4 +1,4 @@
-/feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl
+/feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl|cdtracker.co.pl
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
