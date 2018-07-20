@@ -124,6 +124,7 @@ wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 webinsider.pl##.fa-feed
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
 wprost.pl##.soc-buttons
+wroclaw.pl##.ck_mobile_social_icon_8
 wschodnik.pl##.icon-rss
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
