@@ -110,6 +110,7 @@ stosunki-miedzynarodowe.pl##.art-rss-tag-icon
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telko.in##.social li:nth-of-type(3)
+thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > [href="http://www.thenews.pl/rss"]
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
