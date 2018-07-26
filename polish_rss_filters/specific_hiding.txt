@@ -28,7 +28,6 @@ dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
-electro-torrent.pl###left-side-2:nth-of-type(4)
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##[href="/rss"]
