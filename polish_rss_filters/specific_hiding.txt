@@ -1,7 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
-channel9.msdn.com##.rss
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 anyforum.pl##.rs.sicon
@@ -17,6 +15,7 @@ blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
 centrum.fm##.rss
+channel9.msdn.com##.rss
 comparic.pl###menu-item-264018
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
@@ -30,6 +29,7 @@ dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
+emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##[href="/rss"]
