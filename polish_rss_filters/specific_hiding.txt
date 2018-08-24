@@ -82,6 +82,7 @@ niezatapialni.com###text-5
 onetech.pl###social
 ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl###rss_icon
+planszowkiwedwoje.pl###HTML7 > .title, [href^="http://planszowki.blogspot.com/feeds/posts/default"]
 policja.pl###social > li:nth-of-type(1)
 polsatsport.pl##.ico-rss
 porozmawiajmyoit.pl##.buzz_rss
