@@ -12,6 +12,7 @@ bergenpol.com##.subscribe_me
 biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
+bonavita.pl##.jumplist-rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 cashless.pl##.item-184
 centrum.fm##.rss
