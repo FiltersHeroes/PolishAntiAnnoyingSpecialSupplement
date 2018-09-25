@@ -34,6 +34,7 @@ emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##[href="/rss"]
+exsites.pl##a[title="RSS"]
 farmer.pl##.greyBox
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
@@ -83,6 +84,7 @@ nask.pl##li:nth-of-type(4) > .icon-kropka
 naszpradnik.pl##.menu-social-feed
 niebezpiecznik.pl###text-3 > .textwidget > p, .feed
 niezatapialni.com###text-5
+ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 onetech.pl###social
 ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl###rss_icon
