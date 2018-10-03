@@ -17,6 +17,7 @@ bosch-prasa.pl##.WitrynaBoxRssSubscribe
 bydgoszcz.com##[href="https://www.bydgoszcz.com/rss"]
 cashless.pl##.item-184
 centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu##.rss
+chceauto.pl##.soc01 > [href="/rss/art.php"]
 comparic.pl###menu-item-264018
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
