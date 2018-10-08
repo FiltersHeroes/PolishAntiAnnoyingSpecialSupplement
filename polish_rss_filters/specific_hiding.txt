@@ -74,6 +74,7 @@ kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kwadratowyswiat.pl##.bradius-fifty.trns-normal.rs.sicon
 kwestiasmaku.com###block-block-16
+lookcam.com##li:nth-of-type(4) > [href="/rss/"]
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marucha.wordpress.com###text-13
@@ -89,7 +90,7 @@ niezatapialni.com###text-5
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 onetech.pl###social
 ozonowanie-powietrza.pl##.art-rss-tag-icon
-pcfaq.pl###rss_icon
+pcfaq.pl,lookcam.com###rss_icon
 planszowkiwedwoje.pl###HTML7 > .title, [href^="http://planszowki.blogspot.com/feeds/posts/default"]
 policja.pl###social > li:nth-of-type(1)
 polsatsport.pl##.ico-rss
