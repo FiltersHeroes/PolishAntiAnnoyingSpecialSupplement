@@ -113,6 +113,7 @@ sadownictwo.com.pl###socialBox > a:nth-child(6)
 silesiasem.pl###text-6
 skijumping.pl###addition-menu > a:last-child
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
+slawomirambroziak.pl##a[href="https://slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
