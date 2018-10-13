@@ -83,6 +83,7 @@ miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mmorpg.org.pl##.footer__top > .socials > [href^="/rss"]
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mynaszlaku.pl##.socicon-rss
+nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszpradnik.pl##.menu-social-feed
