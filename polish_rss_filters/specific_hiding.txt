@@ -56,6 +56,7 @@ gospodarkapodkarpacka.pl###rssBaner
 histmag.org##.sidebar > div:nth-of-type(9)
 igol.pl##[href="https://igol.pl/feed/"]
 imagazine.pl###text-402422664
+instalki.pl###menu_right > [href="https://feeds.feedburner.com/Instalki"]
 in4.pl##div.sidebar-block:nth-of-type(7)
 inwestycje.pl##.ico-foot-rss
 ip.pl##.boxyfoot:nth-of-type(4)
