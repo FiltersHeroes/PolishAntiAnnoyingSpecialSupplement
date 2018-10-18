@@ -96,6 +96,7 @@ ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl,lookcam.com###rss_icon
 planszowkiwedwoje.pl###HTML7 > .title, [href^="http://planszowki.blogspot.com/feeds/posts/default"]
 policja.pl###social > li:nth-of-type(1)
+polsatnews.pl##.nav__item--rss
 polsatsport.pl##.ico-rss
 porozmawiajmyoit.pl##.buzz_rss
 powrotroberta.blogspot.co.uk##.feed-links
