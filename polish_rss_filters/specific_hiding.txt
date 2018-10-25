@@ -39,6 +39,7 @@ eurogamer.pl##[href="/rss"]
 exsites.pl##a[title="RSS"]
 farmer.pl##.greyBox
 film.com.pl,smaki.pl##.stay-updated
+fitness.wp.pl##.footer-data__social
 florydziak.com###float_feed_box
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
 forumsamochodowe.pl##.rsslink
