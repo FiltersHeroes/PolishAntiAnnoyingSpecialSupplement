@@ -65,6 +65,7 @@ iwanowice.pl##.rss-wrapper
 joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
+katowice24.info##.rst-list-social > li:nth-of-type(4)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
