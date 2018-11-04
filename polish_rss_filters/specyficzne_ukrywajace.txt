@@ -139,7 +139,7 @@ twoje-seriale.pl##.Syn > ul
 tygodnikoko.pl##[href="http://www.tygodnikoko.pl/rss"]
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
-ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info##.fa-rss
+ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info,radio.opole.pl##.fa-rss
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl##.feed

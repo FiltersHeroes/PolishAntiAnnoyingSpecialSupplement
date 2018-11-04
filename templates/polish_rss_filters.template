@@ -16,14 +16,13 @@
 ! Aktualizacja: @aktualizacja
 !
 !
-! ---- GENERAL ELEMENT HIDING RULES --- !
-@include general_hiding
+! Specyficzne reguły ukrywające
+@include specyficzne_ukrywajace
 !
 !
-! ---- SPECIFIC ELEMENT HIDING RULES --- !
-@include specific_hiding
+! Specyficzne reguły blokujące
+@include specyficzne_blokujace
 !
 !
-! ---- IMAGES --- !
-@include images
-
+! Ogólne reguły ukrywające
+@include ogolne_ukrywajace
