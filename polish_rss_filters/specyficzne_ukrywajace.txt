@@ -27,6 +27,7 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl##.subbelka > ul > li:nth-of-type(6)
+djoles.com,telepolis.pl,wschodnik.pl##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
@@ -149,7 +150,6 @@ webinsider.pl##.fa-feed
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
-wschodnik.pl,telepolis.pl##.icon-rss
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zarabiamykase.com.pl###sfsi-widget-2
