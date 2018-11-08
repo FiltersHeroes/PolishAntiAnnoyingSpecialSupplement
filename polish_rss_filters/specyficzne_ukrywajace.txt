@@ -3,6 +3,7 @@
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
+krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
