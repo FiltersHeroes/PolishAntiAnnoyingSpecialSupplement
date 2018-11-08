@@ -2,7 +2,6 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
-bialoleka.waw.pl##.rss_ul
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
@@ -11,6 +10,7 @@ banzaj.pl###foot_monika
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
+bialoleka.waw.pl##.rss_ul
 biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
