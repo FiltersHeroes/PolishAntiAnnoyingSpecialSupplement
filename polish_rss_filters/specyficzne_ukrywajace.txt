@@ -1,7 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
-limanowa.in##.icons > .rss
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
@@ -80,6 +79,7 @@ kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kwadratowyswiat.pl##.bradius-fifty.trns-normal.rs.sicon
 kwestiasmaku.com###block-block-16
+limanowa.in##.icons > .rss
 lookcam.com##li:nth-of-type(4) > [href="/rss/"]
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
