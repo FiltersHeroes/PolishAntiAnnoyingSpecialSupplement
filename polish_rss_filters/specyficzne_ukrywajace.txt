@@ -1,6 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -24,6 +23,7 @@ chceauto.pl##.soc01 > [href="/rss/art.php"]
 comparic.pl###menu-item-264018
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
+croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
 czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
