@@ -1,7 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
-insert.com.pl##li:nth-of-type(1) > .info-channel
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
@@ -61,6 +60,7 @@ histmag.org##.sidebar > div:nth-of-type(9)
 igol.pl##[href="https://igol.pl/feed/"]
 imagazine.pl###text-402422664
 in4.pl##div.sidebar-block:nth-of-type(7)
+insert.com.pl##li:nth-of-type(1) > .info-channel
 instalki.pl###menu_right > [href="https://feeds.feedburner.com/Instalki"]
 inwestycje.pl##.ico-foot-rss
 ip.pl##.boxyfoot:nth-of-type(4)
