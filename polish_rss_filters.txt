@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: yaq/pqhm95fh9BoTR5kaog
+! Checksum: e2WmLVGDWiM3jX4FF2qhRw
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
 ! Codename: RSS
 ! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 ! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-! Last modified: Thu, 15 Nov 2018, 14:43 UTC+01
-! Version: 201811151443
+! Last modified: Thu, 15 Nov 2018, 14:51 UTC+01
+! Version: 201811151451
 ! Expires: 7 days
 ! Support:
 !   Discord => http://ds.certyficate.it
 !   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2018 Polish Filters Team
-! Aktualizacja: czw, 15 lis 2018, 14:43 UTC+01
+! Aktualizacja: czw, 15 lis 2018, 14:51 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -76,6 +76,7 @@ gemius.pl##.btn-tools-rss
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 gospodarkapodkarpacka.pl###rssBaner
 histmag.org##.sidebar > div:nth-of-type(9)
+hokej.net##.social-rss
 igol.pl##[href="https://igol.pl/feed/"]
 imagazine.pl###text-402422664
 in4.pl##div.sidebar-block:nth-of-type(7)
