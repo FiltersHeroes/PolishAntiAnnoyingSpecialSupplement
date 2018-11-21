@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
+prawnikdlakonsumenta.pl##.s_rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
@@ -153,7 +154,10 @@ utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl##.feed
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
-warunki-zabudowy.com.pl###s_rss
+
+leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,prawodlalekarza.pl,podatki-dla-prawnika.pl,rejestracjaspolkiwdelaware.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl,pozeworozwodblog.pl###s_rss
+bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,zparagrafemnajedwabnymszlaku.pl##.s_rss
+
 webinsider.pl##.fa-feed
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
 wprost.pl##.soc-buttons
