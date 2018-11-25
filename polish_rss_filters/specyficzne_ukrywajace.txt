@@ -30,7 +30,7 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl##.subbelka > ul > li:nth-of-type(6)
-djoles.com,telepolis.pl,wschodnik.pl##.icon-rss
+djoles.com,telepolis.pl,wschodnik.pl,tlp.is##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dzeta.com.pl###block-node-syndicate
