@@ -2,7 +2,6 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
-sfinks.pl##.feed-rss, .feed-rss-link
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
@@ -132,6 +131,7 @@ rmf.fm##.new-footer-column:nth-of-type(6) > h3
 rynekaptek.pl##.box > .bordered
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 sadownictwo.com.pl###socialBox > a:nth-child(6)
+sfinks.pl##.feed-rss, .feed-rss-link
 silesiasem.pl###text-6
 skijumping.pl###addition-menu > a:last-child
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
