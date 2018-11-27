@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
+sfinks.pl##.feed-rss, .feed-rss-link
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
