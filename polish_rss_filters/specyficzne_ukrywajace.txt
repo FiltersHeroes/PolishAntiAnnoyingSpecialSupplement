@@ -4,7 +4,6 @@ agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
-kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 astronomia24.com##.smGlobalBtn.rssBtn
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,zparagrafemnajedwabnymszlaku.pl##.s_rss
@@ -76,6 +75,7 @@ joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 katowice24.info##.rst-list-social > li:nth-of-type(4)
+kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
