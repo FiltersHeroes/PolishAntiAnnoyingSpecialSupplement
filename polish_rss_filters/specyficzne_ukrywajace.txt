@@ -3,7 +3,6 @@
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
-filmozercy.com##.c-panel-social__item--rss
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
@@ -44,6 +43,7 @@ epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##a[href="/rss"]
 exsites.pl##a[title="RSS"]
 farmer.pl##.greyBox
+filmozercy.com##.c-panel-social__item--rss
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
