@@ -1,7 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
-doosanbabcock.com##.btn_rss
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
@@ -34,6 +33,7 @@ di.com.pl##.subbelka > ul > li:nth-of-type(6)
 djoles.com,telepolis.pl,wschodnik.pl,tlp.is##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
+doosanbabcock.com##.btn_rss
 dzeta.com.pl###block-node-syndicate
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
