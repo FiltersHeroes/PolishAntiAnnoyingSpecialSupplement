@@ -5,7 +5,6 @@ alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
-korr.pl##a[href^="/?format=feed&type=rss"]
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,zparagrafemnajedwabnymszlaku.pl##.s_rss
 banzaj.pl###foot_monika
@@ -82,6 +81,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
+korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
 korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 korso.pl##a[href="http://www.korso.pl/rss"]
