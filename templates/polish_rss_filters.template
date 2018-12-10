@@ -9,7 +9,7 @@
 ! Version: @wersja
 ! Expires: 7 days
 ! Support:
-!   Discord => http://ds.certyficate.it
+!   Discord => https://discord.me/polskiefiltry
 !   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2018 Polish Filters Team
@@ -26,3 +26,7 @@
 !
 ! Ogólne reguły ukrywające
 @include ogolne_ukrywajace
+!
+!
+! Dodatkowe reguły dla uBO & AG
+!#include polish_rss_filters/supplement.txt
