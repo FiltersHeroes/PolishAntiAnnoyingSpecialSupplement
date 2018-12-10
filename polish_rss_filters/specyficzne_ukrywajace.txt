@@ -170,7 +170,6 @@ wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
-wsqn.pl#$#.extralight-border { border: none !important; }
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zarabiamykase.com.pl###sfsi-widget-2

@@ -1,0 +1,1 @@
+wsqn.pl##.extralight-border:style(border: none !important;) 
