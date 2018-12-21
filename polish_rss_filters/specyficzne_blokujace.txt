@@ -8,7 +8,6 @@
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss_info.png
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
-||filmydokumentalne.eu/wp-content/themes/filmy/images/b_rss.png
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||i.racjonalista.pl/img/rssc.gif
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
