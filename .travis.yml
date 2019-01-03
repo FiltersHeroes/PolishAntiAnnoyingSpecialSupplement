@@ -9,6 +9,7 @@ notifications:
     on_failure: always
 script:
 - "./scripts/VICHS_auto.sh"
+language: bash
 env:
   global:
     secure: V58XDA4znQGFIuzZ7+LZvNyRIrdvdPl8251sg3Q6PGPhf2hKpf0cUMerWCo5dowsWa9kqKt4ZnTwas0xYZ/0HcgPxrt+aPcjvWwu59uhY75rEdfEZuYNTCyNP9b2W/uHCue/3sltM1RcF36IDMm8qrSdRaRv6eFiuCtLK1MxqwCh+ZgqFBVr8btLLirODAonAA8H204MD4U+P6NycbGxF9Dj4/IU7qRbJwB45f0eySWoPNikopkXlI4nxDyxJ0aEvAb9gsg1aE0OUoEs/Yz2nivW/EF3gOdZ5X2f84WK6wwAXQXslJ2rn2d+8tR+RmI7lHiM8ECgm3zhM6UvK4FBQ3GW3126dPLKLNX164uXFsV8xAmdvlYiIrxYsTTQ6hUEZWVmlDC55+QHsde7m3+gT/LA2JyNBkxcONiMoSwCeyt6SO1eDV7hz5vBvsql9wo57/2NeVxsp1msKTSsLiu5fL/eWTPiRUEyjSEhPFFgXM/0lnmEnvPgi6C1eIqOuqmkYwWgr+tEz08FMpsKXcSvfiHDhUmBE+t/6BOQiTEv6h6Ge5KVXd+pWXeCTBE2qpsO1MMiBGB5HudlACRoPNV2S/wFWz/iHkQhMVYi3BHXfO+zQFRrRgVFhxG5tV/lZBisFBjX3suIdE6imBMjp0GTyR7vw+uNvms5H5zQSBfgq+Y=
