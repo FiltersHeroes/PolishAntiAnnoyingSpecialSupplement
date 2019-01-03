@@ -20,4 +20,6 @@ if [[ "$ost_plik" == "polish_rss_filters"* ]]; then
     fi
 if
 
-$sciezka/VICHS.sh $lista
+if [ "$lista" ] ; then
+    $sciezka/VICHS.sh $lista
+fi
