@@ -1,5 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+sp4.pisz.pl##.er-rss-tag-icon
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -112,7 +113,7 @@ niezatapialni.com###text-5
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
 onetech.pl###social
-ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl##.art-rss-tag-icon
+ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,adex.pisz.pl##.art-rss-tag-icon
 pcfaq.pl,lookcam.com###rss_icon
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 policja.pl###social > li:nth-of-type(1)
