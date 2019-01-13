@@ -2,7 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
-dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(-n+2)dziennikwschodni.pl
+dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
