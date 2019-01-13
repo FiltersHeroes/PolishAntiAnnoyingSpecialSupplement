@@ -2,7 +2,6 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
-dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
@@ -36,6 +35,7 @@ dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 doosanbabcock.com##.btn_rss
 dzeta.com.pl###block-node-syndicate
+dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
