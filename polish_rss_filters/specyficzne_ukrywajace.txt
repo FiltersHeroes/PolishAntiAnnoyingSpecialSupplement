@@ -155,7 +155,7 @@ tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
-telko.in##.social li:nth-of-type(3)
+telko.in##a[data-tip="Kanał RSS TELKO.in"]
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
