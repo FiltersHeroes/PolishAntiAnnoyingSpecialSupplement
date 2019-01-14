@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
+kozienice24.pl##img[src="images/index_r.png"]
 altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 paczkow.pl##.rss-linkl
