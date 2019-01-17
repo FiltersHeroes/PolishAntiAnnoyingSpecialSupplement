@@ -185,4 +185,5 @@ wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zarabiamykase.com.pl###sfsi-widget-2
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
+zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
