@@ -1,7 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
-gpw.pl##a[href="/_rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -66,6 +65,7 @@ geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 gospodarkapodkarpacka.pl###rssBaner
+gpw.pl##a[href="/_rss"]
 hardcorowo.pl###rssLink
 histmag.org##.sidebar > div:nth-of-type(9)
 hokej.net##.social-rss
