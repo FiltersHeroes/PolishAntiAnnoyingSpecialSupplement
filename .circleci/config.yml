@@ -1,0 +1,20 @@
+version: 2
+jobs:
+  build:
+    docker:
+    - image: hawkeye116477/pft:latest
+    steps:
+    - checkout
+    - run: ./scripts/VICHS_auto.sh
+workflows:
+  version: 2
+  workflow:
+    triggers:
+    - schedule:
+        cron: 55 23 * * Sun
+        filters:
+          branches:
+            only:
+            - master
+    jobs:
+    - build
