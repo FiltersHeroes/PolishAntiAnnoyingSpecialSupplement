@@ -11,7 +11,7 @@ workflows:
   workflow:
     triggers:
     - schedule:
-        cron: 55 23 * * Sun
+        cron: 55 23 * * 0
         filters:
           branches:
             only:
