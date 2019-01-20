@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 aliholik.pl###text-12
+intibs.pl##.social.custom > ul > li:nth-of-type(3)
 goleniow.pl##.menu > .item7
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
