@@ -191,3 +191,4 @@ zarabiamykase.com.pl###sfsi-widget-2
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
+bosch-do-it.com##.footerSocialText, .sprite_rss
