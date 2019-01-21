@@ -14,7 +14,7 @@ else
 fi
 
 
-if [[ "$ost_plik" == "polish_rss_filters"* ]]; then
+if [[ "$ost_plik" == *"polish_rss_filters"* ]]; then
     if [[ "$lista" != *" polish_rss_filters.txt"* ]] ;then
         lista+=" "polish_rss_filters.txt
     fi
