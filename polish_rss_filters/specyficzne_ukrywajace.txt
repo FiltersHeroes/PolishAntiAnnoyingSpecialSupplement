@@ -176,7 +176,7 @@ ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .drop
 ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info,radio.opole.pl##.fa-rss
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
-videoquality.pl##.feed
+videoquality.pl,cad-akademia.pl##.feed
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 webinsider.pl##.fa-feed
