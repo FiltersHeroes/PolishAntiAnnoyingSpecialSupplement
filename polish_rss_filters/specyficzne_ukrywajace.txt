@@ -23,7 +23,7 @@ bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cashless.pl##.item-184
-centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu##.rss
+centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu,radiomalbork.fm##.rss
 ch24.pl##.social > li:nth-of-type(4)
 chceauto.pl##.soc01 > a[href="/rss/art.php"]
 comparic.pl###menu-item-264018
