@@ -3,6 +3,7 @@
 agora.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
+ec.europa.eu###top_media > ul > .rss
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 toiowo.eu###gk-rss
 altair.com.pl##.icoRSS
