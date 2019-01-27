@@ -3,8 +3,8 @@
 agora.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
-miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5)
-miedzyrzecz.biz##.td-social-list > .td_social_rss.td_social_type
+miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
+
 ec.europa.eu###top_media > ul > .rss
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 toiowo.eu###gk-rss
