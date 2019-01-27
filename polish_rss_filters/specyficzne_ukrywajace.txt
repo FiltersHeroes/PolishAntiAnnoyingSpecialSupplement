@@ -182,7 +182,7 @@ utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl,cad-akademia.pl##.feed
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
-webinsider.pl##.fa-feed
+webinsider.pl,zuch.media##.fa-feed
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
 wprost.pl##.soc-buttons
