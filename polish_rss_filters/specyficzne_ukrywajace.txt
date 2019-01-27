@@ -3,13 +3,7 @@
 agora.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
-miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
-
-ec.europa.eu###top_media > ul > .rss
-zuch.media##.fw-footer-social > a:nth-of-type(4)
-toiowo.eu###gk-rss
 altair.com.pl##.icoRSS
-korsokolbuszowskie.pl##.sbuttons > li:nth-of-type(7)
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
@@ -46,6 +40,7 @@ doosanbabcock.com##.btn_rss
 dzeta.com.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
+ec.europa.eu###top_media > ul > .rss
 egospodarka.pl##.ego-ico4
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
@@ -101,6 +96,7 @@ kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
+korsokolbuszowskie.pl##.sbuttons > li:nth-of-type(7)
 korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 korso.pl##a[href="http://www.korso.pl/rss"]
 kozienice24.pl##img[src="images/index_r.png"]
@@ -117,6 +113,7 @@ majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
+miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mmorpg.org.pl##.footer__top > .socials > a[href^="/rss"]
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
@@ -166,6 +163,7 @@ slomski.us###text-4
 sp4.pisz.pl##.er-rss-tag-icon
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
+stanprawnynieruchomosci.pl###rss
 szkolymedyczne.eu###topbar
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
@@ -173,6 +171,7 @@ telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
+toiowo.eu###gk-rss
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
@@ -200,4 +199,4 @@ zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
-stanprawnynieruchomosci.pl###rss
+zuch.media##.fw-footer-social > a:nth-of-type(4)
