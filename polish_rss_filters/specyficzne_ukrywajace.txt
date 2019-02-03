@@ -1,20 +1,14 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-barbelo.com.pl###topmenuright > li:nth-of-type(1)
-podkasty.info##.social > li:nth-of-type(1)
-gminasiedlce.pl##a[href^="/?rss"]
 agora.pl##a[href^="/rss"]
-sdk.pl##.rssocial-icons > li:nth-of-type(6)
 aliholik.pl###text-12
-um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
-radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 anyforum.pl##.rs.sicon
-www.freestyle.pl###rss-link
 astronomia24.com##.smGlobalBtn.rssBtn
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
 banzaj.pl###foot_monika
+barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
@@ -72,6 +66,7 @@ gbpizs.gov.pl##.ikona-menu.bip-rss
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
+gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 goleniow.pl##.menu > .item7
 gospodarkapodkarpacka.pl###rssBaner
@@ -94,6 +89,7 @@ iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
+kadantiscam.netlify.com##.rss
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
@@ -139,6 +135,7 @@ ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,adex.pisz.pl
 paczkow.pl##.rss-linkl
 pcfaq.pl,lookcam.com###rss_icon
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
+podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
 polsatsport.pl,twojapogoda.pl##.ico-rss
@@ -150,6 +147,7 @@ programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 pswbp.pl##.module-content > a[href^="/index.php/pl"]
 purepc.pl##.foot_03
+radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href="http://www.radiosochaczew.pl/rss/"]
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
@@ -158,6 +156,7 @@ rmf.fm##.new-footer-column:nth-of-type(6) > h3
 rynekaptek.pl##.box > .bordered
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 sadownictwo.com.pl###socialBox > a:nth-child(6)
+sdk.pl##.rssocial-icons > li:nth-of-type(6)
 sfinks.pl##.feed-rss, .feed-rss-link
 silesiasem.pl###text-6
 skijumping.pl###addition-menu > a:last-child
@@ -185,6 +184,7 @@ tygodnikoko.pl##a[href="http://www.tygodnikoko.pl/rss"]
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info,radio.opole.pl##.fa-rss
+um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 videoquality.pl,cad-akademia.pl##.feed
@@ -197,6 +197,7 @@ wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
+www.freestyle.pl###rss-link
 www.pila.pl##.rss_link
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
@@ -205,4 +206,3 @@ zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
-kadantiscam.netlify.com##.rss
