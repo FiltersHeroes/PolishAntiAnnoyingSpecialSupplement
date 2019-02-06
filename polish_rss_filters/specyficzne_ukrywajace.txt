@@ -1,5 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img 
 agora.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
