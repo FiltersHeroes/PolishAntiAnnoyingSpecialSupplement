@@ -1,8 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img 
 agora.pl##a[href^="/rss"]
-pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -27,6 +25,7 @@ centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu,radiomalbork.fm##.rss
 ch24.pl##.social > li:nth-of-type(4)
 chceauto.pl##.soc01 > a[href="/rss/art.php"]
 comparic.pl###menu-item-264018
+consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img 
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
 croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
@@ -136,6 +135,7 @@ onetech.pl###social
 ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,adex.pisz.pl##.art-rss-tag-icon
 paczkow.pl##.rss-linkl
 pcfaq.pl,lookcam.com###rss_icon
+pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
