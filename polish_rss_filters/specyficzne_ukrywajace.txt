@@ -1,6 +1,7 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
+gazeo.pl##.rss-blue
 astronomia24.com##a[href="news_rss.php"]
 xn--bolesawiec-e0b.pl##.syndicate-module.art-rss-tag-icon
 aliholik.pl###text-12
