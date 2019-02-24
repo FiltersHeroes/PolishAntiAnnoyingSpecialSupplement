@@ -1,13 +1,10 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
+adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,mmorpg.org.pl##a[href^="/rss"]
-wronek.wikidot.com##li> img[alt^="rss"]
 aliholik.pl###text-12
-ubucentrum.net##a[href="http://feeds.feedburner.com/BlogOLinuxUbuntu"] > img
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
-wikidot.com,~www.wikidot.com##.feedinfo
 anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
@@ -24,6 +21,7 @@ bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
+cad-akademia.pl,niebezpiecznik.pl,videoquality.pl##.feed
 cashless.pl##.item-184
 centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu,radiomalbork.fm##.rss
 ch24.pl##.social > li:nth-of-type(4)
@@ -134,7 +132,6 @@ oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
 onetech.pl###social
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
-adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 paczkow.pl##.rss-linkl
 pcfaq.pl,lookcam.com###rss_icon
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
@@ -181,24 +178,27 @@ telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 toiowo.eu###gk-rss
+trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
 tygodnikoko.pl##a[href="http://www.tygodnikoko.pl/rss"]
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
+ubucentrum.net##a[href="http://feeds.feedburner.com/BlogOLinuxUbuntu"] > img
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info,radio.opole.pl##.fa-rss
 um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
-cad-akademia.pl,niebezpiecznik.pl,videoquality.pl##.feed
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 webinsider.pl,zuch.media##.fa-feed
+wikidot.com,~www.wikidot.com##.feedinfo
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
+wronek.wikidot.com##li> img[alt^="rss"]
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
 www.freestyle.pl###rss-link
