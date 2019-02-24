@@ -6,6 +6,7 @@ aliholik.pl###text-12
 ubucentrum.net##a[href="http://feeds.feedburner.com/BlogOLinuxUbuntu"] > img
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
+wikidot.com,~www.wikidot.com##.feedinfo
 anyforum.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
