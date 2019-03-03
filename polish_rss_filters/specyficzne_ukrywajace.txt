@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,mmorpg.org.pl##a[href^="/rss"]
+cmrev.com##div.nitem > a[href="/rss.html"]
 aliholik.pl###text-12
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 slaskie.kas.gov.pl###linkRSS
