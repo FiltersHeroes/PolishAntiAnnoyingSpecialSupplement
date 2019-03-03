@@ -1,5 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+marketingprzykawie.pl##li > a[href="/feed/"]
 adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,mmorpg.org.pl##a[href^="/rss"]
 cmrev.com##div.nitem > a[href="/rss.html"]
