@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: 1mud+5hIlTJfC/sgbjImqQ
+! Checksum: sLM4+ZR3ejfcyzbaoTFkCA
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
 ! Codename: RSS
 ! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 ! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-! Last modified: Sun, 03 Mar 2019, 23:25 UTC+00
-! Version: 2019.3.1
+! Last modified: Mon, 04 Mar 2019, 00:55 UTC+01
+! Version: 2019.3.2
 ! Expires: 7 days
 ! Support:
 !   Discord => https://discord.me/polskiefiltry
 !   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2019 Polish Filters Team
-! Aktualizacja: N, 03 mar 2019, 23:25 UTC+00
+! Aktualizacja: pon, 04 mar 2019, 00:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
