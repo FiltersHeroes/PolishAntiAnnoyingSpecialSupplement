@@ -10,6 +10,7 @@ inzynieria.com##.cd-nav-social.list-inline > li:nth-of-type(6), .nav-social-top 
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 aliholik.pl###text-12
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
+korsosanockie.pl##.sbuttons > li:nth-of-type(6)
 slaskie.kas.gov.pl###linkRSS
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
