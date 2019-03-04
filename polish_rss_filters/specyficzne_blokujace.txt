@@ -2,6 +2,7 @@
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
+||mojacukrzyca.org/grafika/logo/20170801/rss.gif
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss.png
