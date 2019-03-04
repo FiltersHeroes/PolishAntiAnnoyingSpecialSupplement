@@ -1,4 +1,5 @@
 /feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl|cdtracker.co.pl
+||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg*$image
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
