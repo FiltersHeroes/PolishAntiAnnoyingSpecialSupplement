@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: sLM4+ZR3ejfcyzbaoTFkCA
+! Checksum: 
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
 ! Codename: RSS
@@ -268,4 +268,4 @@ pl##.rss-button
 !
 !
 ! Dodatkowe reguły dla uBO & AG
-!#include polish_rss_filters/supplement.txt
+!#include polish_rss_filters/suplement.txt
