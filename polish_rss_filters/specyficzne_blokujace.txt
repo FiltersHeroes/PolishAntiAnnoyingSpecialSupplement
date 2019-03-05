@@ -1,9 +1,7 @@
 /feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl|cdtracker.co.pl
-||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg*$image
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
-||mojacukrzyca.org/grafika/logo/20170801/rss.gif
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss.png
@@ -12,8 +10,10 @@
 ||di.com.pl/pic/rss-little.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||i.racjonalista.pl/img/rssc.gif
+||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg*$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
+||mojacukrzyca.org/grafika/logo/20170801/rss.gif
 ||pionki24.pl/images/index_r.png
 ||podsluchane.pl/sdb-rss.png
 ||police24.pl/templates/zp24/images/livemarks.png
