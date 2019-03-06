@@ -4,6 +4,7 @@ adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
+lodzkie.pl##.jj_sl_rss
 altair.com.pl##.icoRSS
 anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
