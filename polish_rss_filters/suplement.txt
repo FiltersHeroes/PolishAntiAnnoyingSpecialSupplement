@@ -1,2 +1,2 @@
-wsqn.pl##.extralight-border:style(border: none !important;)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
+wsqn.pl##.extralight-border:style(border: none !important;)
