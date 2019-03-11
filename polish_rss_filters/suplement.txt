@@ -1,2 +1,2 @@
 wsqn.pl##.extralight-border:style(border: none !important;)
-30minut.pl##+js(remove-attr.js, href, .gora_ikony_nk)
+30minut.pl##+js(remove-attr.js, href, .gora_ikony_rss)
