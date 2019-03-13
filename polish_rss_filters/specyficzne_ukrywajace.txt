@@ -5,6 +5,7 @@ agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
+festiwalbiegowy.pl###block-block-52
 altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"] 
 anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
