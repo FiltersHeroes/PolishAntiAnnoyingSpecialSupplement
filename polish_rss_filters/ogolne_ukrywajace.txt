@@ -1,4 +1,4 @@
-pl##.rss
+pl##.rss:not(.block)
 pl##.fa-rss
 pl##.fa-rss-square
 pl##.rss-button
