@@ -8,6 +8,7 @@ altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"] 
 anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
+autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl##.link-rss
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
@@ -62,7 +63,6 @@ forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href^="http://www.forum.paramythology.pl/misc.php"]
 forum.satkurier.pl###rss_feed
 forum.unturned.pl##a[href="forums/-/index.rss"]
-autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl##.link-rss
 gazeo.pl##.rss-blue
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
 gbpizs.gov.pl##.ikona-menu.bip-rss
