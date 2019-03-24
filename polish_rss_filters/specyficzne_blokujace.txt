@@ -10,7 +10,7 @@
 ||di.com.pl/pic/rss-little.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||i.racjonalista.pl/img/rssc.gif
-||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg*$image
+||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
 ||mojacukrzyca.org/grafika/logo/20170801/rss.gif
