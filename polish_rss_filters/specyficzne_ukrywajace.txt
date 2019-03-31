@@ -1,11 +1,8 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
-straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
-kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"] 
@@ -54,6 +51,7 @@ emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 exsites.pl##a[title="RSS"]
+f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
 farmer.pl##.greyBox
 festiwalbiegowy.pl###block-block-52
 filmozercy.com##.c-panel-social__item--rss
@@ -115,6 +113,7 @@ kozienice24.pl##img[src="images/index_r.png"]
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
+kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
 kwestiasmaku.com###block-block-16
 leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,prawodlalekarza.pl,podatki-dla-prawnika.pl,rejestracjaspolkiwdelaware.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl,pozeworozwodblog.pl,blog-spadkowy.pl,rozwodprzedsiebiorcy.pl###s_rss
 lodzkie.pl##.jj_sl_rss
@@ -180,6 +179,7 @@ sp4.pisz.pl##.er-rss-tag-icon
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 stanprawnynieruchomosci.pl###rss
+straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 szkolymedyczne.eu###topbar
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
