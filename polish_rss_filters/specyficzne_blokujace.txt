@@ -1,5 +1,6 @@
 /feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl|cdtracker.co.pl
 /ico_rss.
+wolnemedia.net##ul > a[href="https://wolnemedia.net/kanaly-rss/"]
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
