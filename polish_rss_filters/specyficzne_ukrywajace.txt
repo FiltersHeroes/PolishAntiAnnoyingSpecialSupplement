@@ -179,7 +179,7 @@ slomski.us###text-4
 sp4.pisz.pl##.er-rss-tag-icon
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
-stanprawnynieruchomosci.pl,gkstychy.info###rss
+gkstychy.info,stanprawnynieruchomosci.pl###rss
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 szkolymedyczne.eu###topbar
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
