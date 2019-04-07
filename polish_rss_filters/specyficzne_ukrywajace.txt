@@ -2,7 +2,6 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
-wolnemedia.net##ul > a[href="https://wolnemedia.net/kanaly-rss/"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -71,6 +70,7 @@ gbpizs.gov.pl##.ikona-menu.bip-rss
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
+gkstychy.info,stanprawnynieruchomosci.pl###rss
 gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 goleniow.pl##.menu > .item7
@@ -179,7 +179,6 @@ slomski.us###text-4
 sp4.pisz.pl##.er-rss-tag-icon
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
-gkstychy.info,stanprawnynieruchomosci.pl###rss
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 szkolymedyczne.eu###topbar
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
@@ -208,6 +207,7 @@ wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .cus
 wikidot.com,~www.wikidot.com##.feedinfo
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href="http://www.wnp.pl/rss/"]
+wolnemedia.net##ul > a[href="https://wolnemedia.net/kanaly-rss/"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li> img[alt^="rss"]

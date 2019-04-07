@@ -1,6 +1,5 @@
 /feed.png$domain=marcinmazurek.com.pl|booklips.pl|dzeta.com.pl|cdtracker.co.pl
 /ico_rss.
-||wolnemedia.net/obrazki/rss-ikona.png
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
@@ -26,3 +25,4 @@
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
+||wolnemedia.net/obrazki/rss-ikona.png
