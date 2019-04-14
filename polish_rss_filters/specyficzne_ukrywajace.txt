@@ -4,7 +4,6 @@ adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
-naszekielce.com##.feed-icon
 altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"]
 anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
@@ -133,6 +132,7 @@ nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 narew.info,tarnowska.tv,naszrynek.pl##.sbuttons > li:nth-of-type(5)
 nask.pl##li:nth-of-type(4) > .icon-kropka
+naszekielce.com##.feed-icon
 naszpradnik.pl##.menu-social-feed
 niebezpiecznik.pl###text-3 > .textwidget > p
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
@@ -142,6 +142,7 @@ onetech.pl###social
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
 paczkow.pl##.rss-linkl
 pcfaq.pl,lookcam.com###rss_icon
+pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 podkasty.info##.social > li:nth-of-type(1)
@@ -224,4 +225,3 @@ zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(2)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
-pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
