@@ -225,3 +225,4 @@ zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(2)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
+wachtyrz.eu###custom_html-7
