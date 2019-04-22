@@ -6,7 +6,7 @@ aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"]
-anyforum.pl,kwadratowyswiat.pl,skyup.pl##.rs.sicon
+anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl##.link-rss
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
