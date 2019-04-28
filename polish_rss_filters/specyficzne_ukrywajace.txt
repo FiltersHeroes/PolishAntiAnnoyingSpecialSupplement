@@ -4,6 +4,7 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 adex.pisz.pl,ozonowanie-powietrza.pl,worldofestore.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
+aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 amu.edu.pl##a[href$="/rss"]
