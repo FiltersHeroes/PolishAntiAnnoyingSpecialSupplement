@@ -6,6 +6,7 @@ agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
+ataksja.org.pl###linkcat-34
 amu.edu.pl##a[href$="/rss"]
 anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
