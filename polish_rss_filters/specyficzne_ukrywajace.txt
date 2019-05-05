@@ -1,15 +1,14 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-tvdami.eu##.sbuttons > li:nth-of-type(3)
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
-ataksja.org.pl###linkcat-34
 amu.edu.pl##a[href$="/rss"]
 anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
+ataksja.org.pl###linkcat-34
 autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl##.link-rss
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
@@ -197,6 +196,7 @@ telko.in##a[data-tip="Kanał RSS TELKO.in"]
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 toiowo.eu###gk-rss
 trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
+tvdami.eu##.sbuttons > li:nth-of-type(3)
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
