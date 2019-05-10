@@ -9,7 +9,7 @@ amu.edu.pl##a[href$="/rss"]
 anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
-autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl##.link-rss
+autokult.pl,fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl,komorkomania.pl,kafeteria.pl,medycyna24.pl##.link-rss
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankrutemjestem.pl,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,prawonaplacubudowy.pl,prawnikdlakonsumenta.pl,przedsiebiorcawsadzie.pl,prawo-autorskie-blog.pl,pozewzfaktury.pl,zarzadwspolcezoo.pl,jakzalozycfirmenaukrainie.com,przedawnione.pl,inwestycjebudowlane.biz,zadowolonypacjent.pl##.s_rss
 banzaj.pl###foot_monika
