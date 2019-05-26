@@ -1,9 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-zwolen24.pl##div > a > img[src="images/index_r.png"]
-korso.pl##.sbuttons > li:nth-of-type(6)
-mvno-gsm.pl##.widget_rss_links.widget
-sportdziennik.com##.rss-soc
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
@@ -117,6 +113,7 @@ korsokolbuszowskie.pl##.sbuttons > li:nth-of-type(7)
 korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 korsosanockie.pl##.sbuttons > li:nth-of-type(6)
 korso.pl##a[href="http://www.korso.pl/rss"]
+korso.pl##.sbuttons > li:nth-of-type(6)
 kozienice24.pl##img[src="images/index_r.png"]
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
@@ -134,6 +131,7 @@ miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
+mvno-gsm.pl##.widget_rss_links.widget
 mynaszlaku.pl##.socicon-rss
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
@@ -188,6 +186,7 @@ sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
 sp4.pisz.pl##.er-rss-tag-icon
+sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
@@ -237,3 +236,4 @@ zlotyaniol.pl###ic3
 ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(2)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
+zwolen24.pl##div > a > img[src="images/index_r.png"]
