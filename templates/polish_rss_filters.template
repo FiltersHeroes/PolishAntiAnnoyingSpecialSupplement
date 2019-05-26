@@ -29,4 +29,6 @@
 !
 !
 ! Dodatkowe reguły dla uBO & AG
+!#if (!adguard_ext_android_cb && !adguard_ext_safari && !adguard_app_ios)
 !#include polish_rss_filters/suplement.txt
+!#endif
