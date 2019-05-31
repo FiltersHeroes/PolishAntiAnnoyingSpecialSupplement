@@ -1,6 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 aliholik.pl###text-12
@@ -238,3 +237,4 @@ ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(2)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##div > a > img[src="images/index_r.png"]
+alicjawkrainiegarow.blogspot.com###Subscribe1
