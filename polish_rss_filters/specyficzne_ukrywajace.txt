@@ -2,6 +2,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
+marketerplus.pl##a[href$="/feed/"]
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
