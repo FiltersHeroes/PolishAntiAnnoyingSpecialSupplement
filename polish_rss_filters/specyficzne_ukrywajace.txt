@@ -1,6 +1,5 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-lubanski.eu##.rss-box > .posts-icon
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
@@ -124,6 +123,7 @@ kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type
 kwestiasmaku.com###block-block-16
 leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,prawodlalekarza.pl,podatki-dla-prawnika.pl,rejestracjaspolkiwdelaware.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl,pozeworozwodblog.pl,blog-spadkowy.pl,rozwodprzedsiebiorcy.pl###s_rss
 lodzkie.pl##.jj_sl_rss
+lubanski.eu##.rss-box > .posts-icon
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marketerplus.pl##a[href$="/feed/"]
