@@ -26,3 +26,4 @@
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
 ||wolnemedia.net/obrazki/rss-ikona.png
+||ithardware.pl/img/rss.svg
