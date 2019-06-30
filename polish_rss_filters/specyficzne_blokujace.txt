@@ -9,6 +9,7 @@
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
+||ithardware.pl/img/rss.svg
 ||i.racjonalista.pl/img/rssc.gif
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
@@ -26,4 +27,3 @@
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
 ||wolnemedia.net/obrazki/rss-ikona.png
-||ithardware.pl/img/rss.svg
