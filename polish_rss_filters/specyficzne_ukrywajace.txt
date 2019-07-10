@@ -81,7 +81,7 @@ gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 goleniow.pl##.menu > .item7
 gospodarkapodkarpacka.pl###rssBaner
-gpw.pl##a[href="/_rss"]
+gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 hardcorowo.pl###rssLink
 histmag.org##.sidebar > div:nth-of-type(9)
 hokej.net##.social-rss
