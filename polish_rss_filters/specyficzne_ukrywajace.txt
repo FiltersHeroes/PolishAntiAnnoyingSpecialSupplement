@@ -3,7 +3,6 @@
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
-roland-gazeta.pl##.jeSocial > span:last-child
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
@@ -178,6 +177,7 @@ rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
 rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column:nth-of-type(6) > h3
+roland-gazeta.pl##.jeSocial > span:last-child
 rynekaptek.pl##.box > .bordered
 rynekinfrastruktury.pl##a[href$="/rss.html"]
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
