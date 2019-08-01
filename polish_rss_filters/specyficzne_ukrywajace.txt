@@ -249,3 +249,4 @@ ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(4)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##div > a > img[src="images/index_r.png"]
+tulodz.pl##.section-bottom-social__box--rss
