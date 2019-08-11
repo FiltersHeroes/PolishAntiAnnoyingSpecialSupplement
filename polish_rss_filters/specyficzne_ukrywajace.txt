@@ -1,5 +1,4 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-sirt.pl##.social > a:last-child
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,lookcam.com,copernicusfestival.com,naukaireligia.pl,eurogamer.pl,lublin24.pl,filozofiawnauce.pl,copernicuscenter.edu.pl,cmrev.com,chceauto.pl,mmorpg.org.pl##a[href^="/rss"]
@@ -189,6 +188,7 @@ sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
 sfinks.pl##.feed-rss, .feed-rss-link
 silesiasem.pl###text-6
+sirt.pl##.social > a:last-child
 skijumping.pl###addition-menu > a:last-child
 slaskie.kas.gov.pl###linkRSS
 slawomirambroziak.pl##a[href="https://slawomirambroziak.pl/feed/"]
