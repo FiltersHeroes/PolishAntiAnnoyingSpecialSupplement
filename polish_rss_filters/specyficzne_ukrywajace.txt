@@ -242,6 +242,7 @@ wronek.wikidot.com##li > img[alt^="rss"]
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
 www.freestyle.pl###rss-link
+mojewypiekiinietylko.com###rss-link
 www.pila.pl##.rss_link
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
