@@ -19,5 +19,5 @@ if [[ "$ost_plik" == *"polish_rss_filters"* ]]; then
 fi
 
 if [ "$lista" ] ; then
-    LANG="pl_PL.UTF-8" $sciezka/VICHS.sh $lista
+    $sciezka/VICHS.sh $lista
 fi
