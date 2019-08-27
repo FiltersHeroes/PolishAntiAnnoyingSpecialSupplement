@@ -4,3 +4,4 @@ um.kielce.pl##+js(remove-attr.js, href, map > area[alt="RSS"])
 um.kielce.pl##^map > area[alt="RSS"]
 um.kielce.pl$$map > area[alt="RSS"]
 wsqn.pl##.extralight-border:style(border: none !important;)
+oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important;)
