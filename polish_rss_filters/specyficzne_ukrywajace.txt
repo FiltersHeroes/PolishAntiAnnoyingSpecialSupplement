@@ -1,5 +1,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+hfc.com.pl##.rss-sprite
 racezone.pl###o_rss
 pl.coinmill.com###rsslink
 satel.pl##.cat_rss
