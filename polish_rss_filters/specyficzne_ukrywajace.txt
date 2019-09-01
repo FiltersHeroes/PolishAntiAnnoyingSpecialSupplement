@@ -1,12 +1,6 @@
+4kdownload.com##.community__item--feed.community__item
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-hfc.com.pl##.rss-sprite
-racezone.pl###o_rss
-4kdownload.com##.community__item--feed.community__item
-www.angela.pl##a[href="rss.php"]
-pl.coinmill.com###rsslink
-satel.pl##.cat_rss
-oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
@@ -92,6 +86,7 @@ goleniow.pl##.menu > .item7
 gospodarkapodkarpacka.pl###rssBaner
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 hardcorowo.pl###rssLink
+hfc.com.pl##.rss-sprite
 histmag.org##a[href^="https://histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
 hokej.net##.social-rss
@@ -160,6 +155,7 @@ niebezpiecznik.pl###text-3 > .textwidget > p
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
+oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
 paczkow.pl##.rss-linkl
@@ -167,6 +163,7 @@ pch24.pl##a[href$="/rss,0"]
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
+pl.coinmill.com###rsslink
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
@@ -181,6 +178,7 @@ propertynews.pl##.foot > .inline > li:nth-of-type(5)
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 pswbp.pl##.module-content > a[href^="/index.php/pl"]
 purepc.pl##.foot_03
+racezone.pl###o_rss
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href="http://www.radiosochaczew.pl/rss/"]
 rmf24.pl##a[href="#spolecznosc"]
@@ -194,6 +192,7 @@ rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
 sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
+satel.pl##.cat_rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
 sfinks.pl##.feed-rss, .feed-rss-link
 silesiasem.pl###text-6
@@ -249,6 +248,7 @@ wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
+www.angela.pl##a[href="rss.php"]
 www.pila.pl##.rss_link
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
