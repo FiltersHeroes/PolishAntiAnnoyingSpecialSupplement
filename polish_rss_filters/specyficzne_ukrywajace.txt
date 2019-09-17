@@ -45,10 +45,10 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
-djoles.com,dziennik.com,koscierzyna24.info,naszrynek.pl,telepolis.pl,tlp.is,wejherowo24.info,wschodnik.pl##.icon-rss
-tvsudecka.pl##.icon-rss
+djoles.com,dziennik.com,koscierzyna24.info,naszrynek.pl,telepolis.pl,tlp.is,tvsudecka.pl,wejherowo24.info,wschodnik.pl##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
+dojczland.info##.td-footer-template-13
 doosanbabcock.com##.btn_rss
 dzeta.com.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
@@ -263,4 +263,3 @@ ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(4)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##div > a > img[src="images/index_r.png"]
-dojczland.info##.td-footer-template-13
