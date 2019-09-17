@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Checksum: @
-! Title: Polskie Filtry RSS
-! Polish RSS Filters
-! Codename: RSS
-! Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
-! Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
+! Title: Polski Antyirytujący Dodatek Specjalny
+! Polish Anti-Annoying Special Supplement
+! Codename: PASS
+! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
+! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
 ! Last modified: @modified
 ! Version: @version
 ! Expires: 7 days
 ! Support:
-!   Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
+!   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2019 Polish Filters Team
 ! Aktualizacja: @aktualizacja
