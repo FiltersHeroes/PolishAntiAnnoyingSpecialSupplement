@@ -1,6 +1,7 @@
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0;)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important;)
+powiatkwidzynski.pl##a[href^="/index.php"]:style(visibility: hidden !important;)
 um.kielce.pl##+js(remove-attr.js, href, map > area[alt="RSS"])
 um.kielce.pl##^map > area[alt="RSS"]
 um.kielce.pl$$map > area[alt="RSS"]
