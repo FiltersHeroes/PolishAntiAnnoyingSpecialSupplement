@@ -35,6 +35,7 @@ bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cad-akademia.pl,niebezpiecznik.pl,videoquality.pl##.feed
 cashless.pl##.item-184
 centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,kadantiscam.netlify.com,limanowa.in,olesnica24.com,radiomalbork.fm,slubice.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+siatka.org##.rss
 ch24.pl##.social > li:nth-of-type(4)
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
