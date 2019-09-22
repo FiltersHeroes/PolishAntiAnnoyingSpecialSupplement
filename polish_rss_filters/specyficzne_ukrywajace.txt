@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
+nj24.pl###footer-feed-icon
 otososnowiec.pl##a[href$="/feed/rss/"]
 biskupice.pl###top-menu-list-04
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
