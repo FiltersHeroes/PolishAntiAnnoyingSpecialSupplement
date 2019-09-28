@@ -1,5 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-portalspozywczy.pl##.box-shadow-1.box-9
+portalspozywczy.pl##.left > .wrap > .box-9
 orlen.pl##.newsletterAndRss
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
