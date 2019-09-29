@@ -1,11 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-portalspozywczy.pl##.left > .wrap > .box-9 > h2
-portalspozywczy.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
-portalspozywczy.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
-orlen.pl##.newsletterAndRss
-lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-melagu.pl##.ty-footer-grid > div:nth-of-type(1) > div[class*="footer-"].span16
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
@@ -140,6 +134,7 @@ kwestiasmaku.com###block-block-16
 linuxporady.pl###heatmapthemead-rss-social-icon
 lodzkie.pl##.jj_sl_rss
 lookcam.com,pcfaq.pl###rss_icon
+lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
@@ -148,6 +143,7 @@ marketerplus.pl##[href="https://marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
+melagu.pl##.ty-footer-grid > div:nth-of-type(1) > div[class*="footer-"].span16
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mojewypiekiinietylko.com,www.freestyle.pl###rss-link
@@ -168,6 +164,7 @@ oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
+orlen.pl##.newsletterAndRss
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
 otososnowiec.pl##a[href$="/feed/rss/"]
 paczkow.pl##.rss-linkl
@@ -182,6 +179,9 @@ polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3)
 polsatsport.pl,twojapogoda.pl##.ico-rss
 porozmawiajmyoit.pl##.buzz_rss
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
+portalspozywczy.pl##.left > .wrap > .box-9 > h2
+portalspozywczy.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
+portalspozywczy.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
 powrotroberta.blogspot.co.uk##.feed-links
 praca.policja.pl##li:nth-of-type(1) > h2
 prnews.pl##a[href="/feed"]
