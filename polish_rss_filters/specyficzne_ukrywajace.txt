@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 powiat-legionowski.pl##.h-ic-7
+gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 euractiv.pl##.subscribe-link
 rzg.pl##a[href$="/feed/"]
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
