@@ -1,8 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-powiat-legionowski.pl##.h-ic-7
-gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
-euractiv.pl##.subscribe-link
-rzg.pl##a[href$="/feed/"]
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -50,7 +46,7 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
-djoles.com,dziennik.com,koscierzyna24.info,naszrynek.pl,telepolis.pl,tlp.is,tvsudecka.pl,wejherowo24.info,wschodnik.pl,namyslow.eu##.icon-rss
+djoles.com,dziennik.com,koscierzyna24.info,namyslow.eu,naszrynek.pl,telepolis.pl,tlp.is,tvsudecka.pl,wejherowo24.info,wschodnik.pl##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
@@ -64,6 +60,7 @@ elk.pl##.small-rss, .small-rss-t
 emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
+euractiv.pl##.subscribe-link
 exsites.pl##a[title="RSS"]
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
 farmer.pl##.greyBox
@@ -87,6 +84,7 @@ geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
 gkstychy.info,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
 glitch.com.pl##.widget_rss_links
+gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 goleniow.pl##.menu > .item7
@@ -142,8 +140,8 @@ lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
-marketerplus.pl##a[href$="/feed/"]
 marketerplus.pl##[href="https://marketerplus.pl/feed/"]
+marketerplus.pl,rzg.pl##a[href$="/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
@@ -186,6 +184,7 @@ portalmmo.pl##.soc-icons > li:nth-of-type(1)
 portalspozywczy.pl##.left > .wrap > .box-9 > h2
 portalspozywczy.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
 portalspozywczy.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
+powiat-legionowski.pl##.h-ic-7
 powrotroberta.blogspot.co.uk##.feed-links
 praca.policja.pl##li:nth-of-type(1) > h2
 prnews.pl##a[href="/feed"]
