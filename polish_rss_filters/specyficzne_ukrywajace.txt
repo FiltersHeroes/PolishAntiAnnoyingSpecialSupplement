@@ -4,6 +4,7 @@
 naszdziennik.pl###metka-rss
 telewizjazary.pl##a[href$="/rss"]
 13liceum.eu##.feed-icon
+gazetawiecborska.eu##.art-rss-tag-icon
 jawor.tv##.rss
 adex.pisz.pl,ozonowanie-powietrza.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
