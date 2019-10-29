@@ -1,6 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+investors.pl###home-box-comments a.additional-link:nth-of-type(1)
 naszdziennik.pl###metka-rss
 telewizjazary.pl##a[href$="/rss"]
 13liceum.eu##.feed-icon
