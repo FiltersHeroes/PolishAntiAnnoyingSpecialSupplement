@@ -4,6 +4,7 @@
 investors.pl###home-box-comments a.additional-link:nth-of-type(1)
 naszdziennik.pl###metka-rss
 telewizjazary.pl##a[href$="/rss"]
+gospodarz.tv##a[href="/rss.xml"]
 13liceum.eu##.feed-icon
 gazetawiecborska.eu##.art-rss-tag-icon
 jawor.tv##.rss
