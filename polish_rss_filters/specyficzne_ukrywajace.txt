@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 ox.pl##.navIcons__displayIcons--close
+wczestochowie.pl##a[href="/rss"]
 zlotoryjska.pl##.rss_ul
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
