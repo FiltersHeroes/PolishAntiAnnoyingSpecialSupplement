@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+tvrodzina.pl###gkRSS
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
 lokalna.news##.icon-rss
