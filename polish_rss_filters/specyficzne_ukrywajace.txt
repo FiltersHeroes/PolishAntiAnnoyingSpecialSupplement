@@ -2,6 +2,7 @@
 tvrodzina.pl###gkRSS
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
+boleslawiec.tv##.icon-rss
 lokalna.news,truso.tv##.icon-rss
 wczestochowie.pl##a[href="/rss"]
 lokalnatelewizja.pl##.icon-rss
