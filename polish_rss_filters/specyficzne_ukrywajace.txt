@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+portalmedialny.pl##.rss_subscription
 tvrodzina.pl###gkRSS
 naszemiasto.pl##a[href$="/rss/"]
 tv-kwidzyn.pl,swiebodzin.tv,regatv.pl##.icon-rss
