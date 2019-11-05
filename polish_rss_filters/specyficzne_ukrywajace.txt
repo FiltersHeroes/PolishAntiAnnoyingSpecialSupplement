@@ -2,7 +2,7 @@
 tvrodzina.pl###gkRSS
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
-lokalna.news##.icon-rss
+lokalna.news,truso.tv##.icon-rss
 wczestochowie.pl##a[href="/rss"]
 lokalnatelewizja.pl##.icon-rss
 zlotoryjska.pl##.rss_ul
