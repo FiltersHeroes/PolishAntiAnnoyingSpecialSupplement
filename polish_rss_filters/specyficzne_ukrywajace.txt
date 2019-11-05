@@ -3,7 +3,7 @@ portalmedialny.pl##.rss_subscription
 tvrodzina.pl###gkRSS
 bialogard.info##.fa-rss-square
 naszemiasto.pl##a[href$="/rss/"]
-tv-kwidzyn.pl,swiebodzin.tv,regatv.pl##.icon-rss
+tv-kwidzyn.pl,swiebodzin.tv,regatv.pl,tv-wschod.pl##.icon-rss
 tarnowska.tv##.icon-rss
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
