@@ -1,6 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
 portalmedialny.pl##.rss_subscription
 tvrodzina.pl###gkRSS
+bialogard.info##.fa-rss-square
 naszemiasto.pl##a[href$="/rss/"]
 tv-kwidzyn.pl,swiebodzin.tv,regatv.pl##.icon-rss
 tarnowska.tv##.icon-rss
@@ -21,7 +22,7 @@ aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
-anetaduk.com,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info,ugotuj.to##.fa-rss
+anetaduk.com,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info,ugotuj.to,bialogard.info##.fa-rss
 anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
