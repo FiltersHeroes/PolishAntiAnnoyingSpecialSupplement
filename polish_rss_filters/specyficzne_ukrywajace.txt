@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 tvrodzina.pl###gkRSS
+tv-kwidzyn.pl##.icon-rss
 tarnowska.tv##.icon-rss
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
