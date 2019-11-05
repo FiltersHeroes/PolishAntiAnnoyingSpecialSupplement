@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 tvrodzina.pl###gkRSS
+tarnowska.tv##.icon-rss
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
 boleslawiec.tv##.icon-rss
