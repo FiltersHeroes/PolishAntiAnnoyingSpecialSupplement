@@ -5,7 +5,7 @@ sandomierztv.pl,boleslawiec.tv,bydgoszcz.com,halogorlice.info,jaw.com.pl,koscier
 bialogard.info##.fa-rss-square
 naszemiasto.pl##a[href$="/rss/"]
 tv-kwidzyn.pl,swiebodzin.tv,regatv.pl,tv-wschod.pl##.icon-rss
-tarnowska.tv##.icon-rss
+tarnowska.tv,eluban.pl##.icon-rss
 ox.pl##.navIcons__displayIcons--close
 tvmorag.pl##.icon-rss
 boleslawiec.tv##.icon-rss
