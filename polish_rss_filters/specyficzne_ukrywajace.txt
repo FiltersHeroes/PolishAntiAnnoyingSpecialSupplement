@@ -1,6 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
 portalmedialny.pl##.rss_subscription
 tvrodzina.pl###gkRSS
+tczewska.pl##.icon-rss
 sandomierztv.pl,boleslawiec.tv,bydgoszcz.com,halogorlice.info,jaw.com.pl,koscierzyna24.info,lokalna24.pl,lokalnatelewizja.pl,narew.info,naszrynek.pl,olesnica24.com,regatv.pl,starachowice.pl,swiebodzin.tv,telewizjazary.pl,tv-kwidzyn.pl,tvmorag.pl,sandomierztv.pl##.icon-rss
 bialogard.info##.fa-rss-square
 naszemiasto.pl##a[href$="/rss/"]
