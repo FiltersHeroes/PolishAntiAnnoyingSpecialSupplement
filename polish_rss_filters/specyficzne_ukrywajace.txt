@@ -49,7 +49,7 @@ bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##li.social:nth-of-type(4)
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
-cad-akademia.pl,niebezpiecznik.pl,videoquality.pl##.feed
+cad-akademia.pl,niebezpiecznik.pl##.feed
 cashless.pl##.item-184
 centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,jawor.tv,kadantiscam.netlify.com,limanowa.in,olesnica24.com,radiomalbork.fm,siatka.org,slubice.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
