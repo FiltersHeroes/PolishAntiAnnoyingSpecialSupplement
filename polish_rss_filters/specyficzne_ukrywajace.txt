@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 portalmedialny.pl##.rss_subscription
+signs.pl##a[href*="rss.php"]
 tvrodzina.pl###gkRSS
 24opole.pl##.rss_main
 tczewska.pl##.icon-rss
