@@ -2,6 +2,7 @@
 portalmedialny.pl##.rss_subscription
 radiobonton.pl##.icon-rss
 signs.pl##a[href*="rss.php"]
+wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 tvrodzina.pl###gkRSS
 24opole.pl##.rss_main
 tczewska.pl##.icon-rss
