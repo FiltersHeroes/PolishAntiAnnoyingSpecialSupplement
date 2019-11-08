@@ -2,6 +2,7 @@
 portalmedialny.pl##.rss_subscription
 radiobonton.pl##.icon-rss
 radiogorzow.pl##.icon-rss
+pl.ambafrance.org##.rss
 signs.pl##a[href*="rss.php"]
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
