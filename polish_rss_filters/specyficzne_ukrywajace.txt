@@ -2,7 +2,13 @@
 portalmedialny.pl##.rss_subscription
 radiobonton.pl##.icon-rss
 ppe.pl##a[href="/rss.html"]
-korso24.pl##.sbuttons > li:nth-of-type(4)
+korso24.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+tvdami.eu##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+narew.info,naszrynek.pl,tarnowska.tv##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+korso.pl,korsosanockie.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+igryfino.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+korsokolbuszowskie.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 radiogorzow.pl##.icon-rss
 bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 pl.ambafrance.org##.rss
@@ -124,7 +130,6 @@ histmag.org##a[href^="https://histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
 hokej.net##.social-rss
 igol.pl##a[href="https://igol.pl/feed/"]
-igryfino.pl##.sbuttons > li:nth-of-type(4)
 imagazine.pl###text-402422664
 in4.pl##div.sidebar-block:nth-of-type(7)
 insert.com.pl##li:nth-of-type(1) > .info-channel
@@ -151,10 +156,8 @@ kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
-korsokolbuszowskie.pl##.sbuttons > li:nth-of-type(7)
-korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
-korso.pl##a[href="http://www.korso.pl/rss"]
-korso.pl,korsosanockie.pl##.sbuttons > li:nth-of-type(6)
+!korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
+!korso.pl##a[href="http://www.korso.pl/rss"]
 kosapopatelni.pl##div.footer-col3:nth-of-type(3)
 kozienice24.pl##img[src="images/index_r.png"]
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
@@ -185,7 +188,7 @@ mvno-gsm.pl##.widget_rss_links.widget
 mynaszlaku.pl##.socicon-rss
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
-narew.info,naszrynek.pl,tarnowska.tv##.sbuttons > li:nth-of-type(5)
+
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszdziennik.pl###metka-rss
 naszpradnik.pl##.menu-social-feed
@@ -266,9 +269,7 @@ thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondCol
 toiowo.eu###gk-rss
 trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
 tulodz.pl##.section-bottom-social__box--rss
-tvdami.eu##.sbuttons > li:nth-of-type(3)
 tvn24.pl##.rbox
-tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
 tygodnikoko.pl##a[href="http://www.tygodnikoko.pl/rss"]
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
