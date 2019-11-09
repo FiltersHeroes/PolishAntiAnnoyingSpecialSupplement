@@ -1,6 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
 portalmedialny.pl##.rss_subscription
 radiobonton.pl##.icon-rss
+igryfino.pl##.icon-rss
 ppe.pl##a[href="/rss.html"]
 korso24.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 tvdami.eu##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
