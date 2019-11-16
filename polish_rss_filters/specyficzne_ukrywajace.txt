@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 ekorekta24.pl###nksub_sidebar, #nksub-body-bg
+virpe.comirpe.com##a[href*="/rss/"] > img
 ekorekta24.pl##a.social:nth-of-type(3)
 13liceum.eu,naszekielce.com##.feed-icon
 zpierwszegotloczenia.pl##a[href="/rss"]
