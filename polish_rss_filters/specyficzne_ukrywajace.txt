@@ -1,9 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-ekorekta24.pl###nksub_sidebar, #nksub-body-bg
-virpe.comirpe.com##a[href*="/rss/"] > img
-ekorekta24.pl##a.social:nth-of-type(3)
 13liceum.eu,naszekielce.com##.feed-icon
-zpierwszegotloczenia.pl##a[href="/rss"]
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -64,6 +60,8 @@ dzeta.com.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
 egospodarka.pl##.ego-ico4
+ekorekta24.pl##a.social:nth-of-type(3)
+ekorekta24.pl###nksub_sidebar, #nksub-body-bg
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
 emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
@@ -260,11 +258,12 @@ um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
+virpe.comirpe.com##a[href*="/rss/"] > img
 wachtyrz.eu###custom_html-7
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 wagrowiec.eu###header-top-1 > a.icon:nth-of-type(2)
-wczestochowie.pl##a[href="/rss"]
+wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
 wikidot.com,~www.wikidot.com##.feedinfo
