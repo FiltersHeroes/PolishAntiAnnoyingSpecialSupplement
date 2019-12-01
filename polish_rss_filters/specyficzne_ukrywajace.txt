@@ -1,6 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,naszekielce.com##.feed-icon
-gb.pl##.xy.socIco
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -87,6 +86,7 @@ fundacjawolnosci.org###menu-item-2756
 gazeo.pl##.rss-blue
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
 gbpizs.gov.pl##.ikona-menu.bip-rss
+gb.pl##.xy.socIco
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
