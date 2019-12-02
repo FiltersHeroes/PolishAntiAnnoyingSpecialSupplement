@@ -1,7 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-zary24.pl##.widget_rss_links
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -92,7 +91,7 @@ gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
 gkstychy.info,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
-glitch.com.pl##.widget_rss_links
+glitch.com.pl,zary24.pl##.widget_rss_links
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
@@ -240,6 +239,7 @@ sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 szkolymedyczne.eu###topbar
+tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
@@ -294,4 +294,3 @@ zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##div > a > img[src="images/index_r.png"]
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
-tajemnice-swiata.pl###mh_magazine_social-2
