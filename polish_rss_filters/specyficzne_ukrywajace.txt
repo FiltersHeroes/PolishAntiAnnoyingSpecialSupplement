@@ -294,3 +294,4 @@ zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##div > a > img[src="images/index_r.png"]
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
+tajemnice-swiata.pl###mh_magazine_social-2
