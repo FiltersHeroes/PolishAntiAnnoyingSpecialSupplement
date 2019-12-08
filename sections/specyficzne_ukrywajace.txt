@@ -1,10 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,naszekielce.com##.feed-icon
-media.netflix.com##.signup-for-blog
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-wtp.waw.pl##.home-changes-rss
-wtp.waw.pl##.home-changes-track
-wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -155,6 +151,7 @@ marketerplus.pl,rzg.pl##a[href$="/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
+media.netflix.com##.signup-for-blog
 melagu.pl##.ty-footer-grid > div:nth-of-type(1) > div[class*="footer-"].span16
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
@@ -282,6 +279,9 @@ wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
 wsieciprawdy.pl###socBox > .xy.socIco
 wsqn.pl##ul.social_bookmarks
+wtp.waw.pl##.home-changes-rss
+wtp.waw.pl##.home-changes-track
+wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 www.angela.pl##a[href="rss.php"]
 www.pila.pl##.rss_link
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
