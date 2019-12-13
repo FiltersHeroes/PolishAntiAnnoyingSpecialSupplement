@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+pudelek.pl##a[href="https://www.pudelek.pl/rss2.xml"]
 echotygodnik.info##.icon-rss
 benchmark.pl##aside > .next-click
 13liceum.eu,naszekielce.com##.feed-icon
