@@ -264,7 +264,6 @@ um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 upflix.pl##.so-rss
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
-virpe.comirpe.com##a[href*="/rss/"] > img
 wachtyrz.eu###custom_html-7
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
