@@ -1,7 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-snobka.pl##a[href$="/rss/"]
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -169,7 +168,7 @@ namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszamlawa.pl##.td-social-list > div.td_social_rss
 naszdziennik.pl###metka-rss
-naszemiasto.pl##a[href$="/rss/"]
+naszemiasto.pl,snobka.pl##a[href$="/rss/"]
 naszpradnik.pl##.menu-social-feed
 niebezpiecznik.pl###text-3 > .textwidget > p
 nj24.pl###footer-feed-icon
