@@ -1,13 +1,10 @@
 4kdownload.com##.community__item--feed.community__item
-pl.aliexpress.com##.product-fix-wrap
 13liceum.eu,naszekielce.com##.feed-icon
-wakacje.pl###rightTabs
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
-waw4free.pl###spolecznosci
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
@@ -189,6 +186,7 @@ pch24.pl##a[href$="/rss,0"]
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
+pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
@@ -273,6 +271,8 @@ wachtyrz.eu###custom_html-7
 wadowice24.pl##a[href="http://wadowice24.pl/index.php/nowe.feed"]
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
 wagrowiec.eu###header-top-1 > a.icon:nth-of-type(2)
+wakacje.pl###rightTabs
+waw4free.pl###spolecznosci
 wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
