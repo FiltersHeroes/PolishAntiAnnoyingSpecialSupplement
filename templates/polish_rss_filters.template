@@ -28,6 +28,6 @@
 !
 !
 ! Dodatkowe reguły dla uBO & AG
-!#if (!adguard_ext_android_cb && !adguard_ext_safari && !adguard_app_ios)
+!#if (!adguard_ext_android_cb && !adguard_app_ios)
 !#include sections/suplement.txt
 !#endif
