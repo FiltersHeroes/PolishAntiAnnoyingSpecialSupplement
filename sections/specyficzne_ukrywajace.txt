@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 lookcam.live###rss_icon
+waszaturystyka.pl##.k2FeedIcon
 13liceum.eu,naszekielce.com##.feed-icon
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
 socialpress.pl##.follow_us.container-fluid
