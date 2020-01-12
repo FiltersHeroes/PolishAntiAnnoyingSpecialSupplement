@@ -1,10 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-lookcam.live###rss_icon
-waszaturystyka.pl##.k2FeedIcon
 13liceum.eu,naszekielce.com##.feed-icon
-socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
-socialpress.pl##.follow_us.container-fluid
-mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -127,8 +122,8 @@ istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 jak.tv##a[href^="/feed/rss"]
-joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
+joomla.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
@@ -147,7 +142,7 @@ kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type
 kwestiasmaku.com###block-block-16
 linuxporady.pl###heatmapthemead-rss-social-icon
 lodzkie.pl##.jj_sl_rss
-lookcam.com,pcfaq.pl###rss_icon
+lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 majsterkowo.pl###sitebox-social-4 > .widget-title
@@ -165,6 +160,7 @@ mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
+mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mvno-gsm.pl##.widget_rss_links.widget
 mynaszlaku.pl##.socicon-rss
 m.niedziela.pl##a > .mdi-rss-box.mdi
@@ -242,6 +238,8 @@ sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
+socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
+socialpress.pl##.follow_us.container-fluid
 sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
