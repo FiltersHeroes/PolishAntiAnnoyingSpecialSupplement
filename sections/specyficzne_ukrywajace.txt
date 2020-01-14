@@ -163,7 +163,7 @@ mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mvno-gsm.pl##.widget_rss_links.widget
 mynaszlaku.pl##.socicon-rss
-m.niedziela.pl##a > .mdi-rss-box.mdi
+niedziela.pl##a > .mdi-rss-box.mdi
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
