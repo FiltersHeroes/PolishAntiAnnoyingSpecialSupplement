@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,naszekielce.com##.feed-icon
+hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
