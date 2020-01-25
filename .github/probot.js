@@ -6,6 +6,10 @@ on('issues.labeled')
   .filter(context => context.payload.label.name === 'odrzucone')
   .close();
 
+on('issues.labeled')
+  .filter(context => context.payload.label.name === 'pomyłka')
+  .close();
+
 /*
 on('issues.opened')
   .filter(context => !context.payload.issue.body.match(/### Typ elementu/) || context.payload.issue.body.includes('- [ ]'))
