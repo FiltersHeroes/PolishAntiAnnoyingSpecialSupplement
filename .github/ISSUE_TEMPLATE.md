@@ -1,7 +1,7 @@
 ---
-name: ''
-about: ''
-title: ''
+name: Zgłoszenia
+about: Zgłoszenia
+title: Zgłoszenia
 labels: zgłoszenie
 assignees: krystian3w
 ---
