@@ -11,6 +11,23 @@ on('issues.labeled')
 //  .comment(contents('.github/MISSING_ISSUE_TEMPLATE_AUTOREPLY.md'))
 //  .close();
 
+
+on('issues.opened', 'issues.edited')
+  .filter(context => context.payload.issue.body.match(/- \[[xX]] RSS/))
+  .label('RSS');
+  
+on('issues.opened', 'issues.edited')
+  .filter(context => context.payload.issue.body.match(/- \[[ ]] RSS/))
+  .unlabel('pytanie');
+
+on('issues.opened', 'issues.edited')
+  .filter(context => context.payload.issue.body.match(/- \[[xX]] widżet/))
+  .label('widżet');
+
+on('issues.opened', 'issues.edited')
+  .filter(context => context.payload.issue.body.match(/- \[[ ]] widżet/))
+  .unlabel('widżet');
+
 on('issues.opened', 'issues.edited')
   .filter(context => context.payload.issue.body.match(/- \[[xX]] błąd/))
   .label('błąd');
@@ -24,7 +41,7 @@ on('issues.opened', 'issues.edited')
   .label('pytanie');
   
 on('issues.opened', 'issues.edited')
-  .filter(context => context.payload.issue.body.match(/- \[[\]] pytanie/))
+  .filter(context => context.payload.issue.body.match(/- \[[ ]] pytanie/))
   .unlabel('pytanie');
   
 on('issues.opened', 'issues.edited')
@@ -36,9 +53,9 @@ on('issues.opened', 'issues.edited')
   .unlabel('ulepszenie');
 
 on('issues.opened', 'issues.edited')
-  .filter(context => context.payload.issue.body.match(/- \[[xX]] widżet/))
-  .label('widżet');
+  .filter(context => context.payload.issue.body.match(/- \[[xX]] zgłoszenie/))
+  .label('zgłoszenie');
 
 on('issues.opened', 'issues.edited')
-  .filter(context => context.payload.issue.body.match(/- \[[ ]] widżet/))
-  .unlabel('widżet');
+  .filter(context => context.payload.issue.body.match(/- \[[ ]] zgłoszenie/))
+  .unlabel('zgłoszenie');
