@@ -18,7 +18,7 @@ on('issues.opened', 'issues.edited')
   
 on('issues.opened', 'issues.edited')
   .filter(context => context.payload.issue.body.match(/- \[[ ]] RSS/))
-  .unlabel('pytanie');
+  .unlabel('RSS');
 
 on('issues.opened', 'issues.edited')
   .filter(context => context.payload.issue.body.match(/- \[[xX]] widżet/))
