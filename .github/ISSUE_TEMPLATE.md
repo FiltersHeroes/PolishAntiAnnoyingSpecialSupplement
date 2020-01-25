@@ -19,10 +19,12 @@ W przypadku pomyłki co do typu, proszę usunąć x i zamiast niego - wstawić s
 
 ### Typ elementu/problemu
 
+- [] RSS
+- [] widżet
 - [] błąd
 - [] pytanie
 - [] ulepszenie
-- [] widżet
+- [x] zgłoszenie
 
 
 
