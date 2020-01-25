@@ -1,7 +1,7 @@
 ---
-name: 1
-about: 2
-title: 3
+name: ''
+about: ''
+title: ''
 labels: zgłoszenie
 assignees: krystian3w
 ---
