@@ -1,3 +1,11 @@
+---
+name: ''
+about: ''
+title: ''
+labels: zgłoszenie
+assignees: krystian3w
+---
+
 <!--
 Dziękujemy za zgłoszenie do Polskich Filtrów RSS!
 -->
