@@ -1,9 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
-aluprof.eu##.sidebar
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-sklep.znakiczasu.pl##li > [href$="/feeder/rss.php"]
-sklep.znakiczasu.pl##.customcontent-footer > li > h4:nth-of-type(1)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -12,6 +9,7 @@ alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
+aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info,ugotuj.to##.fa-rss
 anyforum.pl,skyup.pl##.rs.sicon
@@ -238,6 +236,8 @@ signs.pl##a[href*="rss.php"]
 silesiasem.pl###text-6
 sirt.pl##.social > a:last-child
 skijumping.pl###addition-menu > a:last-child
+sklep.znakiczasu.pl##li > [href$="/feeder/rss.php"]
+sklep.znakiczasu.pl##.customcontent-footer > li > h4:nth-of-type(1)
 slaskie.kas.gov.pl###linkRSS
 slawomirambroziak.pl##a[href="https://slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
