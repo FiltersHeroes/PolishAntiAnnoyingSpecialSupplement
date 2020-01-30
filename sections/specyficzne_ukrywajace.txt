@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+gamedot.pl##.icon-rss
 www.tesa.com##div.js-controller.module
 swietochlowiceonline.pl##a[href$="/feed/rss/"]
 grupapolsat.pl##.rss-feed
