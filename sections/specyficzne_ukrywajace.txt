@@ -1,8 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-gamedot.pl##.icon-rss
-www.tesa.com##div.js-controller.module
-swietochlowiceonline.pl##a[href$="/feed/rss/"]
-grupapolsat.pl##.rss-feed
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -38,7 +34,7 @@ biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
 blog-spadkowy.pl,leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,podatki-dla-prawnika.pl,pozeworozwodblog.pl,prawodlalekarza.pl,rejestracjaspolkiwdelaware.pl,rozwodprzedsiebiorcy.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl###s_rss
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
-boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,radiobonton.pl,radiogorzow.pl,regatv.pl,sandomierztv.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,tlp.is,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl##.icon-rss
+boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,radiobonton.pl,radiogorzow.pl,regatv.pl,sandomierztv.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,tlp.is,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl##.icon-rss
 bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
@@ -105,6 +101,7 @@ goleniow.pl##.menu > .item7
 gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
+grupapolsat.pl##.rss-feed
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 hardcorowo.pl###rssLink
 hfc.com.pl##.rss-sprite
@@ -188,7 +185,7 @@ oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
 orlen.pl##.newsletterAndRss
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
-otososnowiec.pl##a[href$="/feed/rss/"]
+otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
@@ -304,6 +301,7 @@ wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 www.angela.pl##a[href="rss.php"]
 www.pila.pl##.rss_link
+www.tesa.com##div.js-controller.module
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
