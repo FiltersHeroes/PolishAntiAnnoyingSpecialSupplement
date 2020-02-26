@@ -313,9 +313,9 @@ yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
-ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(odd)
+ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(even)
 
-ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(odd)
+ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zwolen24.pl##img[src="images/index_r.png"]
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
