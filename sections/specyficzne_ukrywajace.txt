@@ -170,7 +170,7 @@ mojewypiekiinietylko.com,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
-mvno-gsm.pl##.widget_rss_links.widget
+mvno-gsm.pl##.widget_rss_links
 mynaszlaku.pl##.socicon-rss
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
@@ -298,7 +298,7 @@ wolnemedia.net###bar-second > ul > li:nth-of-type(2)
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
-wsieciprawdy.pl###socBox > .xy.socIco
+wsieciprawdy.pl##.xy.socIco
 wsqn.pl##ul.social_bookmarks
 wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
@@ -313,10 +313,10 @@ yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
-ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(2)
-ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(4)
-ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
+ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(odd)
+
+ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nth-of-type(-n+4):nth-of-type(odd)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
-zwolen24.pl##div > a > img[src="images/index_r.png"]
+zwolen24.pl##img[src="images/index_r.png"]
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
