@@ -26,7 +26,7 @@ If you make a mistake about the type, please remove x and insert a space instead
 ### Typ elementu/problemu <!-- Type of element/problem -->
 
 - [] RSS <!-- non-blocked RSS button -->
-- [] widżet <!-- non-blocke dwidget / other element -->
+- [] widżet <!-- non-blocked widget / other element -->
 - [] błąd <!-- error / bugs -->
 - [] pytanie <!-- question -->
 - [] ulepszenie <!-- improvement -->
