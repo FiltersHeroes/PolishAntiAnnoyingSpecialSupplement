@@ -1,8 +1,8 @@
 ---
-name: Zgłoszenia niezablokowanych elementów RSS
-about: Reports of non-blocked RSS elements
+name: Zgłoszenia niezablokowanych elementów RSS / widgetów zmieszanych z RSS
+about: Reports of non-blocked RSS elements / mixed widgets with RSS
 title: ''
-labels: RSS
+labels: zgłoszenie
 assignees: krystian3w
 ---
 
