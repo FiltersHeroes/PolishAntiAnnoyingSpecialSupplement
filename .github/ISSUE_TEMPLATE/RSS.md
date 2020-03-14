@@ -1,36 +1,13 @@
 ---
-name: Zgłoszenia niezablokowanych elementów, błędów i ulepszeń
-about: Reports of non-blocked elements, bugs and improvements
+name: Zgłoszenia niezablokowanych elementów RSS
+about: Reports of non-blocked RSS elements
 title: ''
-labels: zgłoszenie
+labels: RSS
 assignees: krystian3w
 ---
 
 <!-- Dziękujemy za zgłoszenie do Polskich Filtrów PASS! -->
 <!-- Thank you for applying to Polish Filters PASS! -->
-
-
-
-<!--
-Co mamy schować, zablokować albo w czym jest problem, może pojawił się jakiś błąd?
-Proszę wstawić x pomiędzy znakami [] obok typu/typów, którego/których to zgłoszenie dotyczy,
-W przypadku pomyłki co do typu, proszę usunąć x i zamiast niego - wstawić spację.
--->
-
-<!--
-What are we supposed to hide, block or what's the problem, maybe there's a mistake?
-Please insert an x between the characters [] next to the type(s) affected,
-If you make a mistake about the type, please remove x and insert a space instead.
--->
-
-### Typ elementu/problemu <!-- Type of element/problem -->
-
-- [] RSS <!-- non-blocked RSS button -->
-- [] widżet <!-- non-blocked widget / other element -->
-- [] błąd <!-- error / bugs -->
-- [] pytanie <!-- question -->
-- [] ulepszenie <!-- improvement -->
-
 
 ### Moja konfiguracja <!-- My configuration -->
 
