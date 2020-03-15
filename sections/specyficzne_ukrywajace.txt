@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-gliwiceonline.pl###rss
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -94,7 +93,7 @@ gb.pl,wsieciprawdy.pl##.xy.socIco
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
-gkstychy.info,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
+gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
 glitch.com.pl,mvno-gsm.pl,zary24.pl##.widget_rss_links
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminasiedlce.pl##a[href^="/?rss"]
