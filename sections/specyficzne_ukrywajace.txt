@@ -68,7 +68,7 @@ dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
 egospodarka.pl##.ego-ico4
 ekorekta24.pl##a.social:nth-of-type(3)
-ekorekta24.pl###nksub_sidebar, #nksub-body-bg
+ekorekta24.pl,niezlasztuka.net###nksub_sidebar, #nksub-body-bg
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
 emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
