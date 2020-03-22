@@ -1,12 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
-
-yves-rocher.pl##.l-footer__services div.service__column:nth-of-type(2)
-oiot.pl##.menu-icon-rss.menu-icon
-
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
-ewaipiotr.pl##.menu-icon-rss
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 adex.pisz.pl,alejasztuki.com,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
@@ -75,6 +70,7 @@ emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 euractiv.pl##.subscribe-link
+ewaipiotr.pl##.menu-icon-rss
 exsites.pl##a[title="RSS"]
 e-katalog.intercars.com.pl###sf_rozwin
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
@@ -189,6 +185,7 @@ nj24.pl###footer-feed-icon
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
+oiot.pl##.menu-icon-rss.menu-icon
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
 orlen.pl##.newsletterAndRss
@@ -314,6 +311,7 @@ wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 yuliyababich.eu###StaticPanel > #AnimalPanel
+yves-rocher.pl##.l-footer__services div.service__column:nth-of-type(2)
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
