@@ -1,7 +1,7 @@
 # Polski Antyirytujący Dodatek Specjalny
 
-[![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg)](https://github.com/PolishFiltersTeam/KAD/issues)
-[![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/KAD/issues)
+[![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg)](https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues)
+[![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues)
 
 Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 
