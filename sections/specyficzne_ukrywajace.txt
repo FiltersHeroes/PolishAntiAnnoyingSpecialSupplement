@@ -1,4 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
+misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
+tygodnikpowszechny.pl##p > a[href="/rss.xml"]
+janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
 tektorado.com#?#.content > section:-abp-has(> .facebook:-abp-has(~ #form_kontakt))
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
