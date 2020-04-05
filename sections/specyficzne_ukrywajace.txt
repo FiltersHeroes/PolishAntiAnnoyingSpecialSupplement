@@ -1,9 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
-tygodnikpowszechny.pl##p > a[href="/rss.xml"]
-pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
-janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
-tektorado.com#?#.content > section:-abp-has(> .facebook:-abp-has(~ #form_kontakt))
 13liceum.eu,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -135,10 +130,12 @@ istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 jak.tv##a[href^="/feed/rss"]
+janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
 joannapachla.com##.newsletter-section-new
 joomla.pl,testhub.pl##.icon-feed
 joomla.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
+karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
@@ -159,6 +156,8 @@ lodzkie.pl##.jj_sl_rss
 lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
+magazynkuchenny.com###social > li > [href*="feed"]
+majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marketerplus.pl##[href="https://marketerplus.pl/feed/"]
@@ -170,6 +169,7 @@ media.netflix.com##.signup-for-blog
 megascena.pl###footer > #subscribe-out
 melagu.pl##.ty-footer-grid > div:nth-of-type(1) > div[class*="footer-"].span16
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
+misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,www.freestyle.pl###rss-link
@@ -200,6 +200,7 @@ ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
+pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 pl.aliexpress.com##.product-fix-wrap
@@ -267,6 +268,7 @@ straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.c
 szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
+tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
@@ -279,6 +281,7 @@ tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
 twoje-seriale.pl##.Syn > ul
 tygodnikoko.pl##a[href="http://www.tygodnikoko.pl/rss"]
+tygodnikpowszechny.pl##p > a[href="/rss.xml"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubucentrum.net##a[href="http://feeds.feedburner.com/BlogOLinuxUbuntu"] > img
@@ -325,6 +328,3 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nt
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
-majkiit.github.io##footer .fa-rss
-magazynkuchenny.com###social > li > [href*="feed"]
-karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
