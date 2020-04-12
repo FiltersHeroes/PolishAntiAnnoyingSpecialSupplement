@@ -1,7 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-biore.to##.rss
-lby.areacodebase.com##.feed-icon
-13liceum.eu,naszekielce.com##.feed-icon
+13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -31,6 +29,7 @@ bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
 bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
+biore.to,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,jawor.tv,kadantiscam.netlify.com,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
@@ -44,7 +43,6 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cad-akademia.pl,niebezpiecznik.pl##.feed
 cashless.pl##.item-184
-centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,jawor.tv,kadantiscam.netlify.com,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
