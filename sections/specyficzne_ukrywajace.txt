@@ -1,5 +1,5 @@
 rynek-kolejowy.pl##.sledzNasContainer
-transport-publiczny.pl##.sledzNasContainerStopka
+transport-publiczny.pl,rynekinfrastruktury.pl,rynek-lotniczy.pl##.sledzNasContainerStopka, .sledzNasStopkaContainer
 senior.pl##.belka_rss
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
