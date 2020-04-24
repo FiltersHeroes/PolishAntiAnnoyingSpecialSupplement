@@ -1,4 +1,6 @@
 rynek-kolejowy.pl##.sledzNasContainer
+transport-publiczny.pl##.sledzNasContainerStopka
+senior.pl##.belka_rss
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
