@@ -1,6 +1,3 @@
-
-rynek-kolejowy.pl,transport-publiczny.pl,rynekinfrastruktury.pl,rynek-lotniczy.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
-senior.pl##.belka_rss
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -207,6 +204,7 @@ pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
+pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 podkasty.info##.social > li:nth-of-type(1)
@@ -242,11 +240,13 @@ roland-gazeta.pl##.jeSocial > span:last-child
 rynekaptek.pl##.box > .bordered
 rynekinfrastruktury.pl##a[href$="/rss.html"]
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
+rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
 sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
 satel.pl##.cat_rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
+senior.pl##.belka_rss
 sfinks.pl##.feed-rss, .feed-rss-link
 signs.pl##a[href*="rss.php"]
 silesiasem.pl###text-6
@@ -332,4 +332,3 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nt
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
-pless.pl##small > a[href="//www.pless.pl/rss.xml"]
