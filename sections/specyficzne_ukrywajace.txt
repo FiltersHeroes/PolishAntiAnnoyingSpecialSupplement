@@ -1,5 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
+znajdzto.pl##.subRss
 dlahandlu.pl#?#.right > .box-3 > div.header-1:nth-of-type(3):-abp-has(~ .social)
+tygodniknotecki.pl##.k2FeedIcon, .syndicate-module
 pl.wikipedia.org###feed-atom
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
