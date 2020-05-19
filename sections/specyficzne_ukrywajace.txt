@@ -277,7 +277,7 @@ sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 szkolymedyczne.eu###topbar
-tabletowo.pl###top-bar-message
+tabletowo.pl,oiot.pl###top-bar-message
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
