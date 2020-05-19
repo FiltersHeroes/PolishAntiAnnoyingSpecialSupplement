@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+forum.benchmark.pl###rss_feed
 znajdzto.pl##.subRss
 dlahandlu.pl#?#.right > .box-3 > div.header-1:nth-of-type(3):-abp-has(~ .social)
 tygodniknotecki.pl##.k2FeedIcon, .syndicate-module
