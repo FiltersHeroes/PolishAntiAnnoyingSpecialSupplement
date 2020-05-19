@@ -1,4 +1,8 @@
 4kdownload.com##.community__item--feed.community__item
+~poczta.wp.pl,~www.wp.pl,wp.pl##a[class][href*="instagram.com"][title^="Instagram"][target="_blank"]
+librus.pl##.zse-footer__social-link
+rocketpoland.com##.social
+dhl.com##.c-footer-social-container
 forum.benchmark.pl###rss_feed
 znajdzto.pl##.subRss
 dlahandlu.pl#?#.right > .box-3 > div.header-1:nth-of-type(3):-abp-has(~ .social)
