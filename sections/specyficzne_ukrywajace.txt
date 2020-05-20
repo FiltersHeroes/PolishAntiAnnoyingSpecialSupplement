@@ -1,6 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
 czeladz.pl##.i-rss
-~poczta.wp.pl,~www.wp.pl,wp.pl##a[class][href*="instagram.com"][title^="Instagram"][target="_blank"]
 librus.pl##.zse-footer__social-link
 rocketpoland.com##.social
 dhl.com##.c-footer-social-container
