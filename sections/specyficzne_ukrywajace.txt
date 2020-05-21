@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 czeladz.pl##.i-rss
+radiotczew.pl##.icon-rss
 librus.pl##.zse-footer__social-link
 rocketpoland.com##.social
 dhl.com##.c-footer-social-container
