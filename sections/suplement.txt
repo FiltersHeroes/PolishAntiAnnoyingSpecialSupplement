@@ -5,4 +5,6 @@ powiatkwidzynski.pl##a[href^="/index.php"]:style(visibility: hidden !important;)
 um.kielce.pl##+js(remove-attr.js, href, map > area[alt="RSS"])
 um.kielce.pl##^map > area[alt="RSS"]
 um.kielce.pl$$map > area[alt="RSS"]
+um.kielce.pl##map > area[alt="RSS"]:remove()
+um.kielce.pl#$?#map > area[alt="RSS"] { remove: true; }
 wsqn.pl##.extralight-border:style(border: none !important;)
