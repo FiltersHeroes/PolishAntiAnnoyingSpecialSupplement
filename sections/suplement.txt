@@ -8,3 +8,6 @@ um.kielce.pl$$map > area[alt="RSS"]
 um.kielce.pl##map > area[alt="RSS"]:remove()
 um.kielce.pl#$?#map > area[alt="RSS"] { remove: true; }
 wsqn.pl##.extralight-border:style(border: none !important;)
+fcmarket.com.pl##.newsletter_background, .nt.newsletter_toggle
+fcmarket.com.pl###container:style(margin-right: auto !important;)
+fcmarket.com.pl##.bdy:style(overflow: auto !important;)
