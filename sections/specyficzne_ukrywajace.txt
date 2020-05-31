@@ -1,8 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-support.microsoft.com###media-feed
-biznesalert.pl##.social > li:nth-of-type(7)
-biznesalert.pl##.footer-col-icons > .footer-col-icons-title
-
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -36,6 +32,8 @@ bieszczady.pl###header_menu > a[href$="/rss.xml"]
 biore.to,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
+biznesalert.pl##.footer-col-icons > .footer-col-icons-title
+biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
 blog-spadkowy.pl,leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,podatki-dla-prawnika.pl,pozeworozwodblog.pl,prawodlalekarza.pl,rejestracjaspolkiwdelaware.pl,rozwodprzedsiebiorcy.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl###s_rss
@@ -283,6 +281,7 @@ sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
+support.microsoft.com###media-feed
 szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
