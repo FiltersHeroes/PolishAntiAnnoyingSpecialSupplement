@@ -1,6 +1,7 @@
 angielski-przedszkole.pl##.dd-rss-tag-icon
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
+nowymarketing.pl##.link-rss
 
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
