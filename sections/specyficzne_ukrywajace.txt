@@ -355,3 +355,4 @@ zuch.media##.fw-footer-social > a:nth-of-type(4)
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
+naturbio.pl##.footer-container
