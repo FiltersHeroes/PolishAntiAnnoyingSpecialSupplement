@@ -1,14 +1,11 @@
-angielski-przedszkole.pl##.dd-rss-tag-icon
-24pr.pl##a[href$="/feed"]
-24pr.pl##a[href*="feeds.feedburner.com/"]
-nowymarketing.pl##.link-rss
-kwantowo.pl##a[href$="/feed/"]
-
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
+24pr.pl##a[href$="/feed"]
+24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
+actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
 adex.pisz.pl,alejasztuki.com,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
@@ -18,10 +15,11 @@ altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info,ugotuj.to##.fa-rss
+angielski-przedszkole.pl##.dd-rss-tag-icon
 anyforum.pl,skyup.pl##.rs.sicon
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
-autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl##.link-rss
+autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankrutemjestem.pl,inwestycjebudowlane.biz,jakzalozycfirmenaukrainie.com,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,pozewzfaktury.pl,prawnikdlakonsumenta.pl,prawo-autorskie-blog.pl,prawonaplacubudowy.pl,przedawnione.pl,przedsiebiorcawsadzie.pl,zadowolonypacjent.pl,zarzadwspolcezoo.pl##.s_rss
 banzaj.pl###foot_monika
@@ -164,6 +162,7 @@ krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
+kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwestiasmaku.com###block-block-16
 librus.pl##.zse-footer__social-link
 linuxporady.pl###heatmapthemead-rss-social-icon
@@ -176,7 +175,6 @@ majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
 marketerplus.pl##[href="https://marketerplus.pl/feed/"]
-marketerplus.pl,rzg.pl##a[href$="/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
@@ -200,6 +198,7 @@ naszamlawa.pl##.td-social-list > div.td_social_rss
 naszdziennik.pl###metka-rss
 naszemiasto.pl,snobka.pl##a[href$="/rss/"]
 naszpradnik.pl##.menu-social-feed
+naturbio.pl##.footer-container
 niebezpiecznik.pl###text-3 > .textwidget > p
 niedziela.pl##a > .mdi-rss-box.mdi
 nj24.pl###footer-feed-icon
@@ -354,5 +353,3 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nt
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
-actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
-naturbio.pl##.footer-container
