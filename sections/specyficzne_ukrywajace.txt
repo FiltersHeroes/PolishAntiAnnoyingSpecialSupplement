@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+tabletowo.pl##.menu-icon-rss
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -205,7 +206,7 @@ nj24.pl###footer-feed-icon
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
-oiot.pl##.menu-icon-rss.menu-icon
+oiot.pl##.menu-icon-rss
 oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
