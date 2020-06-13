@@ -234,8 +234,8 @@ porozmawiajmyoit.pl##.buzz_rss
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
 portalspozywczy.pl##.left > .wrap > .box-9 > h2
-portalspozywczy.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
-portalspozywczy.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
+portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
+portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
 powiat-legionowski.pl##.h-ic-7
 powrotroberta.blogspot.co.uk##.feed-links
 ppe.pl##a[href="/rss.html"]
