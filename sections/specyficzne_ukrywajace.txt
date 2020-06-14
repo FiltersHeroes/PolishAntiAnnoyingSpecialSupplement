@@ -1,7 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-pepsieliot.com##.rss-button
-pepsieliot.com##.pepsi-more > .wrapper > h2
-tabletowo.pl##.menu-icon-rss
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -84,7 +81,7 @@ emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 euractiv.pl##.subscribe-link
-ewaipiotr.pl##.menu-icon-rss
+ewaipiotr.pl,oiot.pl,tabletowo.pl##.menu-icon-rss
 exsites.pl##a[title="RSS"]
 e-katalog.intercars.com.pl###sf_rozwin
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
@@ -208,7 +205,6 @@ nj24.pl###footer-feed-icon
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
-oiot.pl##.menu-icon-rss
 oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
@@ -220,6 +216,8 @@ paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
+pepsieliot.com##.pepsi-more > .wrapper > h2
+pepsieliot.com##.rss-button
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
@@ -293,6 +291,7 @@ support.microsoft.com###media-feed
 szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
+teatrsyrena.pl##.footer-col1
 tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
@@ -356,4 +355,3 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(n+2):nt
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 !korsosanockie.pl##a[href="http://www.korsosanockie.pl/rss"]
 !korso.pl##a[href="http://www.korso.pl/rss"]
-teatrsyrena.pl##.footer-col1
