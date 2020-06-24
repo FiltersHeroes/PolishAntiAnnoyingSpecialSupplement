@@ -3,3 +3,4 @@ pl##.fa-rss
 pl##.fa-rss-square
 pl##.rss-button
 pl##.rss:not(.block)
+pl##li > a > .icon-rss
