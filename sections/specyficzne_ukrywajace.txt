@@ -2,6 +2,7 @@ poznan.uw.gov.pl##.feed-icon > .feed-icon
 boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,halogorlice.info,koscierzyna24.info,lokalna.news,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
 m.e-lubon.pl##.feed-icon
 axa.pl##.has-socials
+pobitegary.com###text-3
 
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,naszekielce.com##.feed-icon
