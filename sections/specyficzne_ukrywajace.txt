@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 forum.komputerswiat.pl###rss_feed
 polska-zbrojna.pl##.social-rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
