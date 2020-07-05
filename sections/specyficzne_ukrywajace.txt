@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+listwy-dekoracyjne.pl###newsletter_block_social
 em.kielce.pl##.page-right > .stick
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 forum.komputerswiat.pl###rss_feed
