@@ -1,3 +1,6 @@
+sportwizja.pl###foot_ball
+mvno-gsm.pl###nav_menu-12
+
 4kdownload.com##.community__item--feed.community__item
 rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
