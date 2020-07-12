@@ -1,8 +1,4 @@
-sportwizja.pl###foot_ball
-mvno-gsm.pl###nav_menu-12
-
 4kdownload.com##.community__item--feed.community__item
-rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -198,6 +194,7 @@ mojewypiekiinietylko.com,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
+mvno-gsm.pl###nav_menu-12
 mynaszlaku.pl##.socicon-rss
 n1ghtwish.no-ip.pl##.footer_links_external.footer_links > a[href*="rss"]
 nafrontendzie.pl##div.icon:nth-of-type(3)
@@ -268,6 +265,7 @@ roland-gazeta.pl##.jeSocial > span:last-child
 rynekaptek.pl##.box > .bordered
 rynekinfrastruktury.pl##a[href$="/rss.html"]
 rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
+rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
 rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
@@ -297,6 +295,7 @@ spece.it##.social-links > li:nth-of-type(3)
 sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
+sportwizja.pl###foot_ball
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
 szkolymedyczne.eu###topbar
