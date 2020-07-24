@@ -2,6 +2,8 @@
 
 [![Issues h](https://isitmaintained.com/badge/resolution/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg)](https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues)
 [![Issues o](https://img.shields.io/github/issues/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement.svg?colorB=23b69a)](https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues)
+[![repo size](https://img.shields.io/github/repo-size/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement?colorB=23b69a)](https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement)
+
 
 Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 
