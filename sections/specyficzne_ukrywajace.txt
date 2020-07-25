@@ -1,3 +1,4 @@
+news.astronet.pl##.sc-rss
 4kdownload.com##.community__item--feed.community__item
 media.poczta-polska.pl##.subscribe-section__rss
 wirtualnemedia.pl##.header .icon-right .middle-icon > span, a[href="/rss.html"]
