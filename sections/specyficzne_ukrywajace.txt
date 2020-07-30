@@ -44,6 +44,7 @@ biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
 blogmtb.pl##.roll4
 blog-spadkowy.pl,leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,podatki-dla-prawnika.pl,pozeworozwodblog.pl,prawodlalekarza.pl,rejestracjaspolkiwdelaware.pl,rozwodprzedsiebiorcy.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl###s_rss
+zobraczkaczybez.pl###s_rss
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
 boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,halogorlice.info,koscierzyna24.info,lokalna.news,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
