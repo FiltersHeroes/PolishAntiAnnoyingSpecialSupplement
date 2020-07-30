@@ -1,6 +1,6 @@
 pl##li > a > .icon-rss
 pl###naglowek-link-rss
-pl##.s_rss[href*=/feed"]
+pl##.s_rss[href*="/feed"], #s_rss[href*="/feed"]
 pl##.fa-rss
 pl##.fa-rss-square
 pl##.rss-button
