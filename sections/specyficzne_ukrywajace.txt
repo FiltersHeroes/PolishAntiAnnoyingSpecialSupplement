@@ -24,7 +24,7 @@ ataksja.org.pl###linkcat-34
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
-bankrutemjestem.pl,inwestycjebudowlane.biz,jakzalozycfirmenaukrainie.com,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,pozewzfaktury.pl,prawnikdlakonsumenta.pl,prawo-autorskie-blog.pl,prawonaplacubudowy.pl,przedawnione.pl,przedsiebiorcawsadzie.pl,zadowolonypacjent.pl,zarzadwspolcezoo.pl##.s_rss
+!bankrutemjestem.pl,inwestycjebudowlane.biz,jakzalozycfirmenaukrainie.com,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,pozewzfaktury.pl,prawnikdlakonsumenta.pl,prawo-autorskie-blog.pl,prawonaplacubudowy.pl,przedawnione.pl,przedsiebiorcawsadzie.pl,zadowolonypacjent.pl,zarzadwspolcezoo.pl,spjawna.pl##.s_rss[href*=/feed"]
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
