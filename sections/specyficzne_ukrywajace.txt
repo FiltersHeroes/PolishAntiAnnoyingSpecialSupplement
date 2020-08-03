@@ -193,6 +193,7 @@ misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,www.freestyle.pl###rss-link
+smsuchabeskidzka.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
