@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-martom-hurtownia.pl##.yt-footer-wrap > .footer-top
-zssucha.pl###block-node-syndicate
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -71,7 +69,7 @@ dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
 doosanbabcock.com##.btn_rss
-dzeta.com.pl###block-node-syndicate
+dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
 egospodarka.pl##.ego-ico4
@@ -183,6 +181,7 @@ majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com###text-3
 marketerplus.pl##[href="https://marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
+martom-hurtownia.pl##.yt-footer-wrap > .footer-top
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
 media.netflix.com##.signup-for-blog
@@ -193,8 +192,7 @@ miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type
 misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
-mojewypiekiinietylko.com,www.freestyle.pl###rss-link
-smsuchabeskidzka.pl###rss-link
+mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
