@@ -1,8 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
-wiadomoscihandlowe.pl##.footer__links a[href^="/strona/kanaly-rss-"]
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
@@ -341,6 +339,8 @@ waw4free.pl###spolecznosci
 wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
+wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
+wiadomoscihandlowe.pl##.footer__links a[href^="/strona/kanaly-rss-"]
 wikidot.com,~www.wikidot.com##.feedinfo
 wirtualnemedia.pl##.header .icon-right .middle-icon > span, a[href="/rss.html"]
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
