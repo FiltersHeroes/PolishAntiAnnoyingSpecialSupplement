@@ -1,4 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
+bankier.pl,claudia.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to##footer a[href*="/rss/"]
+haps.pl##footer li:nth-of-type(3) > [href$="000,0.html"]
+
 mirafaber.pl###divBottomRight a[href$="/feed"]
 polsl.pl##.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
