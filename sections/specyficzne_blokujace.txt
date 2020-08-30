@@ -1,6 +1,5 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
-||muzeumwp.pl/images/logo-rss.jpg
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
@@ -17,6 +16,7 @@
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
 ||mojacukrzyca.org/grafika/logo/20170801/rss.gif
+||muzeumwp.pl/images/logo-rss.jpg
 ||oglaszamy24.pl/img/rss.gif
 ||parkslaski.pl/modules/mod_cckrss/rss-ico.png$image
 ||pionki24.pl/images/index_r.png
