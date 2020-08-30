@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+boleslawiec.tv,echotygodnik.info,swiebodzin.tv##.rss
 bankier.pl,claudia.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to##footer a[href*="/rss/"]
 haps.pl##footer li:nth-of-type(3) > [href$="000,0.html"]
 
