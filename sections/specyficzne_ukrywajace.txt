@@ -3,6 +3,7 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
+insert.com.pl###footer > .footer-box > .column.last
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
