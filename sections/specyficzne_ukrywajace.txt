@@ -1,3 +1,4 @@
+biznes.pap.pl###social > a[href="/pl/rss/"]
 4kdownload.com##.community__item--feed.community__item
 trojmiejska.com##footer #easycontent_6 > .title_block
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
