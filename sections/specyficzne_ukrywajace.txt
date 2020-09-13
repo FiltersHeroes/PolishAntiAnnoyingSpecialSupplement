@@ -1,11 +1,8 @@
-biznes.pap.pl###social > a[href="/pl/rss/"]
 4kdownload.com##.community__item--feed.community__item
-trojmiejska.com##footer #easycontent_6 > .title_block
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
-insert.com.pl###footer > .footer-box > .column.last
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
@@ -44,6 +41,7 @@ biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
 biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
+biznes.pap.pl###social > a[href="/pl/rss/"]
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
@@ -137,6 +135,7 @@ igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.inf
 imagazine.pl###text-402422664
 in4.pl##div.sidebar-block:nth-of-type(7)
 insert.com.pl##li:nth-of-type(1) > .info-channel
+insert.com.pl###footer > .footer-box > .column.last
 instalki.pl###menu_right > a[href="https://feeds.feedburner.com/Instalki"]
 intercyza-blog.pl###text-18
 interpretacje-podatkowe.org###hi
@@ -323,6 +322,7 @@ telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 toiowo.eu###gk-rss
+trojmiejska.com##footer #easycontent_6 > .title_block
 trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
 tulodz.pl##.section-bottom-social__box--rss
 tvn24.pl##.rbox
