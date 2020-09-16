@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+www.motorola.com##.checkout-footer-social
 bip.dzialdowo.eu##.rss
 gazetaprawna.pl##a[href$="/rss/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
