@@ -250,7 +250,7 @@ podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
 polsatsport.pl,twojapogoda.pl##.ico-rss
-polsl.pl##.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
+polsl.pl#?#.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
 porozmawiajmyoit.pl##.buzz_rss
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
