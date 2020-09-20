@@ -1,3 +1,4 @@
+czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 4kdownload.com##.community__item--feed.community__item
 gorenje.pl##.sprite-socialIcon-rss
 www.motorola.com##.checkout-footer-social
