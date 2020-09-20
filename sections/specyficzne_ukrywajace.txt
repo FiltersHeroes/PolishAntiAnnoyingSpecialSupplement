@@ -1,6 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
 gorenje.pl##.sprite-socialIcon-rss
 www.motorola.com##.checkout-footer-social
+mi-home.pl###newsletter_block_left[id]
 cudmoda.pl##.block-newsletter
 bip.dzialdowo.eu##.rss
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #newsletter_container)
