@@ -1,12 +1,4 @@
-czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 4kdownload.com##.community__item--feed.community__item
-gorenje.pl##.sprite-socialIcon-rss
-www.motorola.com##.checkout-footer-social
-mi-home.pl###newsletter_block_left[id]
-cudmoda.pl##.block-newsletter
-bip.dzialdowo.eu##.rss
-planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #newsletter_container)
-gazetaprawna.pl##a[href$="/rss/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -43,7 +35,7 @@ bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
 bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
-biore.to,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,swiebodzin.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+biore.to,bip.dzialdowo.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,swiebodzin.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
@@ -68,8 +60,10 @@ comparic.pl###menu-item-264018
 consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img
 crazynauka.pl,niezatapialni.com###text-5
 croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
+cudmoda.pl##.block-newsletter
 czasdzieci.pl##.atom
 czeladz.pl##.i-rss
+czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dhl.com##.c-footer-social-container
 digitalassets.pl##.feed-link-wrap
@@ -112,6 +106,7 @@ forum.unturned.pl##a[href="forums/-/index.rss"]
 fundacjawolnosci.org###menu-item-2756
 gazeo.pl##.rss-blue
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
+gazetaprawna.pl,naszemiasto.pl,snobka.pl##a[href$="/rss/"]
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 gbpizs.gov.pl##.ikona-menu.bip-rss
 gb.pl,wsieciprawdy.pl##.xy.socIco
@@ -124,6 +119,7 @@ gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
 goleniow.pl##.menu > .item7
+gorenje.pl##.sprite-socialIcon-rss
 gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
@@ -205,6 +201,7 @@ miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type
 mirafaber.pl###divBottomRight a[href$="/feed"]
 misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
+mi-home.pl###newsletter_block_left[id]
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
@@ -218,7 +215,6 @@ namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszamlawa.pl##.td-social-list > div.td_social_rss
 naszdziennik.pl###metka-rss
-naszemiasto.pl,snobka.pl##a[href$="/rss/"]
 naszpradnik.pl##.menu-social-feed
 naturbio.pl##.footer-container
 news.astronet.pl##.sc-rss
@@ -244,6 +240,7 @@ pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
+planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
@@ -374,6 +371,7 @@ wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 www.angela.pl##a[href="rss.php"]
+www.motorola.com##.checkout-footer-social
 www.pila.pl##.rss_link
 www.tesa.com##div.js-controller.module
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)

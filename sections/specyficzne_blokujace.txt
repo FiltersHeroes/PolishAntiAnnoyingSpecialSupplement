@@ -1,5 +1,4 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
-||ksiazwielki.eu/templates/gkwbluecity/images/rss_32.png
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
@@ -16,6 +15,7 @@
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
+||ksiazwielki.eu/templates/gkwbluecity/images/rss_32.png
 ||mojacukrzyca.org/grafika/logo/20170801/rss.gif
 ||muzeumwp.pl/images/logo-rss.jpg
 ||oglaszamy24.pl/img/rss.gif
