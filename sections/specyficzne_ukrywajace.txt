@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+gorenje.pl##.sprite-socialIcon-rss
 www.motorola.com##.checkout-footer-social
 cudmoda.pl##.block-newsletter
 bip.dzialdowo.eu##.rss
