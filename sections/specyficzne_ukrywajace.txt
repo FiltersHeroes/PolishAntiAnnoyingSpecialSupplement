@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+rpo.lubelskie.pl##a[title^="RSS"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 tarnowska.tv##.rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
