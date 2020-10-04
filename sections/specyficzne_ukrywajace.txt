@@ -1,7 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-newseria.pl##.ist_rss
-cert.pl##.rss-icon
-arimr.gov.pl##.soc-rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -20,6 +17,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angielski-przedszkole.pl##.dd-rss-tag-icon
 anyforum.pl,skyup.pl##.rs.sicon
+arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 autoidea.pl###media
@@ -56,6 +54,7 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cad-akademia.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cashless.pl##.item-184
+cert.pl##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chwp.pl##a[href="https://www.chwp.pl/feed/"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
@@ -221,6 +220,7 @@ naszamlawa.pl##.td-social-list > div.td_social_rss
 naszdziennik.pl###metka-rss
 naszpradnik.pl##.menu-social-feed
 naturbio.pl##.footer-container
+newseria.pl##.ist_rss
 news.astronet.pl##.sc-rss
 niebezpiecznik.pl###text-3 > .textwidget > p
 niedziela.pl##a > .mdi-rss-box.mdi
