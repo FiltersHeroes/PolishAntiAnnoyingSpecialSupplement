@@ -1,12 +1,8 @@
 4kdownload.com##.community__item--feed.community__item
-strajk.eu##.rss-icon
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
-
-bip.gig.eu##.rss
-forexrev.pl##.ca_socialswidget
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
@@ -40,7 +36,7 @@ bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
 bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
-biore.to,bip.dzialdowo.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,swiebodzin.tv,tarnowska.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,swiebodzin.tv,tarnowska.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
@@ -58,7 +54,7 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cad-akademia.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cashless.pl##.item-184
-cert.pl##.rss-icon
+cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chwp.pl##a[href="https://www.chwp.pl/feed/"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
@@ -102,6 +98,7 @@ festiwalbiegowy.pl###block-block-52
 filmozercy.com##.c-panel-social__item--rss
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
+forexrev.pl##.ca_socialswidget
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
 forumsamochodowe.pl##.rsslink
 forum.archlinux.org.pl###feedlinks
