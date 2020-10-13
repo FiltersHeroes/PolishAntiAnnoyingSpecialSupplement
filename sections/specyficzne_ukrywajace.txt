@@ -1,4 +1,7 @@
+zyleta.info##.followupdate
+naziemna.info##.home-feat-rss
 4kdownload.com##.community__item--feed.community__item
+mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
