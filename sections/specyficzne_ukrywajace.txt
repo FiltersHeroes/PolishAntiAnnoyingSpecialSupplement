@@ -1,5 +1,7 @@
 zyleta.info##.followupdate
 naziemna.info##.home-feat-rss
+nowyzmigrod.eu##.dd-rss-tag-icon
+grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
 4kdownload.com##.community__item--feed.community__item
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
