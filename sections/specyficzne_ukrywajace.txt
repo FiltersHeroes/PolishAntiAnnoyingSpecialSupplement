@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+lipsko24.pl##img[src="images/index_r.png"]
 lokalna.news##.rss
 sejny.info##.rss
 sejny.info##.icon-rss
