@@ -1,9 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-lipsko24.pl##img[src="images/index_r.png"]
-lokalna.news##.rss
-sejny.info##.rss
-sejny.info##.icon-rss
-crn.pl##a.social-top-header:nth-of-type(4)
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -41,7 +36,7 @@ bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
 bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
-biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,siatka.org,slubice.tv,swiebodzin.tv,tarnowska.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,debica24.eu,ec.europa.eu,echotygodnik.info,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,swiebodzin.tv,tarnowska.tv,truso.tv,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
@@ -51,7 +46,7 @@ biznes.pap.pl###social > a[href="/pl/rss/"]
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
-boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,halogorlice.info,koscierzyna24.info,lokalna.news,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
+boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,halogorlice.info,koscierzyna24.info,lokalna.news,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,sejny.info,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
 bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
@@ -66,6 +61,7 @@ ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
 consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img
 crazynauka.pl,niezatapialni.com###text-5
+crn.pl##a.social-top-header:nth-of-type(4)
 croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
 cudmoda.pl##.block-newsletter
 czasdzieci.pl##.atom
@@ -179,7 +175,7 @@ kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
 kosapopatelni.pl##div.footer-col3:nth-of-type(3)
-kozienice24.pl,zwolen24.pl##img[src="images/index_r.png"]
+kozienice24.pl,lipsko24.pl,zwolen24.pl##img[src="images/index_r.png"]
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
