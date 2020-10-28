@@ -24,7 +24,7 @@ autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
-bankier.pl,claudia.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info##footer a[href*="/rss/"]
+bankier.pl,claudia.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,ugotuj.to,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info##footer a[href*="/rss/"]
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
