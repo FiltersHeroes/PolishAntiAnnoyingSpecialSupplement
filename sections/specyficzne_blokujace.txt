@@ -1,7 +1,6 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
-||packaging-polska.pl/include/templates/www/img/icon_rss.gif
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
@@ -22,6 +21,7 @@
 ||muzeumwp.pl/images/logo-rss.jpg
 ||nowaruda.info/img/rss_
 ||oglaszamy24.pl/img/rss.gif
+||packaging-polska.pl/include/templates/www/img/icon_rss.gif
 ||parkslaski.pl/modules/mod_cckrss/rss-ico.png$image
 ||pionki24.pl/images/index_r.png
 ||plfoto.com/gfx/rss_icon.png
