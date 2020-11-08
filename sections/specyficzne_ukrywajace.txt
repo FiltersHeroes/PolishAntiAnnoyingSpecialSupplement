@@ -1,5 +1,5 @@
-gorlice.tv##.icon-rss
-gorlice.tv##.rss
+gorlice.tv,lubelska.tv##.icon-rss
+gorlice.tv,lubelska.tv##.rss
 portalrolniczy.info,portalautomatyki.pl##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 cowkrakowie.pl##.rss--feed--component
 4kdownload.com##.community__item--feed.community__item
