@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-
-kwartalnikiustitia.pl###footer_6
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -184,6 +182,7 @@ kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
 kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
+kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 leftlane.pl##.tipi-i-rss
 librus.pl##.zse-footer__social-link
