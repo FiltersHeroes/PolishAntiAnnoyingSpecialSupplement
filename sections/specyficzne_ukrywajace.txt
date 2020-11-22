@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 dami24.pl##.ico-rss
+ceneo.pl##section.footer__main__section:nth-of-type(5)
 kurierskruda.pl###icon-header-rss
 tarnowska.tv##.social > .dropdown
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
