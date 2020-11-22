@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 dami24.pl##.ico-rss
+neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 kurierskruda.pl###icon-header-rss
 tarnowska.tv##.social > .dropdown
