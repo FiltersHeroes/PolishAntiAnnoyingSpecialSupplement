@@ -1,5 +1,6 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
+||spzaduszniki.pl/layouts/_sources/panel/img/icons/panel_rss.gif
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
