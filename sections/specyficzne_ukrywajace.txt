@@ -1,11 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-miejscepiastowe.pl##a[href="_private/rssw.xml"]
-rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
-dami24.pl##.ico-rss
-neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
-ceneo.pl##section.footer__main__section:nth-of-type(5)
-kurierskruda.pl###icon-header-rss
-tarnowska.tv##.social > .dropdown
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -61,6 +54,7 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 bydgoszcz.com##a[href="https://www.bydgoszcz.com/rss"]
 cad-akademia.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cashless.pl##.item-184
+ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chwp.pl##a[href="https://www.chwp.pl/feed/"]
@@ -76,6 +70,7 @@ czasdzieci.pl##.atom
 czeladz.pl##.i-rss
 czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
+dami24.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
 dhl.com##.c-footer-social-container
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
@@ -188,6 +183,7 @@ krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
+kurierskruda.pl###icon-header-rss
 kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
@@ -199,7 +195,7 @@ lodzkie.pl##.jj_sl_rss
 lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
-lubelska.tv##.social > .dropdown
+lubelska.tv,tarnowska.tv##.social > .dropdown
 magazynkuchenny.com###social > li > [href*="feed"]
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
@@ -214,6 +210,7 @@ media.poczta-polska.pl##.subscribe-section__rss
 megascena.pl###footer > #subscribe-out
 melagu.pl##.ty-footer-grid > div:nth-of-type(1) > div[class*="footer-"].span16
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
+miejscepiastowe.pl##a[href="_private/rssw.xml"]
 mirafaber.pl###divBottomRight a[href$="/feed"]
 misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
@@ -235,6 +232,7 @@ naszdziennik.pl###metka-rss
 naszpradnik.pl##.menu-social-feed
 naturbio.pl##.footer-container
 naziemna.info##.home-feat-rss
+neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
 news.astronet.pl##.sc-rss
 niebezpiecznik.pl###text-3 > .textwidget > p
@@ -268,7 +266,6 @@ pl.wikipedia.org###feed-atom
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
-polsatsport.pl,twojapogoda.pl##.ico-rss
 polsl.pl#?#.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
 porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
@@ -300,6 +297,7 @@ rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column:nth-of-type(6) > h3
 rocketpoland.com##.social
 roland-gazeta.pl##.jeSocial > span:last-child
+rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 rpo.lubelskie.pl##a[title^="RSS"]
 rynekaptek.pl##.box > .bordered
