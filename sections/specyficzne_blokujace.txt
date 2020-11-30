@@ -1,4 +1,5 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
+||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
