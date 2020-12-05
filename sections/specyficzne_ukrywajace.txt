@@ -1,3 +1,4 @@
+finansenaplus.pl###rssfeed
 4kdownload.com##.community__item--feed.community__item
 szadek.net##a[href="_private/rss.xml"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
