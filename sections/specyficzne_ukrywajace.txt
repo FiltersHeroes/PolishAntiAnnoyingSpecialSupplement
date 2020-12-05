@@ -1,6 +1,14 @@
 rmf24.pl#?#li:-abp-has(> div > a[href="/kanaly/rss"])
+gminabestwina.info##.jj_sl_rss
+gminabestwina.info##table .scroolleft
+chroberz.info##.syndicate-module
+augustow24.pl##a[href="rss.xml"]
+pracodawcy.info.pl##.feed-icon
+naszepiaseczno.pl###footer > div > div.grid_12:nth-of-type(3) > div.region > .widget-navigations.widget
 finansenaplus.pl###rssfeed
 warka24.pl##.top-rss
+bedzin.pl##.rss_baner
+zadania.info###atomR > a[href^="/feed"]
 4kdownload.com##.community__item--feed.community__item
 szadek.net##a[href="_private/rss.xml"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com##.feed-icon
@@ -22,6 +30,7 @@ anetaduk.com,bialogard.info,epremki.com,omediach.info,przedsiebiorcy.eu,radio.op
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
+srem.pl##.icon-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 autoidea.pl###media
@@ -126,6 +135,7 @@ geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
 gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
 glitch.com.pl,mvno-gsm.pl,zary24.pl##.widget_rss_links
+prabuty.pl##.widget_rss_links
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminasiedlce.pl##a[href^="/?rss"]
 godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-content > div
@@ -357,7 +367,8 @@ tulodz.pl##.section-bottom-social__box--rss
 tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
 twoje-seriale.pl##.Syn > ul
-tygodniknotecki.pl##.k2FeedIcon, .syndicate-module
+tygodniknotecki.pl##.k2FeedIcon
+tygodniknotecki.pl##.syndicate-module
 tygodnikoko.pl##a[href="http://www.tygodnikoko.pl/rss"]
 tygodnikpowszechny.pl##p > a[href="/rss.xml"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
