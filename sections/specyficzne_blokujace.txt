@@ -1,5 +1,4 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
-||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
@@ -11,6 +10,7 @@
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
+||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 ||ithardware.pl/img/rss.svg
 ||i.racjonalista.pl/img/rssc.gif
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
@@ -30,7 +30,6 @@
 ||police24.pl/templates/zp24/images/livemarks.png
 ||propertynews.pl/images/2018/icons/rss-wh.png$image
 ||purepc.pl/skin/m_rs.png
-
 ||rynek-kolejowy.pl/themes/rssmiddle.png
 ||sandecja.org/templates/default/images/rss.gif
 ||sps24.pl/media/desktop/rss.swf
