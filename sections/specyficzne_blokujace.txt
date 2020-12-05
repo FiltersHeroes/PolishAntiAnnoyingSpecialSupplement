@@ -30,7 +30,7 @@
 ||police24.pl/templates/zp24/images/livemarks.png
 ||propertynews.pl/images/2018/icons/rss-wh.png$image
 ||purepc.pl/skin/m_rs.png
-||rmf24.pl/s/classic/ikony@2x.png
+
 ||rynek-kolejowy.pl/themes/rssmiddle.png
 ||sandecja.org/templates/default/images/rss.gif
 ||sps24.pl/media/desktop/rss.swf
