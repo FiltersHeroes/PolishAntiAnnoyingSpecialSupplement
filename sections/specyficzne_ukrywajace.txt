@@ -47,7 +47,7 @@ biznes.pap.pl###social > a[href="/pl/rss/"]
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
-boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,sejny.info,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
+tczewska.pl,portalpomorza.pl,kwidzyn1.pl,boleslawiec.tv,bydgoszcz.com,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,sejny.info,swiebodzin.tv,tarnowska.tv,telepolis.pl,tlp.is,truso.tv,wejherowo24.info##.icon-rss
 bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
