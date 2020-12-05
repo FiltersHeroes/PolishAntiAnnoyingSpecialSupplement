@@ -1,3 +1,4 @@
+rmf24.pl#?#li:-abp-has(> div > a[href="/kanaly/rss"])
 finansenaplus.pl###rssfeed
 warka24.pl##.top-rss
 4kdownload.com##.community__item--feed.community__item
