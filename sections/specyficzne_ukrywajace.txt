@@ -306,10 +306,13 @@ roland-gazeta.pl##.jeSocial > span:last-child
 rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 rpo.lubelskie.pl##a[title^="RSS"]
-rynekaptek.pl##.box > .bordered
+rynekzdrowia.pl,rynekrynekaptek.pl,rynekseniora.pl###socialBox > .navi > a:nth-of-type(4)
+rynekzdrowia.pl,rynekrynekaptek.pl,rynekseniora.pl###socialBox > .panes > .one.active:nth-child(4)
+rynekzdrowia.pl,rynekrynekaptek.pl,rynekseniora.pl#?#.box:-abp-has(#socialBox)
+!rynekaptek.pl##.box > .bordered
 rynekinfrastruktury.pl##a[href$="/rss.html"]
-rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
-rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
+!rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
+!rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
 rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
