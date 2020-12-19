@@ -1,3 +1,12 @@
+poznan.pl##.icon-rss
+przeclaw24.pl##.art-rss-tag-icon
+strzelec.info##.icon-rss
+strzelec.info##.rss
+wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
+wielen.pl##.news_rss_icon
+jezowe.pl##a[href^="https://jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
+twoj-kleszczow.pl###rss a
+
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -59,7 +68,7 @@ cashless.pl##.item-184
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
-chroberz.info,katedra.rzeszow.pl,tygodniknotecki.pl##.syndicate-module
+chroberz.info,katedra.rzeszow.pl,tygodniknotecki.pl,przeclaw24.pl##.syndicate-module
 chwp.pl##a[href="https://www.chwp.pl/feed/"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
