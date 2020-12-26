@@ -1,4 +1,5 @@
 ||rugby.info.pl/wp-content/plugins/*/*/default_rss.png
+||deblin24.eu/images/index_r.png
 
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
