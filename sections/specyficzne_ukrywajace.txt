@@ -78,7 +78,7 @@ dhl.com##.c-footer-social-container
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
-dlahandlu.pl#?#.right > .box-3 > div.header-1:nth-of-type(3):-abp-has( ~ .social)
+!dlahandlu.pl#?#.right > .box-3 > div.header-1:nth-of-type(3):-abp-has( ~ .social)
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
@@ -309,9 +309,9 @@ rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 rpo.lubelskie.pl##a[title^="RSS"]
 rynekinfrastruktury.pl##a[href$="/rss.html"]
-rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl###socialBox > .navi > a:nth-of-type(4)
-rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl###socialBox > .panes > .one.active:nth-child(4)
-rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl#?#.box:-abp-has(#socialBox)
+dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl###socialBox > .navi > a:nth-of-type(4)
+dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl###socialBox > .panes > .one.active:nth-child(4)
+dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl#?#.box:-abp-has(#socialBox)
 rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
