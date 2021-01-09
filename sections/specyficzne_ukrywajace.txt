@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+madameedith.com##.top-social a[href^="http://feeds.feedburner.com"]
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 pszczyna.pl##.komunikacja
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
