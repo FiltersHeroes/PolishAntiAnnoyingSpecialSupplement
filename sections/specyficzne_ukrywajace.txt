@@ -1,5 +1,12 @@
 drohiczyn.info##.ico-rss
+pm1kg.pl##.rss-tag-icon
+mzgk.com.pl##.feed-icon
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
+magnesmedia.pl##.slide-rss-out-div
+cooltura24.co.uk##.icon-rss
+cooltura24.co.uk##.social > .dropdown
+cooltura24.co.uk##.rss
+tygodnikzamojski.pl##a[href="rss/"]
 
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
