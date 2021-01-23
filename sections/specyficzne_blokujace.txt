@@ -1,5 +1,4 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
-||superszkolna.pl/layouts/_sources/panel/img/icons/panel_rss.gif
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
@@ -37,6 +36,7 @@
 ||sandecja.org/templates/default/images/rss.gif
 ||sps24.pl/media/desktop/rss.swf
 ||spzaduszniki.pl/layouts/_sources/panel/img/icons/panel_rss.gif
+||superszkolna.pl/layouts/_sources/panel/img/icons/panel_rss.gif
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
 ||twoj-kleszczow.pl/wp-content/themes/statement/images/feed.gif
