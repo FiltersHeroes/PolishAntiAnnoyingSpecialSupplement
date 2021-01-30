@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-kurier.pap.pl##a[href="/rss.xml"]
-aiocollective.pl##.icon-rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -10,6 +8,7 @@ aiocollective.pl##.icon-rss
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
 adex.pisz.pl,alejasztuki.com,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
+aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
@@ -50,7 +49,6 @@ biznes.pap.pl###social > a[href="/pl/rss/"]
 blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
-boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
 bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
@@ -139,7 +137,7 @@ godne-polecenia.pl###block-block-9 > .clearfix.block-inner > .clearfix.block-con
 goleniow.pl##.menu > .item7
 gorenje.pl##.sprite-socialIcon-rss
 gospodarkapodkarpacka.pl###rssBaner
-gospodarz.tv##a[href="/rss.xml"]
+gospodarz.tv,kurier.pap.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 gram.pl##a[href*="/rss/"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
