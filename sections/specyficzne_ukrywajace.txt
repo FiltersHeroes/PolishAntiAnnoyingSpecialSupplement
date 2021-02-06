@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-i-systems.pl##a[href*="/feed"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -170,6 +169,7 @@ ip.pl##.boxyfoot:nth-of-type(4)
 istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
+i-systems.pl##a[href*="/feed"]
 jak.tv##a[href^="/feed/rss"]
 janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
 jezowe.pl##a[href^="https://jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
