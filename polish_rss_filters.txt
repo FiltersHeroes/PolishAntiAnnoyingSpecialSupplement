@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: y0DDKctFSwPHs3J8ncZBjQ
+! Checksum: jS0kSyYKrZO07FuJ+Ww7LA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 31 Jan 2021, 00:55 UTC+01
-! Version: 2021.1.4
+! Last modified: Sun, 07 Feb 2021, 00:57 UTC+01
+! Version: 2021.2.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 31 sty 2021, 00:55 UTC+01
+! Aktualizacja: nie, 07 lut 2021, 00:57 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -187,6 +187,7 @@ ip.pl##.boxyfoot:nth-of-type(4)
 istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
+i-systems.pl##a[href*="/feed"]
 jak.tv##a[href^="/feed/rss"]
 janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
 jezowe.pl##a[href^="https://jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
