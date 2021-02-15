@@ -1,4 +1,5 @@
 olgasmile.com##.fa-rss
+kas.gov.pl###linkRSS
 
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
