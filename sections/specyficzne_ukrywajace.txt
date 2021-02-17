@@ -1,4 +1,6 @@
 olgasmile.com##.fa-rss
+mkm.szczecin.pl###dropdownRSSNews
+mkm.szczecin.pl##a[href*="/rss/"]
 kas.gov.pl###linkRSS
 leclerc.rzeszow.pl##.foot_newsletter
 konkretny.pl##a[href*="/feed/"]
