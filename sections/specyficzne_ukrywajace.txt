@@ -418,10 +418,10 @@ wsqn.pl##ul.social_bookmarks
 wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
-www.angela.pl##a[href="rss.php"]
-www.motorola.com##.checkout-footer-social
-www.pila.pl##.rss_link
-www.tesa.com##div.js-controller.module
+angela.pl##a[href="rss.php"]
+motorola.com##.checkout-footer-social
+pila.pl##.rss_link
+tesa.com##div.js-controller.module
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
@@ -447,3 +447,4 @@ zyleta.info##.followupdate
 !rynekaptek.pl##.box > .bordered
 !rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 !rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
+www.dobreprogramy.pl##a[href*="feedburner.com/"]
