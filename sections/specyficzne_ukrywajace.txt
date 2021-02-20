@@ -1,9 +1,3 @@
-olgasmile.com##.fa-rss
-mkm.szczecin.pl###dropdownRSSNews
-mkm.szczecin.pl##a[href*="/rss/"]
-kas.gov.pl###linkRSS
-leclerc.rzeszow.pl##.foot_newsletter
-konkretny.pl##a[href*="/feed/"]
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -21,7 +15,8 @@ alilove.pl##.td-icon-rss
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
-anetaduk.com,bialogard.info,epremki.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
+anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
+angela.pl##a[href="rss.php"]
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
@@ -70,8 +65,7 @@ chwp.pl##a[href="https://www.chwp.pl/feed/"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
 consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img
-cooltura24.co.uk,lubelska.tv,tarnowska.tv##.social > .dropdown
-tipmedia.pl##.social > .dropdown
+cooltura24.co.uk,lubelska.tv,tarnowska.tv,tipmedia.pl##.social > .dropdown
 cowkrakowie.pl##.rss--feed--component
 crazynauka.pl,niezatapialni.com###text-5
 crn.pl##a.social-top-header:nth-of-type(4)
@@ -146,7 +140,7 @@ gorenje.pl##.sprite-socialIcon-rss
 gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv,kurier.pap.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
-gram.pl##a[href*="/rss/"]
+gram.pl,mkm.szczecin.pl##a[href*="/rss/"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
@@ -185,6 +179,7 @@ joomla.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
+kas.gov.pl,slaskie.kas.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kcynia.pl##.news__rss
 kety.pl###twittery > ul > li:nth-of-type(2)
@@ -193,6 +188,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
+konkretny.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
@@ -207,6 +203,7 @@ kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
+leclerc.rzeszow.pl##.foot_newsletter
 leftlane.pl##.tipi-i-rss
 librus.pl##.zse-footer__social-link
 linuxporady.pl###heatmapthemead-rss-social-icon
@@ -235,10 +232,12 @@ mirafaber.pl###divBottomRight a[href$="/feed"]
 misyjne.pl##.text-right > a.signbtn:nth-of-type(1)
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mi-home.pl###newsletter_block_left[id]
+mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
+motorola.com##.checkout-footer-social
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mvno-gsm.pl###nav_menu-12
@@ -277,6 +276,7 @@ pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-ty
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
+pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href^="http://planszowki.blogspot.com/feeds/posts/default"]
@@ -342,7 +342,6 @@ sirt.pl##.social > a:last-child
 skijumping.pl###addition-menu > a:last-child
 sklep.znakiczasu.pl##li > [href$="/feeder/rss.php"]
 sklep.znakiczasu.pl##.customcontent-footer > li > h4:nth-of-type(1)
-slaskie.kas.gov.pl###linkRSS
 slawomirambroziak.pl##a[href="https://slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
@@ -369,6 +368,7 @@ telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.alig
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
+tesa.com##div.js-controller.module
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 toiowo.eu###gk-rss
 trojmiejska.com##footer #easycontent_6 > .title_block
@@ -418,10 +418,7 @@ wsqn.pl##ul.social_bookmarks
 wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
-angela.pl##a[href="rss.php"]
-motorola.com##.checkout-footer-social
-pila.pl##.rss_link
-tesa.com##div.js-controller.module
+www.dobreprogramy.pl##a[href*="feedburner.com/"]
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
@@ -447,4 +444,3 @@ zyleta.info##.followupdate
 !rynekaptek.pl##.box > .bordered
 !rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 !rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
-www.dobreprogramy.pl##a[href*="feedburner.com/"]
