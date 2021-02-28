@@ -4,6 +4,7 @@ agnieszkawielobob.pl##.widget_rss_links
 kulturadobra.pl###custom_html-2
 kinopanorama.pl###rss
 silesiabank.pl##.rss-link
+e-plytki.eu##.rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
