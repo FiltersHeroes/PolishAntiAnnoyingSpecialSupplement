@@ -1,23 +1,23 @@
 [Adblock Plus 2.0]
-! Checksum: hR9dWRxV6arFIlxGrkXVKQ
+! Checksum: o2kA/+E5qs3l1R/b0kQYzg
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 21 Feb 2021, 00:55 UTC+01
-! Version: 2021.2.1
+! Last modified: Sun, 07 Mar 2021, 00:55 UTC+01
+! Version: 2021.3.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 21 lut 2021, 00:55 UTC+01
+! Aktualizacja: nie, 07 mar 2021, 00:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
 4kdownload.com##.community__item--feed.community__item
-13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,pracodawcy.info.pl##.feed-icon
+13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
@@ -25,8 +25,9 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
 adex.pisz.pl,alejasztuki.com,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
+agnieszkawielobob.pl,glitch.com.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
-aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
+aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
@@ -58,7 +59,7 @@ bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
 bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
-biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
@@ -105,6 +106,7 @@ dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
 doosanbabcock.com##.btn_rss
+dw.com,gram.pl,mkm.szczecin.pl##a[href*="/rss/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
@@ -146,8 +148,7 @@ gb.pl,wsieciprawdy.pl##.xy.socIco
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
-gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,stanprawnynieruchomosci.pl###rss
-glitch.com.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
+gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,kinopanorama.pl,stanprawnynieruchomosci.pl###rss
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminabestwina.info##table .scroolleft
 gminabestwina.info,lodzkie.pl##.jj_sl_rss
@@ -158,7 +159,6 @@ gorenje.pl##.sprite-socialIcon-rss
 gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv,kurier.pap.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
-gram.pl,mkm.szczecin.pl##a[href*="/rss/"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
@@ -216,6 +216,7 @@ krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
+kulturadobra.pl###custom_html-2
 kurierskruda.pl###icon-header-rss
 kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
@@ -355,6 +356,7 @@ senior.pl##.belka_rss
 sfinks.pl##.feed-rss, .feed-rss-link
 shopgracz.pl##.newsletter_footer_block
 signs.pl##a[href*="rss.php"]
+silesiabank.pl##.rss-link
 silesiasem.pl###text-6
 sirt.pl##.social > a:last-child
 skijumping.pl###addition-menu > a:last-child
