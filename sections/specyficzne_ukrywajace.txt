@@ -1,6 +1,3 @@
-uprp.gov.pl###header-rss-link
-telpol.net.pl##a[href*="/rss,"]
-iwanowice.malopolska.pl##.rss-wrapper
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -171,7 +168,7 @@ inwestycje.pl##.ico-foot-rss
 inzynieria.com##.cd-nav-social.list-inline > li:nth-of-type(6), .nav-social-top > li:nth-of-type(6)
 ip.pl##.boxyfoot:nth-of-type(4)
 istotne.pl##.icon_rss
-iwanowice.pl##.rss-wrapper
+iwanowice.malopolska.pl,iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 i-systems.pl##a[href*="/feed"]
 jak.tv##a[href^="/feed/rss"]
@@ -373,6 +370,7 @@ telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.alig
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telewizjazary.pl##a[href="http://www.telewizjazary.pl/rss"]
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
+telpol.net.pl##a[href*="/rss,"]
 tesa.com##div.js-controller.module
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href="http://www.thenews.pl/rss"]
 toiowo.eu###gk-rss
@@ -394,6 +392,7 @@ um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 unimot.pl##.menu_top__social-media > li:nth-of-type(6)
 upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 upflix.pl##.so-rss
+uprp.gov.pl###header-rss-link
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 wachtyrz.eu##footer #menu-item-3243
 wachtyrz.eu###custom_html-7
