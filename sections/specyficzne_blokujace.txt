@@ -2,6 +2,7 @@
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
+||kpts.com.pl/images/super-rss-cube.gif
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
