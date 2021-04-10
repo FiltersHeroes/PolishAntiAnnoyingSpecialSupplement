@@ -2,7 +2,6 @@
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
-||kpts.com.pl/images/super-rss-cube.gif
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
@@ -18,6 +17,7 @@
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
+||kpts.com.pl/images/super-rss-cube.gif
 ||ksiazwielki.eu/templates/gkwbluecity/images/rss_32.png
 ||lipsko24.pl/images/index_r.png
 ||mojacukrzyca.org/grafika/logo/20170801/rss.gif

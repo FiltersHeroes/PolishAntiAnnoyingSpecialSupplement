@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-sadownictwo.com.pl###rssLink
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -147,7 +146,7 @@ grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 haps.pl##footer li:nth-of-type(3) > [href$="000,0.html"]
-hardcorowo.pl###rssLink
+hardcorowo.pl,sadownictwo.com.pl###rssLink
 hfc.com.pl##.rss-sprite
 histmag.org##a[href^="https://histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
