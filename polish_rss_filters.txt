@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: Fn/fTQ8jEkLjiWkYsBQUKg
+! Checksum: PFAB8vngYxe8aLKZUd3phQ
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 21 Mar 2021, 00:55 UTC+01
-! Version: 2021.3.1
+! Last modified: Sun, 11 Apr 2021, 01:55 UTC+02
+! Version: 2021.4.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 21 mar 2021, 00:55 UTC+01
+! Aktualizacja: nie, 11 kwi 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -164,7 +164,7 @@ grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 haps.pl##footer li:nth-of-type(3) > [href$="000,0.html"]
-hardcorowo.pl###rssLink
+hardcorowo.pl,sadownictwo.com.pl###rssLink
 hfc.com.pl##.rss-sprite
 histmag.org##a[href^="https://histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
@@ -488,6 +488,7 @@ zyleta.info##.followupdate
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg$image
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
 ||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
+||kpts.com.pl/images/super-rss-cube.gif
 ||ksiazwielki.eu/templates/gkwbluecity/images/rss_32.png
 ||lipsko24.pl/images/index_r.png
 ||mojacukrzyca.org/grafika/logo/20170801/rss.gif
