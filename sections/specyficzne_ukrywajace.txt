@@ -7,7 +7,6 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##[href="http://actaenergetica.org/rss/pl"]
 adex.pisz.pl,alejasztuki.com,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
-menworld.pl##.menu-icon-rss
 agnieszkawielobob.pl,glitch.com.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
@@ -105,7 +104,7 @@ em.kielce.pl##.page-right > .stick
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 euractiv.pl##.subscribe-link
-ewaipiotr.pl,oiot.pl,tabletowo.pl##.menu-icon-rss
+ewaipiotr.pl,menworld.pl,oiot.pl,tabletowo.pl##.menu-icon-rss
 exsites.pl##a[title="RSS"]
 e-katalog.intercars.com.pl###sf_rozwin
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
@@ -182,7 +181,7 @@ joomla.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
-kas.gov.pl,kas.gov.pl###linkRSS
+kas.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kcynia.pl##.news__rss
 kety.pl###twittery > ul > li:nth-of-type(2)
@@ -370,7 +369,6 @@ teatrsyrena.pl##.footer-col1
 tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
-
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 telpol.net.pl##a[href*="/rss,"]
 tesa.com##div.js-controller.module
