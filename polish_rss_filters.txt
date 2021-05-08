@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: 2uhpn7IL7enEwkXnsnQUVQ
+! Checksum: ks9JWwzVbJVxpEwtNkwaWQ
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 02 May 2021, 01:55 UTC+02
-! Version: 2021.5.0
+! Last modified: Sun, 09 May 2021, 01:55 UTC+02
+! Version: 2021.5.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 02 maj 2021, 01:55 UTC+02
+! Aktualizacja: nie, 09 maj 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -132,6 +132,7 @@ filmozercy.com##.c-panel-social__item--rss
 film.com.pl,smaki.pl##.stay-updated
 finansenaplus.pl###rssfeed
 florydziak.com###float_feed_box
+forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
 forumsamochodowe.pl##.rsslink
@@ -481,6 +482,7 @@ zyleta.info##.followupdate
 ||deblin24.eu/images/index_r.png
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
+||e-moda.com.pl/images/rss.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 ||ithardware.pl/img/rss.svg
