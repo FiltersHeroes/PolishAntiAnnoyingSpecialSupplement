@@ -2,8 +2,6 @@
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
-
-forbes.pl##.rs
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -116,6 +114,7 @@ filmozercy.com##.c-panel-social__item--rss
 film.com.pl,smaki.pl##.stay-updated
 finansenaplus.pl###rssfeed
 florydziak.com###float_feed_box
+forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
 forsal.pl##a[href="http://forsal.pl/nasze-rssy"]
 forumsamochodowe.pl##.rsslink
