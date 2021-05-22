@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-news.samsung.com##.sns_rss
-chip.pl##.tipi-i-rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -64,6 +62,7 @@ cashless.pl##.item-184
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
+chip.pl,leftlane.pl##.tipi-i-rss
 chroberz.info,katedra.rzeszow.pl,przeclaw24.pl,tygodniknotecki.pl##.syndicate-module
 chwp.pl##a[href="https://www.chwp.pl/feed/"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
@@ -210,7 +209,6 @@ kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
 leclerc.rzeszow.pl##.foot_newsletter
-leftlane.pl##.tipi-i-rss
 librus.pl##.zse-footer__social-link
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
@@ -261,6 +259,7 @@ naziemna.info##.home-feat-rss
 neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
 news.astronet.pl##.sc-rss
+news.samsung.com##.sns_rss
 niebezpiecznik.pl###text-3 > .textwidget > p
 niedziela.pl##a > .mdi-rss-box.mdi
 nj24.pl###footer-feed-icon
