@@ -2,7 +2,6 @@
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
-radzymin.pl##.element--rss
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -321,6 +320,7 @@ radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href="http://www.radiosochaczew.pl/rss/"]
 radio.lublin.pl###footer .footer_light:nth-of-type(1) .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
+radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
