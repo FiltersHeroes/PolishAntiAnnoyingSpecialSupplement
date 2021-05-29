@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: xYvfKr21IaRE+k7C5xRgOg
+! Checksum: YsjdADwP8fVNcz25gZl4dA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 23 May 2021, 01:55 UTC+02
-! Version: 2021.5.2
+! Last modified: Sun, 30 May 2021, 01:55 UTC+02
+! Version: 2021.5.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 23 maj 2021, 01:55 UTC+02
+! Aktualizacja: nie, 30 maj 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -338,6 +338,7 @@ radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href="http://www.radiosochaczew.pl/rss/"]
 radio.lublin.pl###footer .footer_light:nth-of-type(1) .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
+radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
