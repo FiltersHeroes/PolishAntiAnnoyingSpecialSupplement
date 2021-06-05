@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: YsjdADwP8fVNcz25gZl4dA
+! Checksum: mUJr7tgLzC9RJjFYOD4CKw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 30 May 2021, 01:55 UTC+02
-! Version: 2021.5.3
+! Last modified: Sun, 06 Jun 2021, 01:55 UTC+02
+! Version: 2021.6.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 30 maj 2021, 01:55 UTC+02
+! Aktualizacja: nie, 06 cze 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -109,7 +109,7 @@ dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
 doosanbabcock.com##.btn_rss
-dw.com,gram.pl,mkm.szczecin.pl##a[href*="/rss/"]
+dw.com,gram.pl,miastonowydwor.pl,mkm.szczecin.pl##a[href*="/rss/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
@@ -153,6 +153,7 @@ gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
 gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,kinopanorama.pl,stanprawnynieruchomosci.pl###rss
+glinojeck.net##a[href$="/rss.xml"]
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminabestwina.info##table .scroolleft
 gminabestwina.info,lodzkie.pl##.jj_sl_rss
@@ -210,7 +211,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
-konkretny.pl##a[href*="/feed/"]
+konkretny.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href="http://www.korsokolbuszowskie.pl/rss"]
@@ -455,6 +456,7 @@ zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
 znajdzto.pl##.subRss
+zs-cogito.pl##a[href*="/?feed=rss"]
 ztm.waw.pl###Banneryiztm > a[href^="https://www.ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
