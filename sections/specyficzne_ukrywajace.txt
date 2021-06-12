@@ -1,8 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-trzcianka.info##.feed-icon
-hydro.com.pl##.btn-rss
-hydro.com.pl##.ico-rss
-13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl##.feed-icon
+13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
@@ -82,7 +79,7 @@ czasdzieci.pl##.atom
 czeladz.pl##.i-rss
 czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
-dami24.pl,drohiczyn.info,polsatsport.pl,twojapogoda.pl##.ico-rss
+dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
 dhl.com##.c-footer-social-container
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
@@ -161,6 +158,7 @@ histmag.org##.sidebar > div:nth-of-type(9)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
 hokej.net,polska-zbrojna.pl##.social-rss
+hydro.com.pl##.btn-rss
 igol.pl##a[href="https://igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 imagazine.pl###text-402422664
