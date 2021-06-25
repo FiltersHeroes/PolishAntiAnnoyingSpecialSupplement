@@ -455,3 +455,4 @@ zyleta.info##.followupdate
 !rynekaptek.pl##.box > .bordered
 !rynekzdrowia.pl##.innerT.box:nth-of-type(2) > .bordered
 !rynekzdrowia.pl##.pageWidth > .c3 > div.box:nth-of-type(2)
+butyjana.pl###bjNewsletter
