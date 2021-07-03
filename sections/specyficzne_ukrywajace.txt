@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-telepolis.pl,tlp.is#?#.artykul-content > div:-abp-has(a[href*="news.google.com/publications"])
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -376,6 +375,7 @@ tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 teatrsyrena.pl##.footer-col1
 tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
+telepolis.pl,tlp.is#?#.artykul-content > div:-abp-has(a[href*="news.google.com/publications"])
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 telpol.net.pl##a[href*="/rss,"]

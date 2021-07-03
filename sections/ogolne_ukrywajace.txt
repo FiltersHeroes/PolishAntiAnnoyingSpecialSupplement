@@ -1,3 +1,5 @@
+~google.co.uk,~google.com,~google.de,~google.pl,~pl##.google-news:lang(pl)
+~google.pl,pl##.google-news
 pl##li > a > .icon-rss
 pl###naglowek-link-rss
 pl##.fa-rss
@@ -5,6 +7,4 @@ pl##.fa-rss-square
 pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"], #s_rss[href*="/feed"]
-pl,~google.pl##.google-news
-~pl,~google.pl,~google.com,~google.de,~google.co.uk##.google-news:lang(pl)
 ##a[href*="news.google.com/publications/"] img
