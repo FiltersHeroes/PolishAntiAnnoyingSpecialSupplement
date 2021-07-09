@@ -1,5 +1,7 @@
 ~google.co.uk,~google.com,~google.de,~google.pl,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
+~google.pl,pl##.google-news-banner
+~google.co.uk,~google.com,~google.de,~google.pl,~pl##.google-news-banner:lang(pl)
 pl##li > a > .icon-rss
 pl###naglowek-link-rss
 pl##.fa-rss
