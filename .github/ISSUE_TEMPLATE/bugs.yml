@@ -1,0 +1,75 @@
+name: Błędy
+description: Bugs, mistakes, no-no
+labels: błąd
+
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękujemy za zgłoszenie do repozytorium Polskiego Antyirytującego Dodatku Specjalnego!
+        Thanks for reporting to PASS filterlist's repository!
+  - type: dropdown
+    id: OS
+    attributes:
+      label: System operacyjny (Operating system)
+      options:
+        - Linux/Unix
+        - Windows
+        - Mac
+        - Android
+        - iOS
+    validations:
+      required: true
+  - type: input
+    id: webBrowser
+    attributes:
+      label: Przeglądarka internetowa (Web browser)
+      placeholder: Pale Moon 29.2.1
+    validations:
+      required: true
+  - type: input
+    id: adblocker
+    attributes:
+      label: Bloker (Blocker)
+      placeholder: uBlock Origin 1.35.2
+    validations:
+      required: true
+  - type: textarea
+    id: myfilters
+    attributes:
+      label: Używane listy filtrów (Used filter lists)
+      value: |
+        1. EasyList
+        2. Oficjalne Polskie Filtry do AdBlocka, uBlocka Origin i AdGuarda <!--(Official Polish Filters For AdBlock, uBlock Origin and AdGuard)-->
+        3. Polski Antyirytujący Dodatek Specjalny <!--(Polish Anti-Annoying Special Supplement)-->
+        4. 
+        5. 
+    validations:
+      required: true
+  - type: textarea
+    id: specificURL
+    attributes:
+      label: Link bezpośredni (A specific URL)
+      description: |
+        Wstaw tutaj link bezpośredni do strony, na której występuje problem.
+
+        Insert here a direct link to the page, where a problem occurs.
+      placeholder: http://www.biedronka.pl/nowagazetka
+      render: markdown
+  - type: textarea
+    id: bugDesc
+    attributes:
+      label: Opis błędu (A bug description)
+      placeholder: Gazetki z Biedronki magicznie wyparowały... .
+    validations:
+      required: true
+  - type: textarea
+    id: additionalInfo
+    attributes:
+      label: |
+        Dodatkowe informacje mogące mieć znaczenie (Additional information that may be relevant)
+      description: |
+        Zrzuty ekranu, etapy odtworzenia problemu albo twoja metoda rozwiązania problemu.
+
+        Screenshots, the steps to reproduce the problem or your method of solving the problem.
