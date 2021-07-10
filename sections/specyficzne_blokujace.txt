@@ -1,6 +1,5 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
-||forum-brukarskie.pl/images/footerrssicon.png
 /ico_rss.
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
@@ -12,6 +11,7 @@
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
 ||e-moda.com.pl/images/rss.gif
+||forum-brukarskie.pl/images/footerrssicon.png
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 ||ithardware.pl/img/rss.svg
