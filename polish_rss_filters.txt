@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: ViHRAk+p7BCH3LyTRuI9NQ
+! Checksum: R53xFA/Ho8oExnrTD0t5eQ
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 18 Jul 2021, 01:55 UTC+02
-! Version: 2021.7.2
+! Last modified: Sun, 25 Jul 2021, 01:55 UTC+02
+! Version: 2021.7.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 18 lip 2021, 01:55 UTC+02
+! Aktualizacja: nie, 25 lip 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -23,7 +23,7 @@
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
-actaenergetica.org##[href*="actaenergetica.org/rss/pl"]
+actaenergetica.org##a[href*="/rss/pl"]
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agencja-informacyjna.com,biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 agnieszkawielobob.pl,glitch.com.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
@@ -170,7 +170,7 @@ grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
-haps.pl##footer li:nth-of-type(3) > [href$="000,0.html"]
+haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 hfc.com.pl##.rss-sprite
 histmag.org##a[href*="histmag.org/search_reload"]
@@ -198,7 +198,7 @@ iwanowice.malopolska.pl,iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 i-systems.pl##a[href*="/feed"]
 jak.tv##a[href^="/feed/rss"]
-janpawel2.pl##[href^="/index.php"][href*="rss"][href*="feed"]
+janpawel2.pl##a[href^="/index.php"][href*="rss"][href*="feed"]
 jezowe.pl##a[href*="jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
 joannapachla.com##.newsletter-section-new
 joomla.pl,testhub.pl##.icon-feed
@@ -214,7 +214,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
-konkretny.pl,oswiecim.pl##a[href*="/feed/"]
+konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href*="korsokolbuszowskie.pl/rss"]
@@ -238,12 +238,12 @@ lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
-magazynkuchenny.com###social > li > [href*="feed"]
+magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com###text-3
-marketerplus.pl##[href*="marketerplus.pl/feed/"]
+marketerplus.pl##a[href*="marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 martom-hurtownia.pl##.yt-footer-wrap > .footer-top
 marucha.wordpress.com###text-13
@@ -315,6 +315,7 @@ pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
+polskikarting.pl##div#social-nav
 polsl.pl#?#.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
 porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
@@ -368,7 +369,7 @@ signs.pl##a[href*="rss.php"]
 silesiasem.pl###text-6
 sirt.pl##.social > a:last-child
 skijumping.pl###addition-menu > a:last-child
-sklep.znakiczasu.pl##li > [href$="/feeder/rss.php"]
+sklep.znakiczasu.pl##li > a[href$="/feeder/rss.php"]
 sklep.znakiczasu.pl##.customcontent-footer > li > h4:nth-of-type(1)
 slawomirambroziak.pl##a[href*="slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
