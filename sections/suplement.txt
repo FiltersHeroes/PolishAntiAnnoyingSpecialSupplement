@@ -1,4 +1,5 @@
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0;)
+antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
 fcmarket.com.pl###container:style(margin-right: auto !important;)
 fcmarket.com.pl##.bdy:style(overflow: auto !important;)
