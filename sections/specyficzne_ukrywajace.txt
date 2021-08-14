@@ -8,10 +8,7 @@
 actaenergetica.org##a[href*="/rss/pl"]
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agencja-informacyjna.com,biore.to,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
-koziolekweb.pl##.RSSLink
-typeofweb.com##.menu-item[href*="/feed"]
-agnieszkawielobob.pl,glitch.com.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
-jsdn.pl##.widget_rss_links
+agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
@@ -205,6 +202,7 @@ korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href*="korsokolbuszowskie.pl/rss"]
 kosapopatelni.pl##div.footer-col3:nth-of-type(3)
 kozienice24.pl,lipsko24.pl,zwolen24.pl##img[src="images/index_r.png"]
+koziolekweb.pl##.RSSLink
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href*="krytykapolityczna.pl/rss"]
@@ -398,6 +396,7 @@ tygodnikpowszechny.pl##p > a[href="/rss.xml"]
 tygodnikzamojski.pl##a[href="rss/"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
+typeofweb.com##.menu-item[href*="/feed"]
 ubucentrum.net##a[href*="feeds.feedburner.com/BlogOLinuxUbuntu"] > img
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
