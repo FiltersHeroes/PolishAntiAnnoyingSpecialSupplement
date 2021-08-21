@@ -1,18 +1,18 @@
 [Adblock Plus 2.0]
-! Checksum: GKyyVYDk5gplH4H+Irvv7g
+! Checksum: +/8g+4C1jfaygrN+tSj4Uw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 15 Aug 2021, 01:55 UTC+02
-! Version: 2021.8.0
+! Last modified: Sun, 22 Aug 2021, 01:55 UTC+02
+! Version: 2021.8.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Copyright © 2021 Polish Filters Team
-! Aktualizacja: nie, 15 sie 2021, 01:55 UTC+02
+! Aktualizacja: nie, 22 sie 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -119,6 +119,7 @@ ekorekta24.pl##a.social:nth-of-type(3)
 ekorekta24.pl,niezlasztuka.net,sprawyzdrowia.pl###nksub_sidebar, #nksub-body-bg
 eksiazki.az.pl##.subscribe > a[href*="feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
+emanta.pl##.footer-newsletter-social-box
 emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 em.kielce.pl##.page-right > .stick
 energa-operator.pl###footmenu-item-4
