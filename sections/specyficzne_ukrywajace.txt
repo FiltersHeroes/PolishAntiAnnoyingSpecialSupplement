@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/"])
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -451,6 +450,7 @@ zs-cogito.pl##a[href*="/?feed=rss"]
 ztm.waw.pl###Banneryiztm > a[href*="ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zus.pl##.b-icon-before-large-rss
+zxu.pl#?#.code-block:-abp-has( > a[href*="news.google.com/"])
 zyleta.info##.followupdate
 !bankrutemjestem.pl,inwestycjebudowlane.biz,jakzalozycfirmenaukrainie.com,jakzwolnicpracownika.pl,latam-dronem.pl,patrykzbroja.pl,pozewzfaktury.pl,prawnikdlakonsumenta.pl,prawo-autorskie-blog.pl,prawonaplacubudowy.pl,przedawnione.pl,przedsiebiorcawsadzie.pl,zadowolonypacjent.pl,zarzadwspolcezoo.pl##.s_rss[href*="/feed"]
 !blog-spadkowy.pl,leszekbloch.pl,niemarozwoduwkosciele.pl,odroczenie-kary.pl,podatki-dla-prawnika.pl,pozeworozwodblog.pl,prawodlalekarza.pl,rejestracjaspolkiwdelaware.pl,rozwodprzedsiebiorcy.pl,stanprawnynieruchomosci.pl,warunki-zabudowy.com.pl,wroblewski-adwokat.pl,wyrobymedyczneokiemtemidy.pl,zakonczeniedzialalnosci.pl,zobraczkaczybez.pl,spjawna.pl###s_rss[href*="/feed"]
