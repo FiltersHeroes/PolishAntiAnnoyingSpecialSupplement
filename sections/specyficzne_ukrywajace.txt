@@ -1,7 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-politykabezpieczenstwa.pl##footer a[href*="/feed"]
-
-
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -301,6 +298,7 @@ pl.wikipedia.org###feed-atom
 pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:nth-of-type(1)
 policja.pl###social > li:nth-of-type(1)
+politykabezpieczenstwa.pl##footer a[href*="/feed"]
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
 polskikarting.pl##div#social-nav
 polsl.pl#?#.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])

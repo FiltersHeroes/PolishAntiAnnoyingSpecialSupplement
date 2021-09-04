@@ -1,5 +1,4 @@
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
-||czosnow.pl/*/menu_wysuwane/*-rss
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
 /rss.png
@@ -8,6 +7,7 @@
 ||audiklub.org/img/rss_logo.gif
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss.png
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss_info.png
+||czosnow.pl/*/menu_wysuwane/*-rss
 ||deblin24.eu/images/index_r.png
 ||di.com.pl/pic/belkainfor/bg-belka-line.gif
 ||di.com.pl/pic/rss-little.gif
