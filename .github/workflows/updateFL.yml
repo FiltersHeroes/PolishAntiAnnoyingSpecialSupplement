@@ -1,0 +1,16 @@
+name: Aktualizacja listy
+
+on: workflow_dispatch
+#   schedule:
+#     - cron: "0 10,14,18 * * *"
+jobs:
+  Aktualizacja:
+    runs-on: ubuntu-latest
+    container: polishfiltersteam/vichs_image:latest
+    steps:
+      - uses: actions/checkout@v2
+      - env:
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: |
+          export VICHS_MAIN_PATH="$(pwd)"
+          VICHS.sh polish_rss_filters.txt

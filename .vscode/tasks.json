@@ -6,7 +6,7 @@
         {
             "label": "Build Polish RSS Filters",
             "type": "shell",
-            "command": "./scripts/VICHS_auto.sh",
+            "command": "export VICHS_MAIN_PATH=$(pwd); VICHS.sh polish_rss_filters.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
