@@ -4,6 +4,7 @@
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
 benchmark.pl##.gnewsPopup
+benchmark.pl##.gnewsPopup
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
