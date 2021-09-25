@@ -3,15 +3,12 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
-benchmark.pl##.gnewsPopup
-webinsider.pl##.widget_rss_links
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
-blogtimes.pl###top_rss
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
-agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,zary24.pl##.widget_rss_links
+agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,webinsider.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,tlp.is,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
@@ -38,6 +35,7 @@ banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
 bedzin.pl##.rss_baner
+benchmark.pl##.gnewsPopup
 benchmark.pl##aside > .next-click
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
@@ -53,6 +51,7 @@ biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
 biznes.pap.pl###social > a[href="/pl/rss/"]
 blogmtb.pl##.roll4
+blogtimes.pl###top_rss
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 blog.eduweb.pl##footer a[href*="/feed/"]
 bonavita.pl##.jumplist-rss
