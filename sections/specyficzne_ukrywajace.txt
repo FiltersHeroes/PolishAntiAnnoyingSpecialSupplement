@@ -3,7 +3,6 @@
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
-psp5zagan.pl##.linksColorInherit > a[href="/rss/news"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
@@ -322,6 +321,7 @@ programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
 propertynews.pl##.foot > .inline > li:nth-of-type(5)
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 przysucha.pl##.mikona a[href="_private/rss.xml"]
+psp5zagan.pl##.linksColorInherit > a[href="/rss/news"]
 pswbp.pl##.module-content > a[href^="/index.php/pl"]
 pszczyna.pl##.komunikacja
 pudelek.pl##a[href*="pudelek.pl/rss2.xml"]
