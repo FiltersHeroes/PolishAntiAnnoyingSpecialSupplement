@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-preppersi.pl##.icon-feed
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -187,7 +186,7 @@ jak.tv##a[href^="/feed/rss"]
 janpawel2.pl##a[href^="/index.php"][href*="rss"][href*="feed"]
 jezowe.pl##a[href*="jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
 joannapachla.com##.newsletter-section-new
-joomla.pl,testhub.pl##.icon-feed
+joomla.pl,preppersi.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
