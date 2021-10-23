@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: s4Xna9btnhVrIA9JCiPWcA
+! Checksum: MfQG9md/dzaAfdskgNMIZg
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 17 Oct 2021, 22:13 UTC+02
-! Version: 2021.10.1
+! Last modified: Sun, 24 Oct 2021, 01:55 UTC+02
+! Version: 2021.10.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 17 paź 2021, 22:13 UTC+02
+! Aktualizacja: nie, 24 paź 2021, 01:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -205,7 +205,7 @@ jak.tv##a[href^="/feed/rss"]
 janpawel2.pl##a[href^="/index.php"][href*="rss"][href*="feed"]
 jezowe.pl##a[href*="jezowe.pl/index.php/homepage/wszystkie-aktualnosci"]
 joannapachla.com##.newsletter-section-new
-joomla.pl,testhub.pl##.icon-feed
+joomla.pl,preppersi.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
@@ -479,6 +479,8 @@ zyleta.info##.followupdate
 !
 !
 ! Specyficzne reguły blokujące
+forsal.pl##footer a[href*="rss.forsal.pl"]
+instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
