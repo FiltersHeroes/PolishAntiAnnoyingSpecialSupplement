@@ -1,5 +1,3 @@
-forsal.pl##footer a[href*="rss.forsal.pl"]
-instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
