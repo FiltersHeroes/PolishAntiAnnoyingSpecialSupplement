@@ -1,6 +1,8 @@
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0;)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
+biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important;)
+biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
 fcmarket.com.pl###container:style(margin-right: auto !important;)
 fcmarket.com.pl##.bdy:style(overflow: auto !important;)
 fcmarket.com.pl##.newsletter_background, .nt.newsletter_toggle
@@ -16,5 +18,3 @@ wsqn.pl##.extralight-border:style(border: none !important;)
 www.lenovo.com##.footerForumsIcon:lang(pl) > a:before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px;)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important;)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important;)
-biznesinfo.pl,rolnikinfo.pl,wawainfo.pl,wtv.pl,turysci.pl,pacjenci.pl,swiatsportu.pl,swiatgwiazd.pl,swiatzwierzat.pl,techgame.pl,domekiogrodek.pl,goniec.pl,zdrogi.pl##.chakra-portal
-biznesinfo.pl,rolnikinfo.pl,wawainfo.pl,wtv.pl,turysci.pl,pacjenci.pl,swiatsportu.pl,swiatgwiazd.pl,swiatzwierzat.pl,techgame.pl,domekiogrodek.pl,goniec.pl,zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important;)
