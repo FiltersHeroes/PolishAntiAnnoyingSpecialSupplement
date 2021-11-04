@@ -16,5 +16,5 @@ wsqn.pl##.extralight-border:style(border: none !important;)
 www.lenovo.com##.footerForumsIcon:lang(pl) > a:before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px;)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important;)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important;)
-zdrogi.pl##.chakra-portal
-zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important;)
+biznesinfo.pl,rolnikinfo.pl,wawainfo.pl,wtv.pl,turysci.pl,pacjenci.pl,swiatsportu.pl,swiatgwiazd.pl,swiatzwierzat.pl,techgame.pl,domekiogrodek.pl,goniec.pl,zdrogi.pl##.chakra-portal
+biznesinfo.pl,rolnikinfo.pl,wawainfo.pl,wtv.pl,turysci.pl,pacjenci.pl,swiatsportu.pl,swiatgwiazd.pl,swiatzwierzat.pl,techgame.pl,domekiogrodek.pl,goniec.pl,zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important;)
