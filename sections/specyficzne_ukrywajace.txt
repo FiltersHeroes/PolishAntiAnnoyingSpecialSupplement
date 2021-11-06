@@ -1,7 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
-lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
@@ -227,6 +226,7 @@ listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
+lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
