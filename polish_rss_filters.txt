@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: MJuvl/M9ds2t0qDC73MquQ
+! Checksum: FcyA7guNhsMwyJDclpAkdg
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 24 Oct 2021, 22:43 UTC+02
-! Version: 2021.10.1
+! Last modified: Sun, 07 Nov 2021, 00:55 UTC+01
+! Version: 2021.11.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 24 paź 2021, 22:43 UTC+02
+! Aktualizacja: nie, 07 lis 2021, 00:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -245,6 +245,7 @@ listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
+lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
