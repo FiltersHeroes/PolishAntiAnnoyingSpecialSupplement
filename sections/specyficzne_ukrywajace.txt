@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-wylecz.to##.google-news_block
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -448,6 +447,7 @@ wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 www.dobreprogramy.pl##a[href*="feedburner.com/"]
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 wykop.pl##a[href*="wykop.pl/rss"]
+wylecz.to##.google-news_block
 xboxforum.pl##.p-footer-rssLink
 yafud.pl##a[href*="feedproxy.google.com/YAFUD"]
 yuliyababich.eu###StaticPanel > #AnimalPanel
