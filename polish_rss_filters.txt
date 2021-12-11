@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: XmfkPtRdy6t5ixsxt6b3iQ
+! Checksum: Zk59cOY0nI8gOXaRoCMrqA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 05 Dec 2021, 21:22 UTC+01
-! Version: 2021.12.1
+! Last modified: Sun, 12 Dec 2021, 00:55 UTC+01
+! Version: 2021.12.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 05 gru 2021, 21:22 UTC+01
+! Aktualizacja: nie, 12 gru 2021, 00:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -47,6 +47,7 @@ ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
+autokult.pl,fotoblogia.pl,komorkomania.pl#?#.article-main-col.article > figure.insert:-abp-has(.title > h3:-abp-contains(na Google News))
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
@@ -71,6 +72,7 @@ biznesalert.pl##.footer-col-icons > .footer-col-icons-title
 biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
 biznes.pap.pl###social > a[href="/pl/rss/"]
+blackmagicdesign.com##.gf-socials[class]
 blogmtb.pl##.roll4
 blogtimes.pl###top_rss
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
