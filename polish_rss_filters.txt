@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: Zk59cOY0nI8gOXaRoCMrqA
+! Checksum: BQihIf1Sq1l6jeuT0CtDKA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 12 Dec 2021, 00:55 UTC+01
-! Version: 2021.12.2
+! Last modified: Sun, 12 Dec 2021, 20:34 UTC+01
+! Version: 2021.12.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 12 gru 2021, 00:55 UTC+01
+! Aktualizacja: nie, 12 gru 2021, 20:34 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -313,6 +313,7 @@ paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
+pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
