@@ -1,3 +1,8 @@
+lkslodz.pl###modal, .modal-backdrop
+lkslodz.pl##.modal-open:style(overflow: auto !important; padding-right: 0 !important;)
+
+
+
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0;)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
