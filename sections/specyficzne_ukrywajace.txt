@@ -1,3 +1,4 @@
+chemiabudowlana.info##.widget_chemia_right
 4kdownload.com##.community__item--feed.community__item
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
