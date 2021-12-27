@@ -1,5 +1,3 @@
-chemiabudowlana.info##.widget_chemia_right
-businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
 4kdownload.com##.community__item--feed.community__item
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -63,6 +61,7 @@ blog.eduweb.pl##footer a[href*="/feed/"]
 bonavita.pl##.jumplist-rss
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
+businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
 businessinsider.com.pl##li.social:nth-of-type(4)
 butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
@@ -71,6 +70,7 @@ cashless.pl##.item-184
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
+chemiabudowlana.info##.widget_chemia_right
 chip.pl,leftlane.pl##.tipi-i-rss
 chroberz.info,katedra.rzeszow.pl,przeclaw24.pl,tygodniknotecki.pl##.syndicate-module
 chwp.pl##a[href*="chwp.pl/feed/"]
