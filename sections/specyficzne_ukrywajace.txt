@@ -393,7 +393,7 @@ tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 teatrsyrena.pl##.footer-col1
 tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
-telepolis.pl#?#.artykul-content div:-abp-has(> strong > a[href*="news.google.com/publications"])
+telepolis.pl#?#.artykul-content div:-abp-has( > strong > a[href*="news.google.com/publications"])
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 telpol.net.pl##a[href*="/rss,"]
