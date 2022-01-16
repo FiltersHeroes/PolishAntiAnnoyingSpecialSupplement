@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: qyvb70zsHKQuVDwRy3wM9Q
+! Checksum: AZ067Fd6tM3xWQXdrU0ufA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Tue, 04 Jan 2022, 23:56 UTC+01
+! Last modified: Sun, 16 Jan 2022, 22:49 UTC+01
 ! Version: 2022.1.1
 ! Expires: 7 days
 ! Support:
@@ -13,7 +13,7 @@
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: wto, 04 sty 2022, 23:56 UTC+01
+! Aktualizacja: nie, 16 sty 2022, 22:49 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -34,6 +34,7 @@ aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djole
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
+allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
@@ -440,6 +441,7 @@ upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 upflix.pl##.so-rss
 uprp.gov.pl###header-rss-link
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
+virusradar.com###footer-icons > a[href*="/rss/feed"]
 wachtyrz.eu##footer #menu-item-3243
 wachtyrz.eu###custom_html-7
 wadowice24.pl##a[href*="wadowice24.pl/index.php/nowe.feed"]
