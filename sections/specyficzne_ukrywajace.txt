@@ -1,10 +1,8 @@
 4kdownload.com##.community__item--feed.community__item
 4media.com##.social > .rss
-virusradar.com###footer-icons > a[href*="/rss/feed"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
-allegro.pl##div[data-box-name="google news"]
 24pr.pl##a[href$="/feed"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -17,6 +15,7 @@ aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djole
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl##.td-icon-rss
+allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
@@ -423,6 +422,7 @@ upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 upflix.pl##.so-rss
 uprp.gov.pl###header-rss-link
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
+virusradar.com###footer-icons > a[href*="/rss/feed"]
 wachtyrz.eu##footer #menu-item-3243
 wachtyrz.eu###custom_html-7
 wadowice24.pl##a[href*="wadowice24.pl/index.php/nowe.feed"]
