@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: AZ067Fd6tM3xWQXdrU0ufA
+! Checksum: dMW8NCYFw+3u7L4VIz30Cg
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 16 Jan 2022, 22:49 UTC+01
+! Last modified: Tue, 18 Jan 2022, 22:46 UTC+01
 ! Version: 2022.1.1
 ! Expires: 7 days
 ! Support:
@@ -13,7 +13,7 @@
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 16 sty 2022, 22:49 UTC+01
+! Aktualizacja: wto, 18 sty 2022, 22:46 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -296,6 +296,7 @@ naturbio.pl##.footer-container
 naziemna.info##.home-feat-rss
 neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
+newsweek.pl##.socialList .rs
 news.astronet.pl##.sc-rss
 news.samsung.com##.sns_rss
 niebezpiecznik.pl###text-3 > .textwidget > p
