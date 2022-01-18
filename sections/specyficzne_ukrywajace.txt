@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-newsweek.pl##.socialList .rs
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -278,6 +277,7 @@ naturbio.pl##.footer-container
 naziemna.info##.home-feat-rss
 neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
+newsweek.pl##.socialList .rs
 news.astronet.pl##.sc-rss
 news.samsung.com##.sns_rss
 niebezpiecznik.pl###text-3 > .textwidget > p
