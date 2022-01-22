@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-um.gorzow.pl##.news__rss
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -203,7 +202,7 @@ kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
 kas.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
-kcynia.pl##.news__rss
+kcynia.pl,um.gorzow.pl##.news__rss
 kety.pl###twittery > ul > li:nth-of-type(2)
 kghm.com###footer a[href="/pl/rss"]
 kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
