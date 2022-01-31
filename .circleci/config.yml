@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: polishfiltersteam/vichs_image:2.26.8
+      - image: polishfiltersteam/vichs_image:2.26.9
     steps:
       - checkout
       - run: VICHS.sh polish_rss_filters.txt
@@ -11,7 +11,7 @@ workflows:
   workflow:
     triggers:
       - schedule:
-          cron: 55 23 * * 6
+          cron: 55 22 * * 6
           filters:
             branches:
               only:
