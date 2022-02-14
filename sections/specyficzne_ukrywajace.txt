@@ -1,6 +1,10 @@
 4kdownload.com##.community__item--feed.community__item
 money.pl##a[href*="/rss"]
-
+geex.x-kom.pl##.social-icons > a[href*="/feed/"]
+kis.gov.pl###linkRSS
+lifehacking.pl##.td-icon-rss
+lifehacking.pl##.footer-social-wrap
+knf.gov.pl##.footer-link[href*="/rss"]
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -9,6 +13,7 @@ money.pl##a[href*="/rss"]
 24pr.pl##a[href*="feeds.feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
+ipn.gov.pl##.opcje a[href*="/rss"]
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
 agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,webinsider.pl,zary24.pl##.widget_rss_links
@@ -23,6 +28,7 @@ aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
+ure.gov.pl##.opcje a.icon-flash[href*="/rss"]
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
