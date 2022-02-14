@@ -442,6 +442,7 @@ waw4free.pl###spolecznosci
 wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
+wetgiw.gov.pl##.ikon-rss
 wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
 wiadomoscihandlowe.pl##.footer__links a[href^="/strona/kanaly-rss-"]
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
