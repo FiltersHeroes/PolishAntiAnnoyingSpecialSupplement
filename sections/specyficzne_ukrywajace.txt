@@ -1,5 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
 4media.com##.social > .rss
+nbp.pl##.toprss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
