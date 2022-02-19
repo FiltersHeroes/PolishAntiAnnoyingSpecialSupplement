@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: KmUHfxsQxMldtosyec6xBw
+! Checksum: 3GXyks83/JFJ6FZ4h238Zg
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Mon, 14 Feb 2022, 21:12 UTC+01
-! Version: 2022.2.1
+! Last modified: Sat, 19 Feb 2022, 23:55 UTC+01
+! Version: 2022.2.4
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: pon, 14 lut 2022, 21:12 UTC+01
+! Aktualizacja: sob, 19 lut 2022, 23:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -245,6 +245,7 @@ krytykapolityczna.pl##a[href*="krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
 kulturadobra.pl###custom_html-2
 kurierskruda.pl###icon-header-rss
+kurshtml.edu.pl##.RSS
 kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
@@ -300,6 +301,7 @@ naszepiaseczno.pl###footer > div > div.grid_12:nth-of-type(3) > div.region > .wi
 naszpradnik.pl##.menu-social-feed
 naturbio.pl##.footer-container
 naziemna.info##.home-feat-rss
+nbp.pl##.toprss
 neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
 newsweek.pl##.socialList .rs
@@ -329,6 +331,8 @@ pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
+pixelophobia.pl##.footer-social > h4
+pixelophobia.pl##.social-rss
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
