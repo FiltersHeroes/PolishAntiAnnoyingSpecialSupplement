@@ -1,6 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
 4media.com##.social > .rss
-nbp.pl##.toprss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
@@ -227,6 +226,7 @@ krytykapolityczna.pl##a[href*="krytykapolityczna.pl/rss"]
 kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type(1) > .text-center.my-4
 kulturadobra.pl###custom_html-2
 kurierskruda.pl###icon-header-rss
+kurshtml.edu.pl##.RSS
 kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
@@ -282,6 +282,7 @@ naszepiaseczno.pl###footer > div > div.grid_12:nth-of-type(3) > div.region > .wi
 naszpradnik.pl##.menu-social-feed
 naturbio.pl##.footer-container
 naziemna.info##.home-feat-rss
+nbp.pl##.toprss
 neuca.pl##a[href="o-nas/centrum-prasowe/rss"]
 newseria.pl##.ist_rss
 newsweek.pl##.socialList .rs
@@ -311,6 +312,8 @@ pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
+pixelophobia.pl##.footer-social > h4
+pixelophobia.pl##.social-rss
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
@@ -482,6 +485,3 @@ zus.pl##.b-icon-before-large-rss
 zxu.pl#?#.code-block:-abp-has( > a[href*="news.google.com/"])
 zyleta.info##.followupdate
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
-pixelophobia.pl##.footer-social > h4
-pixelophobia.pl##.social-rss
-kurshtml.edu.pl##.RSS
