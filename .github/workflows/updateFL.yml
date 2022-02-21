@@ -9,6 +9,8 @@ jobs:
     container: polishfiltersteam/vichs_image:2.26.9
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: VICHS.sh polish_rss_filters.txt
