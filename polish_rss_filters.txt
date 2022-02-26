@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: 3GXyks83/JFJ6FZ4h238Zg
+! Checksum: eeplJiax7aa+Xg5SpFjGJw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 19 Feb 2022, 23:55 UTC+01
-! Version: 2022.2.4
+! Last modified: Sat, 26 Feb 2022, 23:55 UTC+01
+! Version: 2022.2.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: sob, 19 lut 2022, 23:55 UTC+01
+! Aktualizacja: sob, 26 lut 2022, 23:55 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -191,7 +191,7 @@ histmag.org##a[href*="histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
-hokej.net,polska-zbrojna.pl##.social-rss
+hokej.net,pixelophobia.pl,polska-zbrojna.pl##.social-rss
 hydro.com.pl##.btn-rss
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
@@ -332,7 +332,6 @@ phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
-pixelophobia.pl##.social-rss
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
