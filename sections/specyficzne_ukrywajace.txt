@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
-komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -215,6 +213,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
+komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
 konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
@@ -239,6 +238,7 @@ lifehacking.pl##.footer-social-wrap
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,lookcam.live,pcfaq.pl###rss_icon
+lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
