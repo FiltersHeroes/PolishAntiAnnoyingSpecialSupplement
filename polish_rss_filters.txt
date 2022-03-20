@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: pjTSsxRZVC+3jYaLagSckQ
+! Checksum: VdpYtzhBhvOXQhFfULk+gw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 19 Mar 2022, 23:55 UTC+01
-! Version: 2022.3.1
+! Last modified: Sun, 20 Mar 2022, 23:16 UTC+01
+! Version: 2022.3.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: sob, 19 mar 2022, 23:55 UTC+01
+! Aktualizacja: nie, 20 mar 2022, 23:16 UTC+01
 !
 !
 ! Specyficzne reguły ukrywające
@@ -196,12 +196,14 @@ hydro.com.pl##.btn-rss
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 imagazine.pl###text-402422664
+imsig.pl##a[href^="/subskrypcje/nowa"]
 in4.pl##div.sidebar-block:nth-of-type(7)
 insert.com.pl##li:nth-of-type(1) > .info-channel
 insert.com.pl###footer > .footer-box > .column.last
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
+interia.pl,pomponik.pl##.google-news-container
 interia.pl,pomponik.pl##.google-news-social-btn
 interpretacje-podatkowe.org###hi
 intibs.pl##.social.custom > ul > li:nth-of-type(3)
@@ -372,6 +374,7 @@ racezone.pl###o_rss
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
+radiozet.pl##a[title="Media społecznościowe google-news"]
 radio.lublin.pl###footer .footer_light:nth-of-type(1) .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
@@ -416,6 +419,7 @@ sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportwizja.pl###foot_ball
+stooq.com,stooq.pl,tygodnikzamojski.pl##a[href="rss/"]
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
 szadek.net##a[href="_private/rss.xml"]
@@ -441,7 +445,6 @@ twoje-seriale.pl##.Syn > ul
 twoj-kleszczow.pl###rss a
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
 tygodnikpowszechny.pl##p > a[href="/rss.xml"]
-tygodnikzamojski.pl##a[href="rss/"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 typeofweb.com##.menu-item[href*="/feed"]
