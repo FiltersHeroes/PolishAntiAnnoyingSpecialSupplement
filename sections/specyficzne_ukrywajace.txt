@@ -1,7 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-stooq.pl,stooq.com##a[href="rss/"]
-imsig.pl##a[href^="/subskrypcje/nowa"]
-radiozet.pl##a[title="Media społecznościowe google-news"]
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -180,14 +177,15 @@ hydro.com.pl##.btn-rss
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 imagazine.pl###text-402422664
+imsig.pl##a[href^="/subskrypcje/nowa"]
 in4.pl##div.sidebar-block:nth-of-type(7)
 insert.com.pl##li:nth-of-type(1) > .info-channel
 insert.com.pl###footer > .footer-box > .column.last
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
-interia.pl,pomponik.pl##.google-news-social-btn
 interia.pl,pomponik.pl##.google-news-container
+interia.pl,pomponik.pl##.google-news-social-btn
 interpretacje-podatkowe.org###hi
 intibs.pl##.social.custom > ul > li:nth-of-type(3)
 investors.pl###home-box-comments a.additional-link:nth-of-type(1)
@@ -357,6 +355,7 @@ racezone.pl###o_rss
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
+radiozet.pl##a[title="Media społecznościowe google-news"]
 radio.lublin.pl###footer .footer_light:nth-of-type(1) .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
@@ -401,6 +400,7 @@ sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportwizja.pl###foot_ball
+stooq.com,stooq.pl,tygodnikzamojski.pl##a[href="rss/"]
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
 szadek.net##a[href="_private/rss.xml"]
@@ -426,7 +426,6 @@ twoje-seriale.pl##.Syn > ul
 twoj-kleszczow.pl###rss a
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
 tygodnikpowszechny.pl##p > a[href="/rss.xml"]
-tygodnikzamojski.pl##a[href="rss/"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 typeofweb.com##.menu-item[href*="/feed"]
