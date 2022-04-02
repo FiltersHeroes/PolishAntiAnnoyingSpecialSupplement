@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
 4media.com##.social > .rss
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -397,6 +396,7 @@ socialpress.pl##.follow_us.container-fluid
 sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
+spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
 sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
