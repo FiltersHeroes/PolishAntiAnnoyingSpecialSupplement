@@ -1,11 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
-4media.com##.social > .rss
-tvmaster.eu##.icon-rss
-tvmaster.eu##.social > .rss
-wielicka.tv##.social > .rss
-##li > a > .icon-rss
-zachodniopomorska.tv##.social
-express-miejski.pl##[href="/rss"]
+4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
@@ -18,7 +12,7 @@ adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-
 agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mzuim.chorzow.eu,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
 agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,webinsider.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
-aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,truso.tv,tvdami.eu,wejherowo24.info##.icon-rss
+aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 alilove.pl,lifehacking.pl##.td-icon-rss
@@ -125,6 +119,7 @@ energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href*="epremki.com/misc.php"]
 euractiv.pl##.subscribe-link
 ewaipiotr.pl,menworld.pl,oiot.pl,tabletowo.pl##.menu-icon-rss
+express-miejski.pl##[href="/rss"]
 exsites.pl##a[title="RSS"]
 e-katalog.intercars.com.pl###sf_rozwin
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
@@ -371,7 +366,7 @@ rmf24.pl##.footer-rss
 rmf24.pl#?#li:-abp-has( > div > a[href="/kanaly/rss"])
 rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column:nth-of-type(6) > h3
-rocketpoland.com##.social
+rocketpoland.com,zachodniopomorska.tv##.social
 roland-gazeta.pl##.jeSocial > span:last-child
 rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
@@ -497,3 +492,4 @@ zus.pl##.b-icon-before-large-rss
 zxu.pl#?#.code-block:-abp-has( > a[href*="news.google.com/"])
 zyleta.info##.followupdate
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
+##li > a > .icon-rss
