@@ -241,7 +241,7 @@ librus.pl##.zse-footer__social-link
 lifehacking.pl##.footer-social-wrap
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
-lookcam.com,lookcam.live,pcfaq.pl###rss_icon
+lookcam.com,pcfaq.pl###rss_icon
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
