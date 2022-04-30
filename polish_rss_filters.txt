@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: TirKnH9KAgyvywpA3CQtxw
+! Checksum: 5uFvHwefodrMQLpPi8a4wA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 24 Apr 2022, 00:55 UTC+02
-! Version: 2022.4.2
+! Last modified: Sun, 01 May 2022, 00:55 UTC+02
+! Version: 2022.5.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 24 kwi 2022, 00:55 UTC+02
+! Aktualizacja: nie, 01 maj 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -237,6 +237,7 @@ kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
+komputerswiat.pl##.googleNewsBanner
 konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
@@ -260,7 +261,7 @@ librus.pl##.zse-footer__social-link
 lifehacking.pl##.footer-social-wrap
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
-lookcam.com,lookcam.live,pcfaq.pl###rss_icon
+lookcam.com,pcfaq.pl###rss_icon
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
