@@ -6,9 +6,9 @@ on: workflow_dispatch
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: polishfiltersteam/vichs_image:2.26.9
+    container: polishfiltersteam/vichs_image:2.26.9-2
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
       - env:
