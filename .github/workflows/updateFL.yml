@@ -13,4 +13,6 @@ jobs:
           fetch-depth: 0
       - env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-        run: VICHS.sh polish_rss_filters.txt
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          VICHS.sh polish_rss_filters.txt
