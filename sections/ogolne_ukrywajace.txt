@@ -12,3 +12,4 @@ pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
 ##a[href*="news.google.com/publications/"] img
+~pl##li > a > .icon-rss:lang(pl)
