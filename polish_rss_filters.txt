@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: 5uFvHwefodrMQLpPi8a4wA
+! Checksum: yI33auoSl3QgjYlHGA+Q4g
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 01 May 2022, 00:55 UTC+02
-! Version: 2022.5.0
+! Last modified: Sun, 01 May 2022, 11:33 UTC+02
+! Version: 2022.5.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 01 maj 2022, 00:55 UTC+02
+! Aktualizacja: nie, 01 maj 2022, 11:33 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -484,6 +484,7 @@ wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href*="wnp.pl/rss/"]
 wolnemedia.net##ul > a[href*="wolnemedia.net/kanaly-rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
+wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
