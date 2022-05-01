@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -466,6 +465,7 @@ wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href*="wnp.pl/rss/"]
 wolnemedia.net##ul > a[href*="wolnemedia.net/kanaly-rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
+wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
