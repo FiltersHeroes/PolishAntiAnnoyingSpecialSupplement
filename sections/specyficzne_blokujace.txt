@@ -1,4 +1,3 @@
-/rss_ico.png$domain=sprzedajemy.pl
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
@@ -7,6 +6,7 @@
 /rss.png
 /rssfeed.gif$domain=wzzw.wordpress.com
 /rss.gif$domain=e-moda.com.pl|mojacukrzyca.org|oglaszamy24.pl|sandecja.org
+/rss_ico.png$domain=sprzedajemy.pl
 ||armybazar.eu/style/images/footer_rss.jpg
 ||audiklub.org/img/rss_logo.gif
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss

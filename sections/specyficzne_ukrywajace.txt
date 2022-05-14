@@ -1,4 +1,3 @@
-sprzedajemy.pl###cntListRssLink > span
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
@@ -405,6 +404,7 @@ sportdziennik.com##.rss-soc
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportwizja.pl###foot_ball
+sprzedajemy.pl###cntListRssLink > span
 stooq.com,stooq.pl,tygodnikzamojski.pl##a[href="rss/"]
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
