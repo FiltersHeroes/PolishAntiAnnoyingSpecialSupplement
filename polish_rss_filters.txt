@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: tNWvLY0UAZCr9Zmk/oBJDQ
+! Checksum: KC/lUkp9KyfBFg73noZtmA
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 15 May 2022, 00:55 UTC+02
-! Version: 2022.5.3
+! Last modified: Sun, 22 May 2022, 00:55 UTC+02
+! Version: 2022.5.4
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 15 maj 2022, 00:55 UTC+02
+! Aktualizacja: nie, 22 maj 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -344,6 +344,7 @@ planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/po
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
+pl.msi.com##.shortcut__link[href*="/rss"]
 pl.wikipedia.org###feed-atom
 pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:nth-of-type(1)
