@@ -1,5 +1,3 @@
-mergado.pl##.feed
-wroclaw.pl##.googleNews
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
@@ -69,7 +67,7 @@ businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
 businessinsider.com.pl##li.social:nth-of-type(4)
 butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
-cad-akademia.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
+cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cashless.pl##.item-184
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
@@ -471,6 +469,7 @@ wolnemedia.net##ul > a[href*="wolnemedia.net/kanaly-rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
 wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wprost.pl##.soc-buttons
+wroclaw.pl##.googleNews
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
 wronki.pl##a.footer_more_site_link[href*="/rss"]
