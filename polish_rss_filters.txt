@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: KC/lUkp9KyfBFg73noZtmA
+! Checksum: ewIPbH9dfcXOrnrZbIvjMw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 22 May 2022, 00:55 UTC+02
-! Version: 2022.5.4
+! Last modified: Sun, 29 May 2022, 00:55 UTC+02
+! Version: 2022.5.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 22 maj 2022, 00:55 UTC+02
+! Aktualizacja: nie, 29 maj 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -86,7 +86,7 @@ businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
 businessinsider.com.pl##li.social:nth-of-type(4)
 butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
-cad-akademia.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
+cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cashless.pl##.item-184
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
@@ -488,6 +488,7 @@ wolnemedia.net##ul > a[href*="wolnemedia.net/kanaly-rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
 wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wprost.pl##.soc-buttons
+wroclaw.pl##.googleNews
 wroclaw.pl##.ck_mobile_social_icon_8
 wronek.wikidot.com##li > img[alt^="rss"]
 wronki.pl##a.footer_more_site_link[href*="/rss"]
