@@ -220,6 +220,7 @@ kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
 komputerswiat.pl##.googleNewsBanner
+pcworld.pl##.googlenewssub
 konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
