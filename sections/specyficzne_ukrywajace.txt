@@ -220,7 +220,6 @@ kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
 komputerswiat.pl##.googleNewsBanner
-pcworld.pl##.googlenewssub
 konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
@@ -313,6 +312,7 @@ otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
+pcworld.pl##.googlenewssub
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
 pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
