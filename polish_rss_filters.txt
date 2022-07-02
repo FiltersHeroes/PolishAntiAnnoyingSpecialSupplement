@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: BYzgJr/7QqFM26s4HTztGg
+! Checksum: HvwqFuaq29uN9lxViHWV0w
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 12 Jun 2022, 00:55 UTC+02
-! Version: 2022.6.0
+! Last modified: Sun, 03 Jul 2022, 00:55 UTC+02
+! Version: 2022.7.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 12 cze 2022, 00:55 UTC+02
+! Aktualizacja: nie, 03 lip 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -331,6 +331,7 @@ otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
 pch24.pl##a[href$="/rss,0"]
+pcworld.pl##.googlenewssub
 pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
 pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
