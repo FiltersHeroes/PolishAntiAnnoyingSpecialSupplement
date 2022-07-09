@@ -2,7 +2,7 @@ helion.pl###social a[href*="rss"]
 linuxiarze.pl##header a[href*="/feed/"]
 wyborkierowcow.pl##.td-icon-rss
 wyborkierowcow.pl##.footer-social-wrap
-linuxiarze.pl##article[class*="post"] div:-abp-has(>a[href*="katalog."])
+linuxiarze.pl#?#article[class*="post"] div:-abp-has(>a[href*="katalog."])
 linuxiarze.pl#?#article[class*="post"] div:-abp-has(>a[href*="/feed"])
 
 4kdownload.com##.community__item--feed.community__item
