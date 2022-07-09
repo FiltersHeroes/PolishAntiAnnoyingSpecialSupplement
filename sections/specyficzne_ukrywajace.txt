@@ -1,10 +1,3 @@
-helion.pl###social a[href*="rss"]
-linuxiarze.pl##header a[href*="/feed/"]
-wyborkierowcow.pl##.td-icon-rss
-wyborkierowcow.pl##.footer-social-wrap
-linuxiarze.pl#?#article[class*="post"] div:-abp-has(>a[href*="katalog."])
-linuxiarze.pl#?#article[class*="post"] div:-abp-has(>a[href*="/feed"])
-
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
@@ -22,7 +15,7 @@ agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eu
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info##.icon-rss
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
-alilove.pl,lifehacking.pl##.td-icon-rss
+alilove.pl,lifehacking.pl,wyborkierowcow.pl##.td-icon-rss
 allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
@@ -177,6 +170,7 @@ gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
+helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org##a[href*="histmag.org/search_reload"]
 histmag.org##.sidebar > div:nth-of-type(9)
@@ -247,7 +241,10 @@ kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
 leclerc.rzeszow.pl##.foot_newsletter
 librus.pl##.zse-footer__social-link
-lifehacking.pl##.footer-social-wrap
+lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
+linuxiarze.pl##header a[href*="/feed/"]
+linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="katalog."])
+linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="/feed"])
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,pcfaq.pl###rss_icon
