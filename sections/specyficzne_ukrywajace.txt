@@ -30,7 +30,7 @@ ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
-autokult.pl,fotoblogia.pl,komorkomania.pl#?#.article-main-col.article > figure.insert:-abp-has(.title > h3:-abp-contains(na Google News))
+autokult.pl,fotoblogia.pl,komorkomania.pl#?#.main-article.article > .insert:-abp-has(.html a[href*="bit.ly/"] img)
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
