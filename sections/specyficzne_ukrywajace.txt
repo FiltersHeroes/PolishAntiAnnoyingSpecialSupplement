@@ -245,6 +245,8 @@ lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
 linuxiarze.pl##header a[href*="/feed/"]
 linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="katalog."])
 linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="/feed"])
+linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="katalog."]) + hr
+linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="/feed"]) + hr
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,pcfaq.pl###rss_icon
