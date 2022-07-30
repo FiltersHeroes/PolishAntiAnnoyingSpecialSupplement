@@ -1,6 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-maciejewski.com##.fa-rss-square.fa
-plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -256,6 +254,7 @@ lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
+maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
@@ -332,6 +331,7 @@ pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
+plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has( > a[href*="news.google.com/"])
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
