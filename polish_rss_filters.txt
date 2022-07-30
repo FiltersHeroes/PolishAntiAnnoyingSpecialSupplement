@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: 6q3jrOzCZEy3545F8HW25g
+! Checksum: VX2zeDhRBAte7y8NIckgfw
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Mon, 18 Jul 2022, 23:29 UTC+02
-! Version: 2022.7.3
+! Last modified: Sun, 31 Jul 2022, 00:55 UTC+02
+! Version: 2022.7.4
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: pon, 18 lip 2022, 23:29 UTC+02
+! Aktualizacja: nie, 31 lip 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -273,6 +273,7 @@ lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
+maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
@@ -349,6 +350,7 @@ pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
 planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
+plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has( > a[href*="news.google.com/"])
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
