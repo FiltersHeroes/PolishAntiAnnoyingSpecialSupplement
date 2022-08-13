@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: VX2zeDhRBAte7y8NIckgfw
+! Checksum: YPoDZSaxSXL+U9gAHKqQSQ
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 31 Jul 2022, 00:55 UTC+02
-! Version: 2022.7.4
+! Last modified: Sun, 14 Aug 2022, 00:55 UTC+02
+! Version: 2022.8.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 31 lip 2022, 00:55 UTC+02
+! Aktualizacja: nie, 14 sie 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -62,6 +62,7 @@ benchmark.pl##.gnewsPopup
 benchmark.pl##aside > .next-click
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
+bezdroza.pl,dlabystrzakow.pl,ebookpoint.pl,onepress.pl,sensus.pl##a[href*="rss."]
 bezpieczny.blog###custom_html-3 > div > .widget-title, #custom_html-3 > div > a[href$="/feed/"]
 bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
@@ -275,6 +276,7 @@ lubanski.eu##.rss-box > .posts-icon
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
+magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
@@ -370,6 +372,7 @@ portalmmo.pl##.soc-icons > li:nth-of-type(1)
 portalspozywczy.pl##.left > .wrap > .box-9 > h2
 portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
 portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
+portu.pl##.footer-social-box > a[href="/rss.xml"]
 powiat-legionowski.pl##.h-ic-7
 powrotroberta.blogspot.co.uk##.feed-links
 poznan.uw.gov.pl##.feed-icon > .feed-icon
