@@ -1,5 +1,3 @@
-ebookpoint.pl,bezdroza.pl,dlabystrzakow.pl,onepress.pl,sensus.pl##a[href*="rss."]
-
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
@@ -30,8 +28,6 @@ arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
-portu.pl##.footer-social-box > a[href="/rss.xml"]
-magazynauto.pl##.social--list a[href*="/rss"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 autokult.pl,fotoblogia.pl#?#.main-article.article > .insert:-abp-has(.html a[href*="bit.ly/"] img)
@@ -47,6 +43,7 @@ benchmark.pl##.gnewsPopup
 benchmark.pl##aside > .next-click
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
+bezdroza.pl,dlabystrzakow.pl,ebookpoint.pl,onepress.pl,sensus.pl##a[href*="rss."]
 bezpieczny.blog###custom_html-3 > div > .widget-title, #custom_html-3 > div > a[href$="/feed/"]
 bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info##.fa-rss-square
@@ -260,6 +257,7 @@ lubanski.eu##.rss-box > .posts-icon
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
+magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 magnesmedia.pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
@@ -355,6 +353,7 @@ portalmmo.pl##.soc-icons > li:nth-of-type(1)
 portalspozywczy.pl##.left > .wrap > .box-9 > h2
 portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
 portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
+portu.pl##.footer-social-box > a[href="/rss.xml"]
 powiat-legionowski.pl##.h-ic-7
 powrotroberta.blogspot.co.uk##.feed-links
 poznan.uw.gov.pl##.feed-icon > .feed-icon
