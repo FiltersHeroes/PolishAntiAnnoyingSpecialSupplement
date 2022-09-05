@@ -1,4 +1,3 @@
-||roland-gazeta.pl/images/aplikacja_mobilna/google_news_$image
 /NKS-subscription/*$script,stylesheet,domain=ekorekta24.pl|niezlasztuka.net|sprawyzdrowia.pl
 /feed.png$domain=booklips.pl|cdtracker.co.pl|dzeta.com.pl|marcinmazurek.com.pl
 /ico_rss.
@@ -34,6 +33,7 @@
 ||police24.pl/templates/zp24/images/livemarks.png
 ||propertynews.pl/images/2018/icons/rss-wh.png
 ||purepc.pl/skin/m_rs.png
+||roland-gazeta.pl/images/aplikacja_mobilna/google_news_$image
 ||rugby.info.pl/wp-content/plugins/*/*/default_rss.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
 ||sps24.pl/media/desktop/rss.swf
