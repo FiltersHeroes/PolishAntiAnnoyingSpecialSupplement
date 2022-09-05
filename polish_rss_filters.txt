@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: YPoDZSaxSXL+U9gAHKqQSQ
+! Checksum: gSNb2Lv3Dg8WRge+ZMRDiQ
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 14 Aug 2022, 00:55 UTC+02
-! Version: 2022.8.0
+! Last modified: Tue, 06 Sep 2022, 01:21 UTC+02
+! Version: 2022.9.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: nie, 14 sie 2022, 00:55 UTC+02
+! Aktualizacja: wto, 06 wrz 2022, 01:21 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -263,10 +263,10 @@ leclerc.rzeszow.pl##.foot_newsletter
 librus.pl##.zse-footer__social-link
 lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
 linuxiarze.pl##header a[href*="/feed/"]
-linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="katalog."])
-linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="katalog."]) + hr
-linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="/feed"])
-linuxiarze.pl#?#article[class*="post"] div:-abp-has( > a[href*="/feed"]) + hr
+linuxiarze.pl#?#article[class*="post"] div:-abp-has(> a[href*="katalog."])
+linuxiarze.pl#?#article[class*="post"] div:-abp-has(> a[href*="katalog."]) + hr
+linuxiarze.pl#?#article[class*="post"] div:-abp-has(> a[href*="/feed"])
+linuxiarze.pl#?#article[class*="post"] div:-abp-has(> a[href*="/feed"]) + hr
 linuxporady.pl###heatmapthemead-rss-social-icon
 listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,pcfaq.pl###rss_icon
@@ -350,9 +350,9 @@ phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
-planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has( > #newsletter_container)
+planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
-plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has( > a[href*="news.google.com/"])
+plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
@@ -364,7 +364,7 @@ policja.pl###social > li:nth-of-type(1)
 politykabezpieczenstwa.pl##footer a[href*="/feed"]
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
 polskikarting.pl##div#social-nav
-polsl.pl#?#.mainCenterColumnFilterName:-abp-has( > a[href^="/_layouts/listfeed.aspx"])
+polsl.pl#?#.mainCenterColumnFilterName:-abp-has(> a[href^="/_layouts/listfeed.aspx"])
 porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
@@ -397,10 +397,11 @@ radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
-rmf24.pl#?#li:-abp-has( > div > a[href="/kanaly/rss"])
+rmf24.pl#?#li:-abp-has(> div > a[href="/kanaly/rss"])
 rmf.fm###new-footer-icon-rss
 rmf.fm##.new-footer-column:nth-of-type(6) > h3
 rocketpoland.com,zachodniopomorska.tv##.social
+roland-gazeta.pl##.alert-message.t3-navhelper, google-news-rss
 roland-gazeta.pl##.jeSocial > span:last-child
 rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
@@ -446,9 +447,9 @@ szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 teatrsyrena.pl##.footer-col1
-tektorado.com#?#.content > section:-abp-has( > .facebook:-abp-has( ~ #form_kontakt))
+tektorado.com#?#.content > section:-abp-has(> .facebook:-abp-has(~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
-telepolis.pl#?#.artykul-content div:-abp-has( > strong > a[href*="news.google.com/publications"])
+telepolis.pl#?#.artykul-content div:-abp-has(> strong > a[href*="news.google.com/publications"])
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
 telko.in##a[data-tip="Kanał RSS TELKO.in"]
 telpol.net.pl##a[href*="/rss,"]
@@ -526,7 +527,7 @@ zs-cogito.pl##a[href*="/?feed=rss"]
 ztm.waw.pl###Banneryiztm > a[href*="ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zus.pl##.b-icon-before-large-rss
-zxu.pl#?#.code-block:-abp-has( > a[href*="news.google.com/"])
+zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/"])
 zyleta.info##.followupdate
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
 !
@@ -567,6 +568,7 @@ zyleta.info##.followupdate
 ||police24.pl/templates/zp24/images/livemarks.png
 ||propertynews.pl/images/2018/icons/rss-wh.png
 ||purepc.pl/skin/m_rs.png
+||roland-gazeta.pl/images/aplikacja_mobilna/google_news_$image
 ||rugby.info.pl/wp-content/plugins/*/*/default_rss.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
 ||sps24.pl/media/desktop/rss.swf
