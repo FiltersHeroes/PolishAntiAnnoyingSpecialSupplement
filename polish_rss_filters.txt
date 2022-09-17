@@ -1,20 +1,20 @@
 [Adblock Plus 2.0]
-! Checksum: +b6KtDuUV8rW0hiuYzB9AQ
+! Checksum: QsoBAXI1/4Av8rkdwSqQMA
 ! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
 ! Title: Polski Antyirytujący Dodatek Specjalny
 ! Polish Anti-Annoying Special Supplement
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Mon, 12 Sep 2022, 22:42 UTC+02
-! Version: 2022.9.2
+! Last modified: Sun, 18 Sep 2022, 00:55 UTC+02
+! Version: 2022.9.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Aktualizacja: pon, 12 wrz 2022, 22:42 UTC+02
+! Aktualizacja: nie, 18 wrz 2022, 00:55 UTC+02
 !
 !
 ! Specyficzne reguły ukrywające
@@ -29,7 +29,7 @@
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
-agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mzuim.chorzow.eu,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk,zvami.tv##.rss
+agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,jawor.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mzuim.chorzow.eu,olesnica24.com,pl.ambafrance.org,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,swiebodzin.tv,tarnowska.tv,truso.tv,tvdami.eu,wejherowo24.info,wielkabrytaniaonline.co.uk##.rss
 agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,webinsider.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info##.icon-rss
@@ -279,7 +279,6 @@ maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
-magnesmedia.pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
@@ -356,6 +355,7 @@ planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/po
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
+pl##.slide-rss-out-div
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
