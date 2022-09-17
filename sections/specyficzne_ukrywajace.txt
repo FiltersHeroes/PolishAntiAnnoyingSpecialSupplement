@@ -259,7 +259,6 @@ maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
-pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
@@ -336,6 +335,7 @@ planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/po
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
+pl##.slide-rss-out-div
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
