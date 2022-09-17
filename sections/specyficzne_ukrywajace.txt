@@ -259,7 +259,7 @@ maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
-magnesmedia.pl##.slide-rss-out-div
+pl##.slide-rss-out-div
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
