@@ -6,7 +6,7 @@ on: workflow_dispatch
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: polishfiltersteam/vichs_image:2.26.9-2
+    container: polishfiltersteam/sflb_image:3.0.4
     permissions:
       contents: write
     steps:
@@ -17,4 +17,4 @@ jobs:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          VICHS.sh polish_rss_filters.txt
+          python3 "/usr/bin/SFLB.py" polish_rss_filters.txt
