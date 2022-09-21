@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: ghcr.io/filtersheroes/sflb_image:3.0.4
+      - image: ghcr.io/filtersheroes/sflb_image:3.0.5
     steps:
       - checkout
       - run: python3 "/usr/bin/SFLB.py" polish_rss_filters.txt
