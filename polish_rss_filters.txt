@@ -4,15 +4,15 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Tue, 20 Sep 2022, 19:55 UTC+02:00
-! Version: 2022.9.4
+! Last modified: Sun, 02 Oct 2022, 00:55 UTC+02:00
+! Version: 2022.10.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ! Creator: RikoDev
 ! Maintainer: Filters Heroes
-! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
+! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement
 ! Aktualizacja: @localizedDT
 !
 !
@@ -193,10 +193,12 @@ haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
+histmag.org###calculatedSocials > a[href*="/rss?"]
 histmag.org##.sidebar > div:nth-of-type(9)
 histmag.org##a[href*="histmag.org/search_reload"]
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
 histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
+histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 hokej.net,pixelophobia.pl,polska-zbrojna.pl##.social-rss
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
@@ -503,6 +505,7 @@ wnp.pl##a[href*="wnp.pl/rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
 wolnemedia.net##ul > a[href*="wolnemedia.net/kanaly-rss/"]
 wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
+wp.pl##a[href*="//rss.wp.pl"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
 wroclaw.pl##.googleNews
