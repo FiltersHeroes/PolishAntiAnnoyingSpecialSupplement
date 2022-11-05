@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 02 Oct 2022, 00:55 UTC+02:00
-! Version: 2022.10.0
+! Last modified: Sat, 05 Nov 2022, 23:55 UTC+01:00
+! Version: 2022.11.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -48,6 +48,7 @@ arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
+auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 autokult.pl,fotoblogia.pl#?#.main-article.article > .insert:-abp-has(.html a[href*="bit.ly/"] img)
@@ -189,6 +190,7 @@ grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
+handelextra.pl##a img[alt="Google Wiadomości - Handelextra"]
 haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
@@ -243,7 +245,6 @@ kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
-komputerswiat.pl##.googleNewsBanner
 konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
@@ -459,6 +460,7 @@ telko.in##a[data-tip="Kanał RSS TELKO.in"]
 telpol.net.pl##a[href*="/rss,"]
 tesa.com##div.js-controller.module
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > a[href*="thenews.pl/rss"]
+tko.pl#?#.tdm-popup-modal-wrap:-abp-contains(Google News)
 toiowo.eu###gk-rss
 trojmiejska.com##footer #easycontent_6 > .title_block
 trzynasty-schron.net##.dolneIkonki > li:nth-of-type(1)
