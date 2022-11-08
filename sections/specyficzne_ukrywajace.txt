@@ -1,3 +1,153 @@
+tvn.pl##.header-socials__button
+tvn.pl##.contact-tab__blocks-wrapper-column--second
+
+patiimaks.pl##.social-media-title
+patiimaks.pl##.social-media-1
+
+westwingnow.pl##.page > div[class*="OneFooter"] > div[class*="OneFooter"]:nth-child(2) > div:nth-child(8)
+
+hellogadzet.pl##.social_icons
+
+franchising.pl##.social-icons > li:not(.social-icons-googlenews)
+
+
+agrosimex.pl#?##main-footer .footer-links:nth-child(2) > div:nth-child(1) p:-abp-contains(Obserwuj nas)
+agrosimex.pl##.icon-Youtube
+
+printoteka.pl##.social-links
+
+unaweza.org##.footer__item-social-media
+
+eplakaty.pl##.social-box
+
+sfmeble.pl#?#footer p:-abp-contains(więcej inspiracji)
+
+swietywojciech.pl##.social
+
+arena.pl##footer div[class*="socialWrapper"]
+
+eduzabawy.com##.et_social_sidebar_networks
+
+sklepherlitz.pl##.athlete2-icon-facebook
+sklepherlitz.pl##.athlete2-icon-instagram
+
+pelikan.com##._social_links_footer
+
+3xk.pl##div.footer_contact__div:nth-of-type(2)
+3xk.pl##.footer_contact__social
+
+tifo24.pl##.socials
+
+babyboutik.pl##.footer-social-media
+
+polska-telewizja.co.uk##.social
+
+owobiurowo.pl###footer_contact > div:first-child > div:nth-child(3)
+
+kreatywna.pl##.social-icons
+kreatywna.pl###sidebar .youtube-widget.widget
+
+typowro.pl###footer-social-menu a:not([href*="typowro@gmail.com"])
+
+leitz.com##.abc-footer__socialMedia
+
+
+techwish.pl##.social-icon
+
+wmrowisku.pl##.socials
+
+loveart.pl##.social_media_wrapper
+
+tetis.pl##.yt-link
+tetis.pl##.Fb-link
+
+officebialystok.pl###lefttab
+
+noteka.pl###footgroup7
+noteka.pl###fx-socials
+
+sklepmatejko.pl###tab
+sklepmatejko.pl##body > div > a[href*="instagram.com/"]
+sklepmatejko.pl#?#.footer-4 > p:-abp-contains(ŚLEDŹ)
+
+smakliter.pl##.fbAndInstagram
+
+lumex.pl##.social-icons
+
+selgros.pl###fbslider
+
+bawidlo.pl##.flogos
+bawidlo.pl##footer a[href*="facebook.com/"]
+bawidlo.pl##footer a[href*="instagram.com/"]
+
+sklep.lobos.pl##.socials
+
+
+solal.pl##.twet-box
+solal.pl##.yt-box
+solal.pl##.googlep-box
+
+
+wektorbiuro.pl##div.stopka6:nth-of-type(3)
+
+leclerc24.pl##.fb.social-icon
+
+strefaucznia.pl###social_networking_block_column
+
+51015kids.eu#?#footer > div > div > div > div + div + div > h5:-abp-contains(BĄDŹ Z NAMI)
+51015kids.eu##footer a[href*="facebook.com/"]
+51015kids.eu##footer a[href*="instagram.com/"]
+51015kids.eu##footer a[href*="youtube.com/"]
+51015kids.eu##footer a[href*="pinterest.com/"]
+
+azet.net.pl###box_wce_headerinfo > p > a
+azet.net.pl###box_wce_headerinfo > div > a
+
+paperlovers.pl###menu-glowny a[href*=".com/"]
+
+segregatory.pl##.social
+
+dodruku.pl##.pc-social-sidebar
+
+graph-pack.pl###text-5
+
+manutan.pl##.footer-social-list
+manutan.pl#?#td > section > header.footer-header > .footer-title:-abp-contains(Jesteśmy w sieci)
+
+wamax.com.pl##.facedol
+
+sklepsaturn.pl###social a:not([href*="allegro.pl/"])
+
+apptoyou.pl##div.clickable-element img[src*="fb.svg"]
+apptoyou.pl##div.clickable-element img[src*="in.svg"]
+apptoyou.pl##div.clickable-element img[src*="fb.svg"]:upward(div)
+apptoyou.pl##div.clickable-element img[src*="in.svg"]:upward(div)
+apptoyou.pl##a.clickable-element[href*="facebook.com/"]
+apptoyou.pl##a.clickable-element[href*="linkedin.com/"]
+
+fitanu.com##.footer .info.col > div:nth-child(8)
+fitanu.com##.footer .info.col > div:nth-child(8) + ul
+
+apteka-melissa.pl##.spolecznosciowe
+apteka-melissa.pl#?#.kontener .pre-footer-header:-abp-contains(Social Media)
+apteka-melissa.pl##.kontener .pre-footer-header + div > a
+
+cdaction.pl##button.flex ~ div:nth-child(-n+3) > button[aria-label="facebook"]
+cdaction.pl##button.flex ~ div:nth-child(-n+3) > button[aria-label="twitter"]
+cdaction.pl##footer > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(4)
+
+sklep.displayit.pl##.element-social-inner-wrap.footer-social-inner-wrap
+
+dziennik.pl##.social-container> .social.button > .share
+
+eltrox.pl##.social-buttons
+
+glas-hit.pl###linki a img
+
+itmag.pl##.socials
+
+
+
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
 franchising.pl##.social-icons-googlenews
 4kdownload.com##.community__item--feed.community__item
