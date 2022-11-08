@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 05 Nov 2022, 23:55 UTC+01:00
-! Version: 2022.11.0
+! Last modified: Tue, 08 Nov 2022, 23:19 UTC+01:00
+! Version: 2022.11.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -90,6 +90,7 @@ businessinsider.com.pl##li.social:nth-of-type(4)
 butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
+cadenas.de##.notification_bar_content > .item.rss
 cashless.pl##.item-184
 cashless.pl##.rss-before
 ceneo.pl##section.footer__main__section:nth-of-type(5)
@@ -162,6 +163,7 @@ forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href*="forum.paramythology.pl/misc.php"]
 forum.unturned.pl##a[href="forums/-/index.rss"]
 forumsamochodowe.pl##.rsslink
+franchising.pl##.social-icons-googlenews
 fundacjawolnosci.org###menu-item-2756
 gazeo.pl##.rss-blue
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
@@ -566,6 +568,7 @@ zyleta.info##.followupdate
 ||kpts.com.pl/images/super-rss-cube.gif
 ||ksiazwielki.eu/templates/gkwbluecity/images/rss_32.png
 ||muzeumwp.pl/images/logo-rss.jpg
+||naekranie.pl/dist/images/google-telegram.jpg
 ||nowaruda.info/img/rss_
 ||packaging-polska.pl/include/templates/www/img/icon_rss.gif
 ||parkslaski.pl/modules/mod_cckrss/rss-ico.png
