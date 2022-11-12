@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Tue, 08 Nov 2022, 23:19 UTC+01:00
-! Version: 2022.11.1
+! Last modified: Sat, 12 Nov 2022, 23:55 UTC+01:00
+! Version: 2022.11.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -305,6 +305,7 @@ miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
+mojaniepodlegla.pl##footer .icon-info.dist
 mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
 money.pl##a[href*="/rss"]
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
@@ -344,6 +345,7 @@ oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src=
 otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
+paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
