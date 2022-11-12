@@ -1,6 +1,4 @@
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
-paslek.pl##.footer_more_site_link[href*="/rss/"]
-mojaniepodlegla.pl##footer .icon-info.dist
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
@@ -288,6 +286,7 @@ miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
+mojaniepodlegla.pl##footer .icon-info.dist
 mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
 money.pl##a[href*="/rss"]
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
@@ -327,6 +326,7 @@ oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src=
 otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
+paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
 pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
