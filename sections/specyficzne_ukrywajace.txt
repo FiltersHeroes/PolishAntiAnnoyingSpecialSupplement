@@ -1,9 +1,9 @@
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
-piekary.info,chorzowski.pl,tarnowskiegory.info,rudzianin.pl,ngs24.pl,nowinytyskie.pl,bytomski.pl,24kato.pl,twojknurow.pl,zabrzenews.pl,24zaglebie.pl##.stickySocialIcon > a[href*=".xml"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
+24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,twojknurow.pl,zabrzenews.pl##.stickySocialIcon > a[href*=".xml"]
 24kurier.pl##.footData:nth-of-type(1) > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
