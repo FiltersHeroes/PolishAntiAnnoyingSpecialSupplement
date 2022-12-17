@@ -1,7 +1,3 @@
-rootblog.pl##a[href*="news.google.com/publications/"]:matches-media((min-width: 1200px)):style(visibility: hidden !important;)
-rootblog.pl##a[href*="news.google.com/publications/"] b::after:matches-media((min-width: 1200px)):style(content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important;)
-rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] { visibility: hidden !important; } }
-rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] b { content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important; } }
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0;)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important;)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
@@ -15,6 +11,10 @@ lkslodz.pl##.modal-open:style(overflow: auto !important; padding-right: 0 !impor
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important;)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important;)
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important;)
+rootblog.pl##a[href*="news.google.com/publications/"] b::after:matches-media((min-width: 1200px)):style(content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important;)
+rootblog.pl##a[href*="news.google.com/publications/"]:matches-media((min-width: 1200px)):style(visibility: hidden !important;)
+rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] b { content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important; } }
+rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] { visibility: hidden !important; } }
 twoj-kleszczow.pl###rss > p:after:style(content: "| Subkrybuj kanał" !important; position: relative !important; left: -89px; margin-right: -90px; color: #ededed;background: #ededed;)
 um.kielce.pl##+js(ra, href|title, map > area[alt="RSS"], stay)
 um.kielce.pl##^map > area[alt="RSS"]
