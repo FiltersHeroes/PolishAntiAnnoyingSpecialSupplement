@@ -102,9 +102,9 @@ dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href*="feeds.feedburner.com/divernetpl"], .xpd-ele-1
-dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
-dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
-dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
+!dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
+!dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
+!dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
@@ -360,9 +360,8 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
-portalspozywczy.pl##.left > .wrap > .box-9 > h2
-portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .navi > a:-abp-has(img[src*="rss"])
-portalspozywczy.pl,sadyogrody.pl#?#.tabs-2.tabs > .panes > .one:-abp-contains(RSS)
+portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
+portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~div[class*="box"] .navi > a:not(:nth-child(n+5))
 portu.pl##.footer-social-box > a[href="/rss.xml"]
 powiat-legionowski.pl##.h-ic-7
 powrotroberta.blogspot.co.uk##.feed-links
