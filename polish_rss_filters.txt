@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 11 Dec 2022, 22:13 UTC+01:00
-! Version: 2022.12.0
+! Last modified: Mon, 09 Jan 2023, 22:18 UTC+01:00
+! Version: 2023.1.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -421,6 +421,8 @@ rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.p
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 rynekinfrastruktury.pl##a[href$="/rss.html"]
 sadownictwo.com.pl###socialBox > a:nth-child(6)
+sadyogrody.pl###col2 .tabs .social.rss
+sadyogrody.pl#?##col2 .tabs.s2 .navi + .panes:-abp-has(> .one:nth-child(5))
 sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
 satel.pl##.cat_rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
