@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 05 Feb 2023, 19:07 UTC+01:00
-! Version: 2023.2.0
+! Last modified: Sun, 05 Feb 2023, 19:49 UTC+01:00
+! Version: 2023.2.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -356,6 +356,7 @@ pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
+piekielni.pl###rss
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
@@ -595,12 +596,12 @@ zyleta.info##.followupdate
 !
 !
 ! Ogólne reguły ukrywające
-##a[href*="news.google.com/publications/"] img
-##footer a[href$="/rss.xml"]:lang(pl)
+~google.co.uk,~google.com,~google.de##a[href*="news.google.com/publications/"] img
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
 ~google.pl,pl##.google-news-banner
+~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
