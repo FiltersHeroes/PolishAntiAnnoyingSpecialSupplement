@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Mon, 09 Jan 2023, 22:24 UTC+01:00
-! Version: 2023.1.1
+! Last modified: Sun, 05 Feb 2023, 19:07 UTC+01:00
+! Version: 2023.2.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -47,6 +47,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
+antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
@@ -358,7 +359,6 @@ phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
-pl##.slide-rss-out-div
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
@@ -596,6 +596,7 @@ zyleta.info##.followupdate
 !
 ! Ogólne reguły ukrywające
 ##a[href*="news.google.com/publications/"] img
+##footer a[href$="/rss.xml"]:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
@@ -609,6 +610,8 @@ pl##.fusion-icon-rss
 pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
+pl##.slide-rss-out-div
+pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
 !
 !
