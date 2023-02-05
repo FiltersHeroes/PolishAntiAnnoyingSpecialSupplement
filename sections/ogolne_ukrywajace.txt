@@ -1,9 +1,9 @@
 ~google.co.uk,~google.com,~google.de##a[href*="news.google.com/publications/"] img
-~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
 ~google.pl,pl##.google-news-banner
+~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
