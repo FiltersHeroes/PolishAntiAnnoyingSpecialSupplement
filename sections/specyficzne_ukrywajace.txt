@@ -1,4 +1,5 @@
 !boleslawiec.tv,bydgoszcz.com,djoles.com,dziennik.com,echotygodnik.info,eluban.pl,gamedot.pl,halogorlice.info,igryfino.pl,jaw.com.pl,koscierzyna24.info,lokalna.news,lokalna24.pl,lokalnatelewizja.pl,namyslow.eu,narew.info,naszrynek.pl,olesnica24.com,pkobp.pl,radiobonton.pl,radiogorzow.pl,radiotczew.pl,regatv.pl,sandomierztv.pl,soselectronic.pl,starachowice.pl,swiebodzin.tv,tarnowska.tv,tczewska.pl,telepolis.pl,telewizjazary.pl,truso.tv,tv-kwidzyn.pl,tv-wschod.pl,tvmorag.pl,tvsudecka.pl,wejherowo24.info,wschodnik.pl,korsokolbuszowskie.pl,debica24.eu,obserwatorlokalny.pl,nasztomaszow.pl##.icon-rss
+antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -339,7 +340,6 @@ phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
-pl##.slide-rss-out-div
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
