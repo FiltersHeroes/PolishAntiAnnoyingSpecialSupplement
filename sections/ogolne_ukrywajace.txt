@@ -8,8 +8,11 @@ pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
 pl##.fa-rss
 pl##.fa-rss-square
+pl##.slide-rss-out-div
 pl##.fusion-icon-rss
 pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
 pl##li > a > .icon-rss
+##footer a[href$="/rss.xml"]:lang(pl)
+pl##footer a[href$="/rss.xml"]
