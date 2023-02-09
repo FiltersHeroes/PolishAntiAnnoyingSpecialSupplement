@@ -159,7 +159,7 @@ geekweek.pl###rss-list
 geekweek.pl##.footer-links__social > li[class*="rss"]
 geex.x-kom.pl##.social-icons > a[href*="/feed/"]
 gemius.pl##.btn-tools-rss
-gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,kinopanorama.pl,stanprawnynieruchomosci.pl###rss
+gkstychy.info,gliwiceonline.pl,informacjelodzkie.pl,kinopanorama.pl,piekielni.pl,stanprawnynieruchomosci.pl###rss
 glinojeck.net##a[href$="/rss.xml"]
 gloszabrza24.pl###leftcolumn > div.module:nth-of-type(11)
 gminabestwina.info##table .scroolleft
@@ -337,7 +337,6 @@ pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
-piekielni.pl###rss
 pila.pl##.rss_link
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
