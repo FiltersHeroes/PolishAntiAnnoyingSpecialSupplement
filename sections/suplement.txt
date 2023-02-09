@@ -15,12 +15,12 @@ rootblog.pl##a[href*="news.google.com/publications/"] b::after:matches-media((mi
 rootblog.pl##a[href*="news.google.com/publications/"]:matches-media((min-width: 1200px)):style(visibility: hidden !important;)
 rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] b { content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important; } }
 rootblog.pl#$#@media all and (min-width: 1200px) { a[href*="news.google.com/publications/"] { visibility: hidden !important; } }
-twoj-kleszczow.pl###rss > p:after:style(content: "| Subkrybuj kanał" !important; position: relative !important; left: -89px; margin-right: -90px; color: #ededed;background: #ededed;)
+twoj-kleszczow.pl###rss > p::after:style(content: "| Subkrybuj kanał" !important; position: relative !important; left: -89px; margin-right: -90px; color: #ededed;background: #ededed;)
 um.kielce.pl##+js(ra, href|title, map > area[alt="RSS"], stay)
 um.kielce.pl##^map > area[alt="RSS"]
 um.kielce.pl##map > area[alt="RSS"]:remove()
 um.kielce.pl$$map area[alt="RSS"]
 wsqn.pl##.extralight-border:style(border: none !important;)
-www.lenovo.com##.footerForumsIcon:lang(pl) > a:before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px;)
+www.lenovo.com##.footerForumsIcon:lang(pl) > a::before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px;)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important;)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important;)
