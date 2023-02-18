@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Thu, 09 Feb 2023, 21:13 UTC+01:00
-! Version: 2023.2.2
+! Last modified: Sat, 18 Feb 2023, 23:55 UTC+01:00
+! Version: 2023.2.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -121,6 +121,7 @@ czeladz.pl##.i-rss
 czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
+deccoria.pl###google-news-button
 dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
