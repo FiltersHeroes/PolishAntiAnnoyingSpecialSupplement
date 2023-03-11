@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 04 Mar 2023, 23:55 UTC+01:00
-! Version: 2023.3.0
+! Last modified: Sat, 11 Mar 2023, 23:55 UTC+01:00
+! Version: 2023.3.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -60,6 +60,7 @@ axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
 bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to##footer a[href*="/rss/"]
+bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to,wroclaw.pl##.googleNews
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
@@ -87,6 +88,7 @@ blog.eduweb.pl##footer a[href*="/feed/"]
 blogmtb.pl##.roll4
 blogtimes.pl###top_rss
 bonavita.pl##.jumplist-rss
+boop.pl##a[href*="gnurl"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
@@ -353,13 +355,12 @@ paczkow.pl##.rss-linkl
 paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
-pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
-pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
-pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
+pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
+piroart.eu##.rss
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
 pl.aliexpress.com##.product-fix-wrap
@@ -519,7 +520,6 @@ wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wp.pl##a[href*="//rss.wp.pl"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
-wroclaw.pl##.googleNews
 wronek.wikidot.com##li > img[alt^="rss"]
 wronki.pl##a.footer_more_site_link[href*="/rss"]
 wsqn.pl##ul.social_bookmarks
