@@ -1,5 +1,3 @@
-piroart.eu##.rss
-boop.pl##a[href*="gnurl"][class*="button"]
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -43,7 +41,7 @@ axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
 bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to##footer a[href*="/rss/"]
-bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to,gazeta.pl##.googleNews
+bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to,wroclaw.pl##.googleNews
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:nth-of-type(1)
 bazatelefonow.pl###rightpane > div:nth-of-type(1)
@@ -71,6 +69,7 @@ blog.eduweb.pl##footer a[href*="/feed/"]
 blogmtb.pl##.roll4
 blogtimes.pl###top_rss
 bonavita.pl##.jumplist-rss
+boop.pl##a[href*="gnurl"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
@@ -338,12 +337,11 @@ paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
 pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
-
-
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
 pila.pl##.rss_link
+piroart.eu##.rss
 pism.pl##.boxy_poziom > ul > li:nth-of-type(4)
 pixelophobia.pl##.footer-social > h4
 pl.aliexpress.com##.product-fix-wrap
@@ -503,7 +501,6 @@ wolnemedia.net#?##menu-icon li:nth-of-type(2):-abp-has(a[href*="/kanaly-rss/"])
 wp.pl##a[href*="//rss.wp.pl"]
 wprost.pl##.soc-buttons
 wroclaw.pl##.ck_mobile_social_icon_8
-wroclaw.pl##.googleNews
 wronek.wikidot.com##li > img[alt^="rss"]
 wronki.pl##a.footer_more_site_link[href*="/rss"]
 wsqn.pl##ul.social_bookmarks
