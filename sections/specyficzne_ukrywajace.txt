@@ -336,9 +336,9 @@ paczkow.pl##.rss-linkl
 paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
-pepper.pl###footer > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)
-pepper.pl##footer li.space--v-3.width--fromW3-auto.width--all-12.iGrid-item:nth-of-type(6)
-pepper.pl#?#.footer-sectionBorder:-abp-has(a.btn[href*="rss"])
+pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
+
+
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
