@@ -3,7 +3,6 @@
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
-green-news.pl##footer div.col-sm-2:nth-of-type(5)
 10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
 13liceum.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,twojknurow.pl,zabrzenews.pl##.stickySocialIcon > a[href*=".xml"]
@@ -79,8 +78,7 @@ butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cadenas.de##.notification_bar_content > .item.rss
-
-cashless.pl##a[href="/rss"]
+cashless.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
@@ -177,6 +175,7 @@ gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv,kurier.pap.pl,powiatkamienski.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
+green-news.pl##footer div.col-sm-2:nth-of-type(5)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
@@ -483,7 +482,6 @@ wagrowiec.eu###header-top-1 > a.icon:nth-of-type(2)
 wakacje.pl###rightTabs
 warka24.pl##.top-rss
 waw4free.pl###spolecznosci
-wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
 wetgiw.gov.pl##.ikon-rss
