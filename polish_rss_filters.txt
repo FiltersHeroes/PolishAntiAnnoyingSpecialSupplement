@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 12 Mar 2023, 19:15 UTC+01:00
-! Version: 2023.3.2
+! Last modified: Sun, 12 Mar 2023, 22:21 UTC+01:00
+! Version: 2023.3.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
@@ -97,8 +97,7 @@ butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cadenas.de##.notification_bar_content > .item.rss
-cashless.pl##.item-184
-cashless.pl##.rss-before
+cashless.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
@@ -195,6 +194,7 @@ gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv,kurier.pap.pl,powiatkamienski.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
+green-news.pl##footer div.col-sm-2:nth-of-type(5)
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
@@ -501,7 +501,6 @@ wagrowiec.eu###header-top-1 > a.icon:nth-of-type(2)
 wakacje.pl###rightTabs
 warka24.pl##.top-rss
 waw4free.pl###spolecznosci
-wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:nth-of-type(1) > div > .content > .custom > div
 wetgiw.gov.pl##.ikon-rss
