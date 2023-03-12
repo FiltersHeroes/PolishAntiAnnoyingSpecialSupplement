@@ -78,8 +78,8 @@ butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cadenas.de##.notification_bar_content > .item.rss
-cashless.pl##.item-184
-cashless.pl##.rss-before
+
+cashless.pl##a[href="/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
