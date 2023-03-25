@@ -1,5 +1,6 @@
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 smartyou.pl##.social > .title
+forsal.pl##a[href*="/.feed"]
 plejada.pl#?#p.narrow.hyphenate:-abp-contains(/^Bądź na bieżąco/):-abp-has(> a[href*="news.google.com/"] > strong)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -144,8 +145,6 @@ finansenaplus.pl###rssfeed
 florydziak.com###float_feed_box
 forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
-forsal.pl##a[href*="forsal.pl/nasze-rssy"]
-forsal.pl##footer a[href*="rss.forsal.pl"]
 forum.archlinux.org.pl###feedlinks
 forum.benchmark.pl,forum.komputerswiat.pl,forum.satkurier.pl,paranormalne.pl###rss_feed
 forum.linuxmint.pl###button_rss
