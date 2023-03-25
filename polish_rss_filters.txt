@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Fri, 17 Mar 2023, 22:13 UTC+01:00
-! Version: 2023.3.4
+! Last modified: Sat, 25 Mar 2023, 16:58 UTC+01:00
+! Version: 2023.3.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -134,8 +134,8 @@ dw.com,e-petrol.pl,gram.pl,miastonowydwor.pl,mkm.szczecin.pl##a[href*="/rss/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennik##.googleNewsBtn
 dziennik.com##.t-right.omega.g3
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#.componentsArticlesBarArticleLinkWithLogo:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
-dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#ul.componentsRecommendationsSelected__list--withPhoto > li.componentsRecommendationsSelected__item:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#.componentsArticlesBarArticleLinkWithLogo:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
+dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#ul.componentsRecommendationsSelected__list--withPhoto > li.componentsRecommendationsSelected__item:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 e-katalog.intercars.com.pl###sf_rozwin
 egospodarka.pl##.ego-ico4
@@ -161,8 +161,7 @@ finansenaplus.pl###rssfeed
 florydziak.com###float_feed_box
 forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
-forsal.pl##a[href*="forsal.pl/nasze-rssy"]
-forsal.pl##footer a[href*="rss.forsal.pl"]
+forsal.pl##a[href*="/.feed"]
 forum.archlinux.org.pl###feedlinks
 forum.benchmark.pl,forum.komputerswiat.pl,forum.satkurier.pl,paranormalne.pl###rss_feed
 forum.linuxmint.pl###button_rss
@@ -371,6 +370,7 @@ planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
+plejada.pl#?#p.narrow.hyphenate:-abp-contains(/^Bądź na bieżąco/):-abp-has(> a[href*="news.google.com/"] > strong)
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:nth-of-type(1)
@@ -442,6 +442,7 @@ slawomirambroziak.pl##a[href*="slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
+smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
 socialpress.pl##.follow_us.container-fluid
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
@@ -557,6 +558,7 @@ zyleta.info##.followupdate
 /rss_ico.png$domain=sprzedajemy.pl
 /rssfeed.gif$domain=wzzw.wordpress.com
 ||armybazar.eu/style/images/footer_rss.jpg
+||asg3hurt.com/images/social/linkhay.png
 ||audiklub.org/img/rss_logo.gif
 ||bip.warszawa.pl/UMBIP/Images/ikona_rss
 ||bokser.org/files/images/menu/menu-icon-rss.png
