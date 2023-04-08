@@ -27,7 +27,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
-annopol.info##a[href*="/rss"]
+annopol.info,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
@@ -298,7 +298,6 @@ mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojaniepodlegla.pl##footer .icon-info.dist
 mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
-money.pl##a[href*="/rss"]
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 motorola.com##.checkout-footer-social
 mototube.pl##a[href*="mototube.pl/rss/najnowsze/"]
