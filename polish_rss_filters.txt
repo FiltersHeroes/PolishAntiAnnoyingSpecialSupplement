@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 09 Apr 2023, 00:55 UTC+02:00
-! Version: 2023.4.1
+! Last modified: Sun, 16 Apr 2023, 20:52 UTC+02:00
+! Version: 2023.4.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -175,6 +175,7 @@ fundacjawolnosci.org###menu-item-2756
 gazeo.pl##.rss-blue
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
+gazetaprawna.pl##.newsButton
 gazetaprawna.pl,naszemiasto.pl,snobka.pl##a[href$="/rss/"]
 gb.pl,wsieciprawdy.pl##.xy.socIco
 gbpizs.gov.pl##.ikona-menu.bip-rss
