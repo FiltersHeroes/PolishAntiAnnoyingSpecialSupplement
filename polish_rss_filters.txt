@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 16 Apr 2023, 20:52 UTC+02:00
-! Version: 2023.4.2
+! Last modified: Sun, 30 Apr 2023, 00:55 UTC+02:00
+! Version: 2023.4.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -411,6 +411,7 @@ radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
 radiozet.pl##a[title="Media społecznościowe google-news"]
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
+ringpolska.pl##.art-rss-tag-icon
 rmf24.pl##.footer-rss
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl#?#li:-abp-has(> div > a[href="/kanaly/rss"])
@@ -466,6 +467,7 @@ szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 teatrsyrena.pl##.footer-col1
+tecnoandroid.net##.footer-social-list > .social-link-rss
 tektorado.com#?#.content > section:-abp-has(> .facebook:-abp-has(~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telepolis.pl#?#.artykul-content div:-abp-has(> strong > a[href*="news.google.com/publications"])
