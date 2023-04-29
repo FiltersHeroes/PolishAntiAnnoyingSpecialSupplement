@@ -1,6 +1,4 @@
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
-ringpolska.pl##.art-rss-tag-icon
-tecnoandroid.net##.footer-social-list > .social-link-rss
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
 4kdownload.com##.community__item--feed.community__item
@@ -394,6 +392,7 @@ radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
 radiozet.pl##a[title="Media społecznościowe google-news"]
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
+ringpolska.pl##.art-rss-tag-icon
 rmf24.pl##.footer-rss
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl#?#li:-abp-has(> div > a[href="/kanaly/rss"])
@@ -449,6 +448,7 @@ szkolymedyczne.eu###topbar
 tajemnice-swiata.pl###mh_magazine_social-2
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 teatrsyrena.pl##.footer-col1
+tecnoandroid.net##.footer-social-list > .social-link-rss
 tektorado.com#?#.content > section:-abp-has(> .facebook:-abp-has(~ #form_kontakt))
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telepolis.pl#?#.artykul-content div:-abp-has(> strong > a[href*="news.google.com/publications"])
