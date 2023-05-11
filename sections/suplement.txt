@@ -1,4 +1,5 @@
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
+plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
