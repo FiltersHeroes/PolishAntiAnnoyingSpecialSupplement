@@ -1,5 +1,4 @@
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
-plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
@@ -11,6 +10,7 @@ lkslodz.pl###modal, .modal-backdrop
 lkslodz.pl##.modal-open:style(overflow: auto !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important)
+plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important)
 rootblog.pl##a[href*="news.google.com/publications/"] b::after:matches-media((min-width: 1200px)):style(content: "Chcesz być na bieżąco?..." !important; font-weight: bold; position: absolute; left: 19%; color: var(--cs-color-site-background); background: var(--cs-color-site-background); visibility: visible !important)
 rootblog.pl##a[href*="news.google.com/publications/"]:matches-media((min-width: 1200px)):style(visibility: hidden !important)
