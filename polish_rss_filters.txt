@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Wed, 31 May 2023, 00:08 UTC+02:00
-! Version: 2023.5.4
+! Last modified: Sun, 04 Jun 2023, 15:58 UTC+02:00
+! Version: 2023.6.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -499,6 +499,7 @@ upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 uprp.gov.pl###header-rss-link
 ure.gov.pl##.opcje a.icon-flash[href*="/rss"]
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
+valtra.pl##li.vfooter__social-item:last-child
 virusradar.com###footer-icons > a[href*="/rss/feed"]
 wachtyrz.eu###custom_html-7
 wachtyrz.eu##footer #menu-item-3243
