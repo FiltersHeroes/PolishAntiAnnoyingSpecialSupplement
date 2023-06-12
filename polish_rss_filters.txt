@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 04 Jun 2023, 15:58 UTC+02:00
-! Version: 2023.6.0
+! Last modified: Mon, 12 Jun 2023, 23:07 UTC+02:00
+! Version: 2023.6.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -386,6 +386,7 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
+portalspozywczy.pl##.g-news
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .navi > a:not(:nth-child(n+5))
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
 portu.pl##.footer-social-box > a[href="/rss.xml"]
@@ -445,6 +446,7 @@ slawomirambroziak.pl##a[href*="slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
+smaker.pl##.-share.-gn.btn--social
 smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
 socialpress.pl##.follow_us.container-fluid
