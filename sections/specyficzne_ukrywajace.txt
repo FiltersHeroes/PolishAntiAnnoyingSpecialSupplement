@@ -1,5 +1,3 @@
-smaker.pl##.-share.-gn.btn--social
-portalspozywczy.pl##.g-news
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -369,6 +367,7 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:nth-of-type(1)
+portalspozywczy.pl##.g-news
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .navi > a:not(:nth-child(n+5))
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
 portu.pl##.footer-social-box > a[href="/rss.xml"]
@@ -428,6 +427,7 @@ slawomirambroziak.pl##a[href*="slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
+smaker.pl##.-share.-gn.btn--social
 smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
 socialpress.pl##.follow_us.container-fluid
