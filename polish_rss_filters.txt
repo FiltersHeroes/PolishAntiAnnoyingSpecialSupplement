@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Mon, 12 Jun 2023, 23:07 UTC+02:00
-! Version: 2023.6.1
+! Last modified: Sun, 25 Jun 2023, 00:55 UTC+02:00
+! Version: 2023.6.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -57,6 +57,7 @@ auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 autokult.pl,fotoblogia.pl#?#.main-article.article > .insert:-abp-has(.html a[href*="bit.ly/"] img)
+autor.pl##.rssocial-icons.rssocial-container
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
@@ -122,6 +123,7 @@ czeladz.pl##.i-rss
 czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
+dbamozeby.com###menu_blog_rss
 deccoria.pl###google-news-button
 dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
