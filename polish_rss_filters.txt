@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 02 Jul 2023, 14:17 UTC+02:00
-! Version: 2023.7.1
+! Last modified: Sun, 09 Jul 2023, 00:55 UTC+02:00
+! Version: 2023.7.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -300,6 +300,7 @@ magazynkuchenny.com###social > li > a[href*="feed"]
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
+marketerplus.pl##.title.social-media__header, li.social-media__item:nth-of-type(5)
 marketerplus.pl##a[href*="marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 martom-hurtownia.pl##.yt-footer-wrap > .footer-top
@@ -435,6 +436,7 @@ sadyogrody.pl#?##col2 .tabs.s2 .navi + .panes:-abp-has(> .one:nth-child(5))
 sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
 satel.pl##.cat_rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
+sekurak.pl##.rssIco
 senior.pl##.belka_rss
 sfinks.pl##.feed-rss, .feed-rss-link
 shopgracz.pl##.newsletter_footer_block
