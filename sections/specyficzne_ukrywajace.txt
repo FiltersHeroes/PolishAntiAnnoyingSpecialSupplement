@@ -1,5 +1,3 @@
-sekurak.pl##.rssIco
-marketerplus.pl##.title.social-media__header, li.social-media__item:nth-of-type(5)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -283,6 +281,7 @@ magazynkuchenny.com###social > li > a[href*="feed"]
 majkiit.github.io##footer .fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
+marketerplus.pl##.title.social-media__header, li.social-media__item:nth-of-type(5)
 marketerplus.pl##a[href*="marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
 martom-hurtownia.pl##.yt-footer-wrap > .footer-top
@@ -418,6 +417,7 @@ sadyogrody.pl#?##col2 .tabs.s2 .navi + .panes:-abp-has(> .one:nth-child(5))
 sanofi.pl##.osw-link-list-social > div > .osw-titlesize-h5, .osw-link-social-rss
 satel.pl##.cat_rss
 sdk.pl##.rssocial-icons > li:nth-of-type(6)
+sekurak.pl##.rssIco
 senior.pl##.belka_rss
 sfinks.pl##.feed-rss, .feed-rss-link
 shopgracz.pl##.newsletter_footer_block

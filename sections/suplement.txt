@@ -1,3 +1,4 @@
+!rootblog.pl##.entry-content:remove-text-node(Chcesz być na bieżąco?)
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
@@ -12,9 +13,8 @@ markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important)
 plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important)
-rootblog.pl##a[href*="news.google.com/publications/"] b
 rootblog.pl##+js(rmnt, #text, Chcesz być na bieżąco?)
-!rootblog.pl##.entry-content:remove-text-node(Chcesz być na bieżąco?)
+rootblog.pl##a[href*="news.google.com/publications/"] b
 twoj-kleszczow.pl###rss > p::after:style(content: "| Subkrybuj kanał" !important; position: relative !important; left: -89px; margin-right: -90px; color: #ededed;background: #ededed)
 um.kielce.pl##+js(ra, href|title, map > area[alt="RSS"], stay)
 um.kielce.pl##^map > area[alt="RSS"]
