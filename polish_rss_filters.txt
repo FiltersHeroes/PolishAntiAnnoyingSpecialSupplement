@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 16 Jul 2023, 00:55 UTC+02:00
-! Version: 2023.7.3
+! Last modified: Sun, 16 Jul 2023, 16:10 UTC+02:00
+! Version: 2023.7.4
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -99,7 +99,7 @@ butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cadenas.de##.notification_bar_content > .item.rss
-cashless.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
+cashless.pl,cooltura24.co.uk,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
@@ -111,7 +111,6 @@ citybuzz.pl,prnews.pl##a[href="/feed"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
 consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img
-cooltura24.co.uk##a[href="/rss"]
 cooltura24.co.uk,lubelska.tv,tarnowska.tv,tipmedia.pl##.social > .dropdown
 cowkrakowie.pl##.rss--feed--component
 cozadzien.pl###footer a.items-center.flex
@@ -441,6 +440,7 @@ sekurak.pl##.rssIco
 senior.pl##.belka_rss
 sfinks.pl##.feed-rss, .feed-rss-link
 shopgracz.pl##.newsletter_footer_block
+sieciprawdy.pl###socBox a[href*="/rss"]
 signs.pl##a[href*="rss.php"]
 silesiasem.pl###text-6
 sirt.pl##.social > a:last-child
@@ -466,6 +466,7 @@ sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .head
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportwizja.pl###foot_ball
 sprzedajemy.pl###cntListRssLink > span
+starychemik.wordpress.com###rss-link
 stooq.com,stooq.pl,tygodnikzamojski.pl##a[href="rss/"]
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
