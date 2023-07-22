@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 16 Jul 2023, 16:10 UTC+02:00
-! Version: 2023.7.4
+! Last modified: Sun, 23 Jul 2023, 00:55 UTC+02:00
+! Version: 2023.7.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -46,7 +46,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
-annopol.info,money.pl##a[href*="/rss"]
+annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
@@ -209,11 +209,6 @@ haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
-histmag.org###calculatedSocials > a[href*="/rss?"]
-histmag.org##.sidebar > div:nth-of-type(9)
-histmag.org##a[href*="histmag.org/search_reload"]
-histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
-histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
@@ -320,7 +315,7 @@ mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojaniepodlegla.pl##footer .icon-info.dist
-mojewypiekiinietylko.com,smsuchabeskidzka.pl,www.freestyle.pl###rss-link
+mojewypiekiinietylko.com,smsuchabeskidzka.pl,starychemik.wordpress.com,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 motorola.com##.checkout-footer-social
 mototube.pl##a[href*="mototube.pl/rss/najnowsze/"]
@@ -427,6 +422,7 @@ rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 rpo.lubelskie.pl##a[title^="RSS"]
 rpowp.wrotapodlasia.pl##a[href*="/kanaly-rss"]
 rybnik.com.pl,slaskibiznes.pl,tujastrzebie.pl,tuwodzislaw.pl,tuwroclaw.com,tuzory.pl##li a[href*="/feed"]
+rybyakwariowe.eu##.rss-button
 rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
 rynekinfrastruktury.pl##a[href$="/rss.html"]
@@ -466,7 +462,6 @@ sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .head
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
 sportwizja.pl###foot_ball
 sprzedajemy.pl###cntListRssLink > span
-starychemik.wordpress.com###rss-link
 stooq.com,stooq.pl,tygodnikzamojski.pl##a[href="rss/"]
 straz.gov.pl##footer > .kontener > div.row:nth-of-type(2) > .col-xs-6.col-sm-6.col-md-6.col-lg-2
 support.microsoft.com###media-feed
