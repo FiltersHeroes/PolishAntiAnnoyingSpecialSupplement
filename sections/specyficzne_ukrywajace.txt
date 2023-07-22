@@ -191,12 +191,7 @@ haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
-histmag.org###calculatedSocials > a[href*="/rss?"]
-histmag.org##.sidebar > div:nth-of-type(9)
-histmag.org##a[href*="histmag.org/search_reload"]
-histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"] > a:-abp-contains(/^RSS$/)
-histmag.org#?##article > div[class$="border-box"] > div[class$="border-box"]:-abp-contains(/^Śledź nas!$/)
-histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
+histmag.org##a.no_external[href*="/rss"]
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
