@@ -192,6 +192,7 @@ hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org##a.no_external[href*="/rss"]
+histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
