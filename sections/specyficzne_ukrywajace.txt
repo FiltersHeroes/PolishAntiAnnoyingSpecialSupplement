@@ -191,7 +191,7 @@ haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
-histmag.org##a.no_external[href*="/rss"]
+histmag.org##a[href*="/rss"]
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
