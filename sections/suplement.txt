@@ -3,12 +3,12 @@
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
-biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important)
+biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##html > body:style(position: static !important; overflow: visible !important; margin-right: 0 !important)
 fcmarket.com.pl###container:style(margin-right: auto !important)
-fcmarket.com.pl##.bdy:style(overflow: auto !important)
+fcmarket.com.pl##.bdy:style(overflow: visible !important)
 fcmarket.com.pl##.newsletter_background, .nt.newsletter_toggle
 lkslodz.pl###modal, .modal-backdrop
-lkslodz.pl##.modal-open:style(overflow: auto !important; padding-right: 0 !important)
+lkslodz.pl##.modal-open:style(overflow: visible !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important)
 plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
