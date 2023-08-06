@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 30 Jul 2023, 00:55 UTC+02:00
-! Version: 2023.7.7
+! Last modified: Sun, 06 Aug 2023, 20:12 UTC+02:00
+! Version: 2023.8.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -211,6 +211,7 @@ hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
+horecatrends.pl##.g-news
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
