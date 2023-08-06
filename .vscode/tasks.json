@@ -6,7 +6,7 @@
         {
             "label": "Build Polish RSS Filters",
             "type": "shell",
-            "command": "export VICHS_MAIN_PATH=$(pwd); VICHS.sh polish_rss_filters.txt",
+            "command": "python $(pwd)/../ScriptsPlayground/scripts/SFLB.py polish_rss_filters.txt",
             "group": {
                 "kind": "build",
                 "isDefault": true
