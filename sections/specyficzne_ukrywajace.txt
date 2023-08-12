@@ -192,7 +192,7 @@ hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
-horecatrends.pl##.g-news
+horecatrends.pl,portalspozywczy.pl##.g-news
 hydro.com.pl##.btn-rss
 i-systems.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
@@ -367,7 +367,6 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:first-of-type
-portalspozywczy.pl##.g-news
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .navi > a:not(:nth-child(n+5))
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
 portu.pl##.footer-social-box > a[href="/rss.xml"]
