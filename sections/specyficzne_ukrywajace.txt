@@ -1,4 +1,3 @@
-wiadomoscihandlowe.pl##.item__share-rss
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -499,6 +498,7 @@ webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:first-of-type > div > .content > .custom > div
 wetgiw.gov.pl##.ikon-rss
 wiadomoscihandlowe.pl##.footer__links a[href^="/strona/kanaly-rss-"]
+wiadomoscihandlowe.pl##.item__share-rss
 wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
 wielen.pl##.news_rss_icon
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
