@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 13 Aug 2023, 00:55 UTC+02:00
-! Version: 2023.8.1
+! Last modified: Sun, 13 Aug 2023, 13:37 UTC+02:00
+! Version: 2023.8.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -517,6 +517,7 @@ webinsider.pl,zuch.media##.fa-feed
 wegemaluch.pl###gkbottombottom2 > div.box:first-of-type > div > .content > .custom > div
 wetgiw.gov.pl##.ikon-rss
 wiadomoscihandlowe.pl##.footer__links a[href^="/strona/kanaly-rss-"]
+wiadomoscihandlowe.pl##.item__share-rss
 wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
 wielen.pl##.news_rss_icon
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
