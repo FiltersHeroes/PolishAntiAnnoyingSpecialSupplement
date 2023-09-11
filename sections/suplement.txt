@@ -4,9 +4,6 @@
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##html > body:style(position: static !important; overflow: visible !important; margin-right: 0 !important)
-fcmarket.com.pl###container:style(margin-right: auto !important)
-fcmarket.com.pl##.bdy:style(overflow: visible !important)
-fcmarket.com.pl##.newsletter_background, .nt.newsletter_toggle
 lkslodz.pl###modal, .modal-backdrop
 lkslodz.pl##.modal-open:style(overflow: visible !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
@@ -15,7 +12,6 @@ plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important)
 rootblog.pl##+js(rmnt, #text, Chcesz być na bieżąco?)
 rootblog.pl##a[href*="news.google.com/publications/"] b
-twoj-kleszczow.pl###rss > p::after:style(content: "| Subkrybuj kanał" !important; position: relative !important; left: -89px; margin-right: -90px; color: #ededed;background: #ededed)
 um.kielce.pl##+js(ra, href|title, map > area[alt="RSS"], stay)
 um.kielce.pl##^map > area[alt="RSS"]
 um.kielce.pl##map > area[alt="RSS"]:remove()

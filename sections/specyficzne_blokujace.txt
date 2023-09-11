@@ -42,7 +42,6 @@
 ||sps24.pl/media/desktop/rss.swf
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
-||twoj-kleszczow.pl/wp-content/themes/statement/images/feed.gif
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
 ||wolnemedia.net/obrazki/rss-ikona.png
 ||zabiele.pl/images/stories/ikonki_social/feed-

@@ -26,7 +26,7 @@ aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
-angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
+nowyzmigrod.eu##.dd-rss-tag-icon
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
@@ -350,7 +350,6 @@ pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
 pl.wikipedia.org###feed-atom
-planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
@@ -384,7 +383,6 @@ pswbp.pl##.module-content > a[href^="/index.php/pl"]
 pszczyna.pl##.komunikacja
 pudelek.pl##a[href*="pudelek.pl/rss2.xml"]
 purepc.pl##.foot_03
-racezone.pl###o_rss
 radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
@@ -468,7 +466,6 @@ tulodz.pl##.section-bottom-social__box--rss
 tuudi.net##a.tdb-social-item > .td-icon-font.td-icon-rss
 tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
-twoj-kleszczow.pl###rss a
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
