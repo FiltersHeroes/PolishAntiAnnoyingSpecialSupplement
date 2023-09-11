@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 03 Sep 2023, 20:51 UTC+02:00
-! Version: 2023.9.0
+! Last modified: Tue, 12 Sep 2023, 00:36 UTC+02:00
+! Version: 2023.9.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -45,7 +45,6 @@ aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
-angielski-przedszkole.pl,nowyzmigrod.eu##.dd-rss-tag-icon
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
@@ -343,6 +342,7 @@ newsweek.pl##.socialList .rs
 niebezpiecznik.pl###text-3 > .textwidget > p
 niedziela.pl##a > .mdi-rss-box.mdi
 nj24.pl###footer-feed-icon
+nowyzmigrod.eu##.dd-rss-tag-icon
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href*="ogloszenioteka.pl/feed.php"]
@@ -369,7 +369,6 @@ pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
 pl.wikipedia.org###feed-atom
-planplaneta.com#?##blocks_wrapper > ._plan_planeta_blocks_container:-abp-has(> #newsletter_container)
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
 plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
@@ -403,7 +402,6 @@ pswbp.pl##.module-content > a[href^="/index.php/pl"]
 pszczyna.pl##.komunikacja
 pudelek.pl##a[href*="pudelek.pl/rss2.xml"]
 purepc.pl##.foot_03
-racezone.pl###o_rss
 radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
@@ -487,7 +485,6 @@ tulodz.pl##.section-bottom-social__box--rss
 tuudi.net##a.tdb-social-item > .td-icon-font.td-icon-rss
 tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
-twoj-kleszczow.pl###rss a
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
@@ -603,7 +600,6 @@ zyleta.info##.followupdate
 ||sps24.pl/media/desktop/rss.swf
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
-||twoj-kleszczow.pl/wp-content/themes/statement/images/feed.gif
 ||utrzymanieruchu.pl/fileadmin/ce/img/tmi_rss_.png
 ||wolnemedia.net/obrazki/rss-ikona.png
 ||zabiele.pl/images/stories/ikonki_social/feed-
