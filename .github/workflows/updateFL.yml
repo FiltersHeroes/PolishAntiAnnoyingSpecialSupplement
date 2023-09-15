@@ -6,7 +6,7 @@ on: workflow_dispatch
 jobs:
   Aktualizacja:
     runs-on: ubuntu-latest
-    container: polishfiltersteam/sflb_image:3.0.9
+    container: polishfiltersteam/sflb_image:3.0.11
     permissions:
       contents: write
     steps:
