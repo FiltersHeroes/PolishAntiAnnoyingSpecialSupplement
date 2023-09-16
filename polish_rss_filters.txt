@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Tue, 12 Sep 2023, 00:36 UTC+02:00
-! Version: 2023.9.1
+! Last modified: Sun, 17 Sep 2023, 00:55 UTC+02:00
+! Version: 2023.9.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -53,6 +53,7 @@ astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
+autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
 autokult.pl,fotoblogia.pl#?#.main-article.article > .insert:-abp-has(.html a[href*="bit.ly/"] img)
@@ -175,6 +176,7 @@ forum.unturned.pl##a[href="forums/-/index.rss"]
 forumsamochodowe.pl##.rsslink
 franchising.pl##.social-icons-googlenews
 fundacjawolnosci.org###menu-item-2756
+gagadget.com##.b-social__rss
 gazeo.pl##.rss-blue
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
