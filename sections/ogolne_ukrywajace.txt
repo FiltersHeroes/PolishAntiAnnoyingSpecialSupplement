@@ -16,3 +16,5 @@ pl##.s_rss[href*="/feed"]
 pl##.slide-rss-out-div
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
+pl##.top-bar .social a[href="/rss"]
+pl##footer .social a[href="/rss"]
