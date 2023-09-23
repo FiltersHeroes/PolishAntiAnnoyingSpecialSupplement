@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 17 Sep 2023, 00:55 UTC+02:00
-! Version: 2023.9.2
+! Last modified: Sun, 24 Sep 2023, 00:55 UTC+02:00
+! Version: 2023.9.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -457,6 +457,7 @@ sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
 spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
+sport.interia.pl##a[href*="/feed"]
 sportdziennik.com##.rss-soc
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
@@ -625,6 +626,8 @@ pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
 pl##.slide-rss-out-div
+pl##.top-bar .social a[href="/rss"]
+pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
 !
