@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 24 Sep 2023, 00:55 UTC+02:00
-! Version: 2023.9.3
+! Last modified: Sun, 01 Oct 2023, 00:55 UTC+02:00
+! Version: 2023.10.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -214,7 +214,7 @@ hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 horecatrends.pl,portalspozywczy.pl##.g-news
 hydro.com.pl##.btn-rss
-i-systems.pl##a[href*="/feed"]
+i-systems.pl,sport.interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
@@ -408,7 +408,9 @@ radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) 
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
+radiozet.pl##.google-news-link
 radiozet.pl##a[title="Media społecznościowe google-news"]
+radiozet.pl##a[title="Obserwuj w google news"]
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 rmf24.pl##.footer-rss
@@ -457,7 +459,6 @@ sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
 spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
-sport.interia.pl##a[href*="/feed"]
 sportdziennik.com##.rss-soc
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
