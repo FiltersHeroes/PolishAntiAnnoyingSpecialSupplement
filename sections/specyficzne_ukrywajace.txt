@@ -1,3 +1,4 @@
+radiozet.pl##.google-news-link
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -390,6 +391,7 @@ radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
 radiozet.pl##a[title="Media społecznościowe google-news"]
+radiozet.pl##a[title="Obserwuj w google news"]
 radzymin.pl##.element--rss
 randomseed.pl##.footer-links > li > a[href*="index.xml"]
 rmf24.pl##.footer-rss
