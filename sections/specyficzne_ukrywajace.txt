@@ -1,4 +1,3 @@
-radiozet.pl##.google-news-link
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -196,7 +195,7 @@ hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 horecatrends.pl,portalspozywczy.pl##.g-news
 hydro.com.pl##.btn-rss
-i-systems.pl##a[href*="/feed"]
+i-systems.pl,sport.interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
@@ -390,6 +389,7 @@ radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) 
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
+radiozet.pl##.google-news-link
 radiozet.pl##a[title="Media społecznościowe google-news"]
 radiozet.pl##a[title="Obserwuj w google news"]
 radzymin.pl##.element--rss
@@ -440,7 +440,6 @@ sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
 spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
-sport.interia.pl##a[href*="/feed"]
 sportdziennik.com##.rss-soc
 sportowasilesia.pl##.nomargin.gkmod-last-1.gkmod-more.box:nth-of-type(6) > .header
 sportowasilesia.pl##a[href^="/component/k2/itemlist.feed"]
