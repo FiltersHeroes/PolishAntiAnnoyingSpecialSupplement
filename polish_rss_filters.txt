@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 01 Oct 2023, 00:55 UTC+02:00
-! Version: 2023.10.0
+! Last modified: Sun, 08 Oct 2023, 00:55 UTC+02:00
+! Version: 2023.10.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -634,8 +634,6 @@ pl##li > a > .icon-rss
 !
 !
 ! Dodatkowe reguły dla uBO & AG
-!#if !adguard_ext_android_cb
-!#if !adguard_app_ios
+!#if (!adguard_ext_android_cb && !adguard_app_ios)
 !#include sections/suplement.txt
-!#endif
 !#endif
