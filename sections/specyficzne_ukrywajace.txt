@@ -29,7 +29,6 @@ anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebior
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
-interia.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
@@ -121,7 +120,7 @@ doosanbabcock.com##.btn_rss
 dw.com,e-petrol.pl,gram.pl,miastonowydwor.pl,mkm.szczecin.pl##a[href*="/rss/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennik.com##.t-right.omega.g3
-dziennik.pl,gazetaprawna.pl,infor.pl,forsal.pl##.googleNewsBtn
+dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.googleNewsBtn
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#.componentsArticlesBarArticleLinkWithLogo:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#ul.componentsRecommendationsSelected__list--withPhoto > li.componentsRecommendationsSelected__item:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
@@ -209,6 +208,7 @@ insert.com.pl##li:first-of-type > .info-channel
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
+interia.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interia.pl,pomponik.pl##.google-news-container
 interia.pl,pomponik.pl##.google-news-social-btn
 interpretacje-podatkowe.org###hi
