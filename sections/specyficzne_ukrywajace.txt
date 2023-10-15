@@ -29,6 +29,7 @@ anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebior
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
+interia.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
