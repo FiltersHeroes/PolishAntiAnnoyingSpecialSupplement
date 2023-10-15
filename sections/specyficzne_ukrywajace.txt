@@ -1,4 +1,3 @@
-infor.pl##.footer__bottomLink[href*="/rss/"]
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -204,14 +203,15 @@ igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.inf
 imagazine.pl###text-402422664
 imsig.pl##a[href^="/subskrypcje/nowa"]
 in4.pl##div.sidebar-block:nth-of-type(7)
+infor.pl##.footer__bottomLink[href*="/rss/"]
 insert.com.pl###footer > .footer-box > .column.last
 insert.com.pl##li:first-of-type > .info-channel
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
-interia.pl,~poczta.interia.pl,pomponik.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interia.pl,pomponik.pl##.google-news-container
 interia.pl,pomponik.pl##.google-news-social-btn
+interia.pl,~poczta.interia.pl,pomponik.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interpretacje-podatkowe.org###hi
 intibs.pl##.social.custom > ul > li:nth-of-type(3)
 investors.pl###home-box-comments a.additional-link:first-of-type
