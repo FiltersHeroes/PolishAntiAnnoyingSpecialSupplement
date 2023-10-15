@@ -197,7 +197,7 @@ hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 horecatrends.pl,portalspozywczy.pl##.g-news
 hydro.com.pl##.btn-rss
-i-systems.pl,sport.interia.pl##a[href*="/feed"]
+i-systems.pl,interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
@@ -209,7 +209,7 @@ insert.com.pl##li:first-of-type > .info-channel
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
-interia.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
+interia.pl,~poczta.interia.pl,pomponik.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interia.pl,pomponik.pl##.google-news-container
 interia.pl,pomponik.pl##.google-news-social-btn
 interpretacje-podatkowe.org###hi
