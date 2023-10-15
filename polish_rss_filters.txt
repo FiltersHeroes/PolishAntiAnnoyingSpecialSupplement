@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 15 Oct 2023, 23:18 UTC+02:00
-! Version: 2023.10.4
+! Last modified: Sun, 15 Oct 2023, 23:36 UTC+02:00
+! Version: 2023.10.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -215,21 +215,22 @@ hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
 horecatrends.pl,portalspozywczy.pl##.g-news
 hydro.com.pl##.btn-rss
-i-systems.pl,sport.interia.pl##a[href*="/feed"]
+i-systems.pl,interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 imagazine.pl###text-402422664
 imsig.pl##a[href^="/subskrypcje/nowa"]
 in4.pl##div.sidebar-block:nth-of-type(7)
+infor.pl##.footer__bottomLink[href*="/rss/"]
 insert.com.pl###footer > .footer-box > .column.last
 insert.com.pl##li:first-of-type > .info-channel
 instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
-interia.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interia.pl,pomponik.pl##.google-news-container
 interia.pl,pomponik.pl##.google-news-social-btn
+interia.pl,~poczta.interia.pl,pomponik.pl#?##react_component_article div[width="9"] div p:-abp-has(b:-abp-contains(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
 interpretacje-podatkowe.org###hi
 intibs.pl##.social.custom > ul > li:nth-of-type(3)
 investors.pl###home-box-comments a.additional-link:first-of-type
