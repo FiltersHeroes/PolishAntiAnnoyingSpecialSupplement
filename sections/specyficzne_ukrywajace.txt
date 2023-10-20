@@ -36,6 +36,7 @@ astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
+onet.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
