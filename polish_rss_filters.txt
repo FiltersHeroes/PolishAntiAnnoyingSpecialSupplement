@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 15 Oct 2023, 23:36 UTC+02:00
-! Version: 2023.10.5
+! Last modified: Sun, 22 Oct 2023, 00:55 UTC+02:00
+! Version: 2023.10.6
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -127,6 +127,7 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
 dbamozeby.com###menu_blog_rss
 deccoria.pl###google-news-button
+demagog.org.pl##.dg-social_icons a[href*="/feed"]
 dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
@@ -353,6 +354,7 @@ ogloszenioteka.pl##a[href*="ogloszenioteka.pl/feed.php"]
 oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 omediach.info###custom_html-5 > .panel-header
+onet.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 onetech.pl###social
 orlen.pl##.newsletterAndRss
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
