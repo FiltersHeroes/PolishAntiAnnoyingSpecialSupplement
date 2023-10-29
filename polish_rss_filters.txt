@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 22 Oct 2023, 00:55 UTC+02:00
-! Version: 2023.10.6
+! Last modified: Sun, 29 Oct 2023, 20:34 UTC+01:00
+! Version: 2023.10.7
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -293,6 +293,8 @@ lookcam.com,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lubanski.eu##.rss-box > .posts-icon
+lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
+lubsport.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
