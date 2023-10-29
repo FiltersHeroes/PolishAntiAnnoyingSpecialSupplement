@@ -1,5 +1,3 @@
-lubsport.pl##footer a[href*="/feed"]
-lubsport.pl##.footer-widget-section  > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
@@ -276,6 +274,8 @@ lookcam.com,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lubanski.eu##.rss-box > .posts-icon
+lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
+lubsport.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
