@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 29 Oct 2023, 20:34 UTC+01:00
-! Version: 2023.10.7
+! Last modified: Sat, 04 Nov 2023, 23:55 UTC+01:00
+! Version: 2023.11.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -294,7 +294,7 @@ lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
 lubanski.eu##.rss-box > .posts-icon
 lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
-lubsport.pl##footer a[href*="/feed"]
+lubsport.pl,politykabezpieczenstwa.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feeds.feedburner.com"]
@@ -385,7 +385,6 @@ pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:first-of-type
 policja.pl###social > li:first-of-type
-politykabezpieczenstwa.pl##footer a[href*="/feed"]
 polsatnews.pl##.nav__item--rss, .container__layout.container__box:nth-of-type(3) > .section > .section__header
 polskikarting.pl##div#social-nav
 polsl.pl#?#.mainCenterColumnFilterName:-abp-has(> a[href^="/_layouts/listfeed.aspx"])
