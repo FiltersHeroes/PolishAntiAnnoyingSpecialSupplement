@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 04 Nov 2023, 23:55 UTC+01:00
-! Version: 2023.11.0
+! Last modified: Sun, 05 Nov 2023, 22:09 UTC+01:00
+! Version: 2023.11.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -278,6 +278,7 @@ kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
+laptopshop.p##a[href*="=RSS"]
 leclerc.rzeszow.pl##.foot_newsletter
 librus.pl##.zse-footer__social-link
 lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
