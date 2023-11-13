@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 11 Nov 2023, 23:55 UTC+01:00
-! Version: 2023.11.2
+! Last modified: Mon, 13 Nov 2023, 23:35 UTC+01:00
+! Version: 2023.11.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -357,6 +357,7 @@ ogloszenioteka.pl##a[href*="ogloszenioteka.pl/feed.php"]
 oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 omediach.info###custom_html-5 > .panel-header
+onet.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
 onet.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 onetech.pl###social
 orlen.pl##.newsletterAndRss
