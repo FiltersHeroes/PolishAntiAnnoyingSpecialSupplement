@@ -338,8 +338,8 @@ ogloszenioteka.pl##a[href*="ogloszenioteka.pl/feed.php"]
 oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 omediach.info###custom_html-5 > .panel-header
-onet.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 onet.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
+onet.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 onetech.pl###social
 orlen.pl##.newsletterAndRss
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
