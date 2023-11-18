@@ -349,6 +349,7 @@ paczkow.pl##.rss-linkl
 paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
+purepc.pl##.googlenews
 pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com,rybyakwariowe.eu##.rss-button
