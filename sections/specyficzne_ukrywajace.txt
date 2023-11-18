@@ -349,7 +349,6 @@ paczkow.pl##.rss-linkl
 paslek.pl##.footer_more_site_link[href*="/rss/"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
-purepc.pl##.googlenews
 pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com,rybyakwariowe.eu##.rss-button
@@ -393,6 +392,7 @@ pswbp.pl##.module-content > a[href^="/index.php/pl"]
 pszczyna.pl##.komunikacja
 pudelek.pl##a[href*="pudelek.pl/rss2.xml"]
 purepc.pl##.foot_03
+purepc.pl##.googlenews
 radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
