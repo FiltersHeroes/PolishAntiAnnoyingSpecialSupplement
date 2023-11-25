@@ -3,13 +3,13 @@
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
-10minut.tv##.td-header-sp-top-widget a[href*="feeds.feedburner.com/"]
+10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,twojknurow.pl,zabrzenews.pl##.stickySocialIcon > a[href*=".xml"]
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
-24pr.pl##a[href*="feeds.feedburner.com/"]
+24pr.pl##a[href*="feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 actaenergetica.org##a[href*="/rss/pl"]
 adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-powietrza.pl,parafia.mechnica.pl,przeclaw24.pl,ringpolska.pl,smwarmia.pl,stosunki-miedzynarodowe.pl,xn--bolesawiec-e0b.pl##.art-rss-tag-icon
@@ -112,7 +112,7 @@ demagog.org.pl##.dg-social_icons a[href*="/feed"]
 dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
-diver.net.pl###menumob > a[href*="feeds.feedburner.com/divernetpl"], .xpd-ele-1
+diver.net.pl###menumob > a[href*="feedburner.com/divernetpl"], .xpd-ele-1
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
@@ -130,7 +130,7 @@ e-konkursy.info,hokej.net,pixelophobia.pl,polska-zbrojna.pl##.social-rss
 egospodarka.pl##.ego-ico4
 ekorekta24.pl##a.social:nth-of-type(3)
 ekorekta24.pl,niezlasztuka.net,sprawyzdrowia.pl###nksub_sidebar, #nksub-body-bg
-eksiazki.az.pl##.subscribe > a[href*="feeds.feedburner.com/e-ksiazki"]
+eksiazki.az.pl##.subscribe > a[href*="feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
 em.kielce.pl##.page-right > .stick
 emanta.pl##.footer-newsletter-social-box
@@ -207,7 +207,7 @@ in4.pl##div.sidebar-block:nth-of-type(7)
 infor.pl##.footer__bottomLink[href*="/rss/"]
 insert.com.pl###footer > .footer-box > .column.last
 insert.com.pl##li:first-of-type > .info-channel
-instalki.pl###menu_right > a[href*="feeds.feedburner.com/Instalki"]
+instalki.pl,biznes2biznes.com##a[href*="feedburner.com/"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
 interia.pl,pomponik.pl##.google-news-container
@@ -279,7 +279,7 @@ lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) 
 lubsport.pl,politykabezpieczenstwa.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
-madameedith.com##.top-social a[href*="feeds.feedburner.com"]
+madameedith.com##.top-social a[href*="feedburner.com/"]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 majkiit.github.io##footer .fa-rss
@@ -485,7 +485,7 @@ tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
 tygodnikpowszechny.pl##p > a[href="/rss.xml"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 typeofweb.com##.menu-item[href*="/feed"]
-ubucentrum.net##a[href*="feeds.feedburner.com/BlogOLinuxUbuntu"] > img
+ubucentrum.net##a[href*="feedburner.com/BlogOLinuxUbuntu"] > img
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 unimot.pl##.menu_top__social-media > li:nth-of-type(6)
