@@ -18,3 +18,5 @@ pl##.top-bar .social a[href="/rss"]
 pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
+pl##.stickySocialIcon a[href*=".xml"]
+info##.stickySocialIcon a[href*=".xml"]
