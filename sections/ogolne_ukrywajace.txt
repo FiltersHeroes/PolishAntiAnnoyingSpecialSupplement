@@ -5,6 +5,7 @@
 ~google.pl,pl##.google-news-banner
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
+info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
 pl##.fa-rss
@@ -18,5 +19,3 @@ pl##.top-bar .social a[href="/rss"]
 pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
-pl##.stickySocialIcon a[href*=".xml"]
-info##.stickySocialIcon a[href*=".xml"]
