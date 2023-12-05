@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 03 Dec 2023, 01:36 UTC+01:00
-! Version: 2023.12.0
+! Last modified: Wed, 06 Dec 2023, 00:21 UTC+01:00
+! Version: 2023.12.1
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -255,7 +255,6 @@ kety.pl###twittery > ul > li:nth-of-type(2)
 kghm.com###footer a[href="/pl/rss"]
 knf.gov.pl##.footer-link[href*="/rss"]
 kochanamama.pl##.pmpIRss, .pmpB > div > div:first-of-type
-kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
@@ -276,7 +275,7 @@ kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
-laptopshop.p##a[href*="=RSS"]
+laptopshop.pl##a[href*="=RSS"]
 leclerc.rzeszow.pl##.foot_newsletter
 librus.pl##.zse-footer__social-link
 lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
@@ -502,7 +501,6 @@ tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
 tygodnikpowszechny.pl##p > a[href="/rss.xml"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 typeofweb.com##.menu-item[href*="/feed"]
-ubucentrum.net##a[href*="feedburner.com/BlogOLinuxUbuntu"] > img
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 um.jaworzno.pl###mainSocials > ul > li:nth-of-type(4)
 unimot.pl##.menu_top__social-media > li:nth-of-type(6)
