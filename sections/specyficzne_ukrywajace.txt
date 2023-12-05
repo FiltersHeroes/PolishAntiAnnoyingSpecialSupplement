@@ -257,7 +257,7 @@ kwantowo.pl,marketerplus.pl,rzg.pl##a[href$="/feed/"]
 kwartalnikiustitia.pl###footer_6
 kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
-laptopshop.p##a[href*="=RSS"]
+laptopshop.pl##a[href*="=RSS"]
 leclerc.rzeszow.pl##.foot_newsletter
 librus.pl##.zse-footer__social-link
 lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
