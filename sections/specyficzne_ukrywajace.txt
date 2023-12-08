@@ -1,3 +1,5 @@
+medonet.pl#?#p.additional-article-bottom-text+ .additional-article-bottom-text:-abp-has(> a[href*="news.google.com/"])
+medonet.pl#?#p.additional-article-bottom-text:-abp-has(+ .additional-article-bottom-text a[href*="news.google.com/"])
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .navi > a:nth-of-type(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl###socialBox > .panes > .one.active:nth-child(4)
 !dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(#socialBox)
