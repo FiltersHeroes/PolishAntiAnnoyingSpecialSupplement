@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Thu, 07 Dec 2023, 13:12 UTC+01:00
-! Version: 2023.12.2
+! Last modified: Sat, 09 Dec 2023, 23:55 UTC+01:00
+! Version: 2023.12.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -308,6 +308,8 @@ marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
 media.netflix.com##.signup-for-blog
 media.poczta-polska.pl##.subscribe-section__rss
+medonet.pl#?#p.additional-article-bottom-text + .additional-article-bottom-text:-abp-has(> a[href*="news.google.com/"])
+medonet.pl#?#p.additional-article-bottom-text:-abp-has(+ .additional-article-bottom-text a[href*="news.google.com/"])
 megascena.pl###footer > #subscribe-out
 melagu.pl##.ty-footer-grid > div:first-of-type > div[class*="footer-"].span16
 mi-home.pl###newsletter_block_left
