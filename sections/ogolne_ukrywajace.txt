@@ -1,5 +1,4 @@
 ~google.co.uk,~google.com,~google.de##a[href*="news.google.com/publications/"] img
-pl##.g-news
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
@@ -9,9 +8,11 @@ pl##.g-news
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
+pl##.art-bar-googlenews
 pl##.fa-rss
 pl##.fa-rss-square
 pl##.fusion-icon-rss
+pl##.g-news
 pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
@@ -20,4 +21,3 @@ pl##.top-bar .social a[href="/rss"]
 pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
-pl##.art-bar-googlenews
