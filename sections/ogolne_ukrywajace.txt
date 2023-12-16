@@ -1,4 +1,5 @@
 ~google.co.uk,~google.com,~google.de##a[href*="news.google.com/publications/"] img
+pl##.g-news
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.pl,pl##.google-news
