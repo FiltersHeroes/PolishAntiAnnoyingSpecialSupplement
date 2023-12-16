@@ -62,7 +62,6 @@ bip.prochowice.com##a.bip_links__link[href*="rss"]
 biskupice.pl###top-menu-list-04
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznes.pap.pl###social > a[href="/pl/rss/"]
-biznes.wprost.pl##.art-bar-googlenews
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
 biznesalert.pl##.social > li:nth-of-type(7)
 biznesalert.pl##.social.row > .col-md-4
