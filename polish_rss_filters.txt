@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 16 Dec 2023, 02:41 UTC+01:00
-! Version: 2023.12.4
+! Last modified: Wed, 20 Dec 2023, 00:25 UTC+01:00
+! Version: 2023.12.5
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -131,6 +131,7 @@ di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href*="feedburner.com/divernetpl"], .xpd-ele-1
 dlapolski.pl##.dashicons-rss
+dns.pl##.follow-links > li[class*="rss" i]
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
 dompelenpomyslow.pl##a[href*="news.google.com/"]
