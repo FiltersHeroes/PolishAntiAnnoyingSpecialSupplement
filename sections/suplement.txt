@@ -1,4 +1,4 @@
-!rootblog.pl##.entry-content:remove-text-node(Chcesz być na bieżąco?)
+sprzedajemy.pl###cntListRssLink:style(revert: all !important)
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
