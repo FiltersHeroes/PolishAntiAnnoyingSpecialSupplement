@@ -1,5 +1,3 @@
-dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(> #socialBox)
-dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl,sadyogrody.pl##.footer-menu-list-link[href*="/rss"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -111,6 +109,8 @@ dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href*="feedburner.com/divernetpl"], .xpd-ele-1
+dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl##.footer-menu-list-link[href*="/rss"]
+dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(> #socialBox)
 dlapolski.pl##.dashicons-rss
 dns.pl##.follow-links > li[class*="rss" i]
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
