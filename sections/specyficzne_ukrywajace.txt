@@ -30,7 +30,11 @@ arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
-auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl,fakt.pl##.googleNewsBanner
+auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
+auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
@@ -337,10 +341,6 @@ oiot.pl,tabletowo.pl###top-bar-message
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 oko.press##.flex > a[href^="https://news.google.com/publications/"], li > a[href^="https://news.google.com/publications/"]
 omediach.info###custom_html-5 > .panel-header
-auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl,onet.pl,fakt.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl,onet.pl,fakt.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl,onet.pl,fakt.pl#?#.follow-us:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,komputerswiat.pl,onet.pl,plejada.pl,onet.pl,fakt.pl#?#.follow-us:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 onetech.pl###social
 orlen.pl##.newsletterAndRss
 oszczedzarka.co.uk#?#.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
