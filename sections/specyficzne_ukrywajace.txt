@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-benchmark.pl##footer a[href*="-rss-"]
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -52,6 +51,7 @@ bazatelefonow.pl###rightpane > div:first-of-type
 bedzin.pl##.rss_baner
 benchmark.pl##.gnewsPopup
 benchmark.pl##aside > .next-click
+benchmark.pl##footer a[href*="-rss-"]
 benchmark.pl##ul.right:nth-of-type(3) > li:nth-of-type(2)
 bergenpol.com##.subscribe_me
 bezdroza.pl,dlabystrzakow.pl,ebookpoint.pl,onepress.pl,sensus.pl##a[href*="rss."]
