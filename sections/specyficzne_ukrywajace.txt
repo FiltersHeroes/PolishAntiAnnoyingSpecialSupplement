@@ -362,6 +362,7 @@ pixelophobia.pl##.footer-social > h4
 pl.aliexpress.com##.product-fix-wrap
 pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
+pl.near-place.com##.rss
 pl.wikipedia.org###feed-atom
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
 plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
