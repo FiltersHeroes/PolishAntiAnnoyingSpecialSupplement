@@ -451,7 +451,7 @@ socialpress.pl##.follow_us.container-fluid
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
 sp4.pisz.pl##.er-rss-tag-icon
 sp23bytom.edupage.org##.linksColorInherit > [href="/rss/news"]
-sp36.bytom.pl##[href="https://sp36.bytom.pl/feed/"] .icon-feed
+sp36.bytom.pl##a[href*="/feed/"] .icon-feed
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
 spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
