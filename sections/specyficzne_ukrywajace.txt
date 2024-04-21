@@ -5,6 +5,7 @@ wrpo.wielkopolskie.pl##.social-icons a[href*="rss"]
 13liceum.eu,just.now.pl,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
+radio.opole.pl##a[href^="rss.php"]
 24pr.pl##a[href$="/feed"]
 24pr.pl,biznes2biznes.com,instalki.pl,www.dobreprogramy.pl##a[href*="feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
