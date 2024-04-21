@@ -262,6 +262,7 @@ kwestiasmaku.com###block-block-16
 kwestiasmaku.com##.pas_dolny section.col-md-4:nth-of-type(2)
 laptopshop.pl##a[href*="=RSS"]
 leclerc.rzeszow.pl##.foot_newsletter
+legionowo.pl##.icons-box a[href*="rss"]
 librus.pl##.zse-footer__social-link
 lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
 linuxiarze.pl##header a[href*="/feed/"]
