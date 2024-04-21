@@ -450,6 +450,8 @@ smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
 socialpress.pl##.follow_us.container-fluid
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
+sp23bytom.edupage.org##.linksColorInherit > [href="/rss/news"]
+sp36.bytom.pl##[href="https://sp36.bytom.pl/feed/"] .icon-feed
 sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
