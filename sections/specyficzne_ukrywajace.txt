@@ -1,11 +1,9 @@
 4kdownload.com##.community__item--feed.community__item
-wrpo.wielkopolskie.pl##.social-icons a[href*="rss"]
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
-radio.opole.pl##a[href^="rss.php"]
 24pr.pl##a[href$="/feed"]
 24pr.pl,biznes2biznes.com,instalki.pl,www.dobreprogramy.pl##a[href*="feedburner.com/"]
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
@@ -248,7 +246,7 @@ kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href*="korsokolbuszowskie.pl/rss"]
 kosapopatelni.pl##div.footer-col3:nth-of-type(3)
-kosmonauta.net##.social-icons a[href*="rss"]
+kosmonauta.net,wrpo.wielkopolskie.pl##.social-icons a[href*="rss"]
 kozienice24.pl,lipsko24.pl,zwolen24.pl##img[src="images/index_r.png"]
 koziolekweb.pl##.RSSLink
 krakow.pl##.spolczne > .spolecz > li:nth-of-type(5)
@@ -401,6 +399,7 @@ pudelek.pl##a[href*="pudelek.pl/rss2.xml"]
 purepc.pl##.foot_03
 purepc.pl##.googlenews
 radio.lublin.pl###footer .footer_light:first-of-type .jeg_column:nth-of-type(2) .vc_col-sm-1\/5:nth-of-type(2)
+radio.opole.pl##a[href^="rss.php"]
 radiogorzow.pl##.main-footer > div.row:nth-of-type(2) > div.column:nth-of-type(4) > .label
 radioprofeto.pl##.m4.menu > ul > li:nth-of-type(4), .iconsMenu > a:nth-of-type(4)
 radiosochaczew.pl##a[href*="radiosochaczew.pl/rss/"]
