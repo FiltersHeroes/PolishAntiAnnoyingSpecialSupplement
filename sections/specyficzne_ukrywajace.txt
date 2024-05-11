@@ -1,4 +1,4 @@
-lelum.pl##a[href="/rss"]
+biznesinfo.pl,rolnikinfo.pl,turysci.pl,lelum.pl,pacjenci.pl,antyfake.pl,swiatzwierzat.pl,swiatgwiazd.pl,domekiogrodek.pl,smakosze.pl,goniec.pl,portalparentingowy.pl##a[href="/rss"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
