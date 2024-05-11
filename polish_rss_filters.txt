@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 28 Apr 2024, 00:56 UTC+02:00
-! Version: 2024.4.3
+! Last modified: Sun, 12 May 2024, 00:55 UTC+02:00
+! Version: 2024.5.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -43,6 +43,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
+antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,goniec.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
@@ -102,7 +103,6 @@ butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
 cadenas.de##.notification_bar_content > .item.rss
-cashless.pl,cooltura24.co.uk,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
@@ -174,7 +174,7 @@ forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
 forsal.pl##a[href*="/.feed"]
 forum.archlinux.org.pl###feedlinks
-forum.benchmark.pl,forum.komputerswiat.pl,forum.satkurier.pl,paranormalne.pl###rss_feed
+forum.benchmark.pl,forum.komputerswiat.pl,forum.satkurier.pl,paranormalne.pl,rolnik-forum.pl###rss_feed
 forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href*="forum.paramythology.pl/misc.php"]
 forum.unturned.pl##a[href="forums/-/index.rss"]
@@ -313,6 +313,7 @@ martom-hurtownia.pl##.yt-footer-wrap > .footer-top
 marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
 media.netflix.com##.signup-for-blog
+media.pkobp.pl##.pko-menu__section > .pko-menu__social-icons > .pko-icon.pko-icon--rss
 media.poczta-polska.pl##.subscribe-section__rss
 medonet.pl#?#p.additional-article-bottom-text + .additional-article-bottom-text:-abp-has(> a[href*="news.google.com/"])
 medonet.pl#?#p.additional-article-bottom-text:-abp-has(+ .additional-article-bottom-text a[href*="news.google.com/"])
