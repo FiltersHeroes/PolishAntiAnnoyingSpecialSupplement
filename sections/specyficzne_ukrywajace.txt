@@ -1,8 +1,7 @@
 4kdownload.com##.community__item--feed.community__item
-kolorowanki.eu##.feed-icon
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
-13liceum.eu,just.now.pl,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
+13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
