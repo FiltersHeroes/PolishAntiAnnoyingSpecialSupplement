@@ -78,7 +78,6 @@ boop.pl##a[href*="gnur"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
-ikominki.eu##a[href*="feed"]
 businessinsider.com.pl##li.social:nth-of-type(4)
 businessinsider.com.pl#?#.follow-us:-abp-has(a[href^="https://news.google.com/publications/"])
 butyjana.pl###bjNewsletter
@@ -204,6 +203,7 @@ i-systems.pl,interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
+ikominki.eu##a[href*="feed"]
 imagazine.pl###text-402422664
 imsig.pl##a[href^="/subskrypcje/nowa"]
 in4.pl##div.sidebar-block:nth-of-type(7)
