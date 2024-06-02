@@ -78,6 +78,7 @@ boop.pl##a[href*="gnur"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
+ikominki.eu##a[href*="feed"]
 businessinsider.com.pl##li.social:nth-of-type(4)
 businessinsider.com.pl#?#.follow-us:-abp-has(a[href^="https://news.google.com/publications/"])
 butyjana.pl###bjNewsletter
