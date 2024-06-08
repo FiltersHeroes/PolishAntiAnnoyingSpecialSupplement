@@ -1,4 +1,3 @@
-vitalia.pl##a[href="/artykuly.xml"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -506,6 +505,7 @@ ure.gov.pl##.opcje a.icon-flash[href*="/rss"]
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 valtra.pl##li.vfooter__social-item:last-child
 virusradar.com###footer-icons > a[href*="/rss/feed"]
+vitalia.pl##a[href="/artykuly.xml"]
 wachtyrz.eu###custom_html-7
 wachtyrz.eu##footer #menu-item-3243
 wadowice24.pl###bottom3 > .singlearea > .bottom.title-on.module > .moduletitle
