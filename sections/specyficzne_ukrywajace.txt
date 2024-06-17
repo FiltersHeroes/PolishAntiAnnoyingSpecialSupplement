@@ -74,7 +74,6 @@ blog.eduweb.pl##footer a[href*="/feed/"]
 blogmtb.pl##.roll4
 blogtimes.pl###top_rss
 bonavita.pl##.jumplist-rss
-boop.pl##a[href*="gnur"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
