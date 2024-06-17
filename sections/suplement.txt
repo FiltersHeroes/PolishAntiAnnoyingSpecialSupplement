@@ -1,3 +1,6 @@
+boop.pl##article ~ div p a[href*="gunuri"]:remove-attr(href)
+boop.pl##article ~ div p a.uppercase[class*="hover:"]:remove-attr(class)
+boop.pl##article ~ div p:has(a:not([href]) ~ a:not([href]))
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
