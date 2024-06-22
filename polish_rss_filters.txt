@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 09 Jun 2024, 00:55 UTC+02:00
-! Version: 2024.6.1
+! Last modified: Sun, 23 Jun 2024, 00:55 UTC+02:00
+! Version: 2024.6.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -93,7 +93,6 @@ blog.eduweb.pl##footer a[href*="/feed/"]
 blogmtb.pl##.roll4
 blogtimes.pl###top_rss
 bonavita.pl##.jumplist-rss
-boop.pl##a[href*="gnur"][class*="button"]
 bosch-do-it.com##.footerSocialText, .sprite_rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
 businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
@@ -409,7 +408,8 @@ poznan.uw.gov.pl##.feed-icon > .feed-icon
 ppe.pl##a[href="/rss.html"]
 praca.policja.pl##li:first-of-type > h2
 programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
-propertynews.pl##.foot > .inline > li:nth-of-type(5)
+propertynews.pl##.box-rssalert
+propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 przepisownia.pl###tmrcSocialTabs a[href*="/rss"]
 przysucha.pl##.mikona a[href="_private/rss.xml"]
