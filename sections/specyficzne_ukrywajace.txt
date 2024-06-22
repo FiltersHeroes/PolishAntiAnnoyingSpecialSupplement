@@ -1,5 +1,3 @@
-propertynews.pl##.box-rssalert
-propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -391,6 +389,8 @@ poznan.uw.gov.pl##.feed-icon > .feed-icon
 ppe.pl##a[href="/rss.html"]
 praca.policja.pl##li:first-of-type > h2
 programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
+propertynews.pl##.box-rssalert
+propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 przepisownia.pl###tmrcSocialTabs a[href*="/rss"]
 przysucha.pl##.mikona a[href="_private/rss.xml"]

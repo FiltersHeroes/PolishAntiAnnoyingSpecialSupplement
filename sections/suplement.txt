@@ -1,11 +1,11 @@
-boop.pl##article ~ div p a[href*="gunuri"]:remove-attr(href)
-boop.pl##article ~ div p a.uppercase[class*="hover:"]:remove-attr(class)
-boop.pl##article ~ div p:has(a:not([href]) ~ a:not([href]))
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##html > body:style(position: static !important; overflow: auto !important; margin-right: 0 !important)
+boop.pl##article ~ div p a.uppercase[class*="hover:"]:remove-attr(class)
+boop.pl##article ~ div p a[href*="gunuri"]:remove-attr(href)
+boop.pl##article ~ div p:has(a:not([href]) ~ a:not([href]))
 lkslodz.pl###modal, .modal-backdrop
 lkslodz.pl##.modal-open[class]:style(overflow: auto !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
