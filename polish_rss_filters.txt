@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 23 Jun 2024, 00:55 UTC+02:00
-! Version: 2024.6.2
+! Last modified: Sun, 30 Jun 2024, 00:55 UTC+02:00
+! Version: 2024.6.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -21,6 +21,7 @@
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
+24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,glivice.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,zabrzenews.pl##.social-bar a[href*="xml"]
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
 24opole.pl##.rss_main
 24pr.pl##a[href$="/feed"]
@@ -43,7 +44,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
-antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,goniec.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
+antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,fxmag.pl,goniec.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 arimr.gov.pl##.soc-rss
