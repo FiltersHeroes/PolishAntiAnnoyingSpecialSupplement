@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 30 Jun 2024, 00:55 UTC+02:00
-! Version: 2024.6.3
+! Last modified: Sun, 14 Jul 2024, 20:24 UTC+02:00
+! Version: 2024.7.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -562,6 +562,7 @@ wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 wycieczki.tanie-loty.com.pl##.tl-social-links > li:nth-of-type(5)
 wykop.pl##a[href*="wykop.pl/rss"]
 wylecz.to##.google-news_block
+wyleczpc.pl##a.footer-sni[href*="/feed"]
 xboxforum.pl##.p-footer-rssLink
 yafud.pl##a[href*="feedproxy.google.com/YAFUD"]
 yuliyababich.eu###StaticPanel > #AnimalPanel
