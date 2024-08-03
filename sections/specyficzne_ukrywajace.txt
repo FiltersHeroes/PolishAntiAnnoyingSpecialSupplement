@@ -519,9 +519,9 @@ webinsider.pl,zuch.media##.fa-feed
 weeb.tv##.feed.icon
 wegemaluch.pl###gkbottombottom2 > div.box:first-of-type > div > .content > .custom > div
 wetgiw.gov.pl##.ikon-rss
+wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
 wiadomoscihandlowe.pl,wiadomoscispozywcze.pl##.footer__links a[href^="/strona/kanaly-rss-"]
 wiadomoscihandlowe.pl,wiadomoscispozywcze.pl##.item__share-rss
-wiadomoscihandlowe.pl##a.page-article__icon:nth-of-type(5)
 wiadomoscihandlowe.pl,wiadomoscispozywcze.pl##.menu__link[href*="feed"]
 wielen.pl##.news_rss_icon
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
