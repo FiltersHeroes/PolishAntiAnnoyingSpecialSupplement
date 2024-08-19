@@ -1,4 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
+propertydesign.pl##.google-box
+propertydesign.pl##a[href*="/rss_info.html"]
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 smakidalmacji.pl##.rss-widget-feed
