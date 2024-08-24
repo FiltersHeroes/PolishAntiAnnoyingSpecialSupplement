@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 18 Aug 2024, 00:55 UTC+02:00
-! Version: 2024.8.1
+! Last modified: Sun, 25 Aug 2024, 00:55 UTC+02:00
+! Version: 2024.8.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -409,6 +409,8 @@ poznan.uw.gov.pl##.feed-icon > .feed-icon
 ppe.pl##a[href="/rss.html"]
 praca.policja.pl##li:first-of-type > h2
 programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
+propertydesign.pl##.google-box
+propertydesign.pl##a[href*="/rss_info.html"]
 propertynews.pl##.box-rssalert
 propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
@@ -467,6 +469,7 @@ sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
 smaker.pl##.-share.-gn.btn--social
+smakidalmacji.pl##.rss-widget-feed
 smakosze.pl#?#button:-abp-has(span:-abp-contains(Obserwuj nas w))
 smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
