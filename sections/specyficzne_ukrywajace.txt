@@ -1,9 +1,6 @@
 4kdownload.com##.community__item--feed.community__item
-propertydesign.pl##.google-box
-propertydesign.pl##a[href*="/rss_info.html"]
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
-smakidalmacji.pl##.rss-widget-feed
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
 24kato.pl,24zaglebie.pl,bytomski.pl,chorzowski.pl,glivice.pl,ngs24.pl,nowinytyskie.pl,piekary.info,rudzianin.pl,tarnowskiegory.info,zabrzenews.pl##.social-bar a[href*="xml"]
 24kurier.pl##.footData:first-of-type > ul > li:nth-of-type(8)
@@ -393,6 +390,8 @@ poznan.uw.gov.pl##.feed-icon > .feed-icon
 ppe.pl##a[href="/rss.html"]
 praca.policja.pl##li:first-of-type > h2
 programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
+propertydesign.pl##.google-box
+propertydesign.pl##a[href*="/rss_info.html"]
 propertynews.pl##.box-rssalert
 propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
@@ -451,6 +450,7 @@ sledzimykonkursy.pl##a[href*="sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
 smaker.pl##.-share.-gn.btn--social
+smakidalmacji.pl##.rss-widget-feed
 smakosze.pl#?#button:-abp-has(span:-abp-contains(Obserwuj nas w))
 smartyou.pl##.social > .title
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
