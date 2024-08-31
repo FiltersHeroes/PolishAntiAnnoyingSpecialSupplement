@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-zus.pl##a.social-link[href*="rss"]
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -562,5 +561,6 @@ zs-cogito.pl##a[href*="/?feed=rss"]
 ztm.waw.pl###Banneryiztm > a[href*="ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zus.pl##.b-icon-before-large-rss
+zus.pl##a.social-link[href*="rss"]
 zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/"])
 zyleta.info##.followupdate
