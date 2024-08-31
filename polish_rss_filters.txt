@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 25 Aug 2024, 00:55 UTC+02:00
-! Version: 2024.8.2
+! Last modified: Sun, 01 Sep 2024, 00:55 UTC+02:00
+! Version: 2024.9.0
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -580,6 +580,7 @@ zs-cogito.pl##a[href*="/?feed=rss"]
 ztm.waw.pl###Banneryiztm > a[href*="ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(even)
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zus.pl##.b-icon-before-large-rss
+zus.pl##a.social-link[href*="rss"]
 zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/"])
 zyleta.info##.followupdate
 !
