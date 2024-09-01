@@ -190,7 +190,7 @@ gospodarkapodkarpacka.pl###rssBaner
 gospodarz.tv,kurier.pap.pl,powiatkamienski.pl##a[href="/rss.xml"]
 gpw.pl,gpwcatalyst.pl,newconnect.pl##a[href="/_rss"]
 grebocice.com.pl##a.footer_more_site_link:nth-of-type(2)
-green-news.pl##footer div.col-sm-2:nth-of-type(5)
+green-news.pl###footer .items-center a[href="/rss"]
 grupapolsat.pl##.rss-feed
 gry.interia.pl##.nav-footer-list .feed > .nav-item-link
 hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
