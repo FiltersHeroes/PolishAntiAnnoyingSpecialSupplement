@@ -1,5 +1,3 @@
-wittamina.pl###text-5 a[href*="/feed"]
-developers.google.com##.devsite-footer-promos-list > li:has([href*="/feed"])
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -112,6 +110,7 @@ dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
 dbamozeby.com###menu_blog_rss
 deccoria.pl###google-news-button
 demagog.org.pl##.dg-social_icons a[href*="/feed"]
+developers.google.com##.devsite-footer-promos-list > li:has([href*="/feed"])
 dhl.com##.c-footer-social-container
 di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 digitalassets.pl##.feed-link-wrap
@@ -532,6 +531,7 @@ wielen.pl##.news_rss_icon
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
 wikidot.com,~www.wikidot.com##.feedinfo
 wirtualnemedia.pl##.header .icon-right .middle-icon > span, a[href="/rss.html"]
+wittamina.pl###text-5 a[href*="/feed"]
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href*="wnp.pl/rss/"]
 wolnemedia.net###bar-second > ul > li:nth-of-type(2)
