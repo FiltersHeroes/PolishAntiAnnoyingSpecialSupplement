@@ -1,7 +1,6 @@
-~google.co.uk,~google.com,~pl##a[href*="news.google.com/publications/"] img:lang(pl)
-pl##a[href*="news.google.com/publications/"] img
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
+~google.co.uk,~google.com,~pl##a[href*="news.google.com/publications/"] img:lang(pl)
 ~google.pl,pl##.google-news
 ~google.pl,pl##.google-news-banner
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
@@ -19,6 +18,7 @@ pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
 pl##.slide-rss-out-div
 pl##.top-bar .social a[href="/rss"]
+pl##a[href*="news.google.com/publications/"] img
 pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
