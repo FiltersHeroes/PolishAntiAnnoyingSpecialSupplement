@@ -15,10 +15,6 @@ powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/porta
 rootblog.pl##+js(rmnt, #text, Chcesz być na bieżąco?)
 rootblog.pl##a[href*="news.google.com/publications/"] b
 sprzedajemy.pl###cntListRssLink:style(background-image: none !important)
-um.kielce.pl##+js(ra, href|title, map > area[alt="RSS"], stay)
-um.kielce.pl##^map > area[alt="RSS"]
-um.kielce.pl##map > area[alt="RSS"]:remove()
-um.kielce.pl$$area[alt="RSS"]
 wsqn.pl##.extralight-border:style(border: none !important)
 www.lenovo.com##.footerForumsIcon:lang(pl) > a::before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important)
