@@ -1,0 +1,1 @@
+um.kielce.pl##map > area[alt="RSS"] { remove: true }

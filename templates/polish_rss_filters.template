@@ -16,19 +16,29 @@
 ! Aktualizacja: @localizedDT
 !
 !
-! Specyficzne reguły ukrywające
-@include specyficzne_ukrywajace
-!
-!
-! Specyficzne reguły blokujące
-@include specyficzne_blokujace
-!
-!
-! Ogólne reguły ukrywające
+! Ogólne filtry ukrywające
 @include ogolne_ukrywajace
 !
 !
-! Dodatkowe reguły dla uBO & AG
+! Ogólne filtry blokujące
+@include ogolne_blokujace
+!
+!
+! Specyficzne filtry ukrywające
+@include specyficzne_ukrywajace
+!
+!
+! Specyficzne filtry blokujące
+@include specyficzne_blokujace
+!
+!
+! Specyficzne filtry usuwające ABP
+!#if (ext_abp)
+@include specyficzne_ABP
+!#endif
+!
+!
+! Dodatkowe filtry dla uBO & AG
 !#if (!adguard_ext_android_cb && !adguard_app_ios)
 !#include sections/suplement.txt
 !#endif
