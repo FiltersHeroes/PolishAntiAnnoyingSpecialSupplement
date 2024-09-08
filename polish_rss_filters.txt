@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sun, 08 Sep 2024, 14:01 UTC+02:00
-! Version: 2024.9.3
+! Last modified: Sun, 08 Sep 2024, 14:09 UTC+02:00
+! Version: 2024.9.4
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -670,7 +670,7 @@ zyleta.info##.followupdate
 !
 ! Specyficzne filtry usuwające ABP
 !#if (ext_abp)
-um.kielce.pl##map > area[alt="RSS"] { remove: true }
+!
 !#endif
 !
 !
