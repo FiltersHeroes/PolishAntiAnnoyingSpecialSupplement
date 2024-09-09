@@ -1,2 +1,4 @@
 /ico_rss.
 /rss.png
+/menu_wysuwalne/bnt_rss.png
+/menu/btn_rss.png
