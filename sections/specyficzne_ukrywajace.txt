@@ -1,3 +1,4 @@
+komputerswiat.pl##.ods-c-footer__social
 4kdownload.com##.community__item--feed.community__item
 dns.pl##.follow-icon__rss
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
