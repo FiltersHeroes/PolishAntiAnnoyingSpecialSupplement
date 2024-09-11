@@ -26,7 +26,6 @@
 ||muzeumwp.pl/images/logo-rss.jpg
 ||naekranie.pl/dist/images/google-telegram.$image
 ||naekranie.pl/dist/images/google-threads.$image
-||nowaruda.info/img/rss_
 ||packaging-polska.pl/include/templates/www/img/icon_rss.gif
 ||parkslaski.pl/modules/mod_cckrss/rss-ico.png
 ||plfoto.com/gfx/rss_icon.png
