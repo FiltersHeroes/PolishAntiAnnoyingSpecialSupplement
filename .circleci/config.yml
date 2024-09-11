@@ -1,21 +1,21 @@
-version: 2
-jobs:
-  build:
-    docker:
-      - image: ghcr.io/filtersheroes/sflb_image:3.0.11
-    steps:
-      - checkout
-      - run: python3 "/usr/bin/SFLB.py" polish_rss_filters.txt
-workflows:
-  version: 2
-  workflow:
-    triggers:
-      - schedule:
-          cron: 55 22 * * 6
-          filters:
-            branches:
-              only:
-                - master
-    jobs:
-      - build:
-          context: org-global
+# version: 2
+# jobs:
+#   build:
+#     docker:
+#       - image: ghcr.io/filtersheroes/sflb_image:3.0.11
+#     steps:
+#       - checkout
+#       - run: python3 "/usr/bin/SFLB.py" polish_rss_filters.txt
+# workflows:
+#   version: 2
+#   workflow:
+#     triggers:
+#       - schedule:
+#           cron: 55 22 * * 6
+#           filters:
+#             branches:
+#               only:
+#                 - master
+#     jobs:
+#       - build:
+#           context: org-global
