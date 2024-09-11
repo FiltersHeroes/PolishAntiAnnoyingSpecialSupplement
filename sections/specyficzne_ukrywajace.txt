@@ -1,3 +1,4 @@
+petrolnet.pl,horecanet.pl##hr + div:has(a[href*="news.google.com/publications/"] img)
 komputerswiat.pl##.ods-c-footer__social
 4kdownload.com##.community__item--feed.community__item
 dns.pl##.follow-icon__rss
