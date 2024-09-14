@@ -1,7 +1,6 @@
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.co.uk,~google.com,~pl##a[href*="news.google.com/publications/"] img:lang(pl)
-pl##.div_menu_prawe_wysuwane a[href*="/rss"]
 ~google.pl,pl##.google-news
 ~google.pl,pl##.google-news-banner
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
@@ -10,6 +9,7 @@ info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
 pl##.art-bar-googlenews
+pl##.div_menu_prawe_wysuwane a[href*="/rss"]
 pl##.fa-rss
 pl##.fa-rss-square
 pl##.fusion-icon-rss

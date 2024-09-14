@@ -1,7 +1,4 @@
-petrolnet.pl,horecanet.pl##hr + div:has(a[href*="news.google.com/publications/"] img)
-komputerswiat.pl##.ods-c-footer__social
 4kdownload.com##.community__item--feed.community__item
-dns.pl##.follow-icon__rss
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -121,6 +118,7 @@ diver.net.pl###menumob > a[href*="feedburner.com/divernetpl"], .xpd-ele-1
 dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl##.footer-menu-list-link[href*="/rss"]
 dlahandlu.pl,rynekaptek.pl,rynekseniora.pl,rynekzdrowia.pl,sadyogrody.pl#?#.box:-abp-has(> #socialBox)
 dlapolski.pl##.dashicons-rss
+dns.pl##.follow-icon__rss
 dns.pl##.follow-links > li[class*="rss" i]
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
@@ -202,6 +200,7 @@ hardcorowo.pl,sadownictwo.com.pl###rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
+horecanet.pl,petrolnet.pl##hr + div:has(a[href*="news.google.com/publications/"] img)
 hydro.com.pl##.btn-rss
 i-systems.pl,interia.pl##a[href*="/feed"]
 i.pl##footer a[href="/rss"]
@@ -246,6 +245,7 @@ kochanamama.pl##.pmpIRss, .pmpB > div > div:first-of-type
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
+komputerswiat.pl##.ods-c-footer__social
 kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href*="korsokolbuszowskie.pl/rss"]
