@@ -1,5 +1,4 @@
 4kdownload.com##.community__item--feed.community__item
-filmozercy.com##.c-post__btn-gn-link
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,naszekielce.com,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
@@ -152,6 +151,7 @@ farmer.pl##.greyBox
 festiwalbiegowy.pl###block-block-52
 film.com.pl,smaki.pl##.stay-updated
 filmozercy.com##.c-panel-social__item--rss
+filmozercy.com##.c-post__btn-gn-link
 finansenaplus.pl###rssfeed
 florydziak.com###float_feed_box
 forbes.pl##.rs
