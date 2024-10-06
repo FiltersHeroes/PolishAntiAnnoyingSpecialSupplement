@@ -1,3 +1,5 @@
+~poczta.o2.pl,o2.pl##article #article-end ~ div:has(> div a[href*="google.com/publications"])
+~poczta.o2.pl,o2.pl##div[data-st-area="st-gallery-reactions"] button:has(> svg):has(+div a[href*="google.com/publications"])
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
