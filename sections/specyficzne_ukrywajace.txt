@@ -1,4 +1,5 @@
 4kdownload.com##.community__item--feed.community__item
+di.pk.edu.pl##.RssFeedIcon
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
 13liceum.eu,just.now.pl,kolorowanki.eu,lby.areacodebase.com,m.e-lubon.pl,mzgk.com.pl,polnocna.tv,pracodawcy.info.pl,trzcianka.info##.feed-icon
