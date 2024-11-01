@@ -1,5 +1,6 @@
 noizz.pl##.shareButtons:has(> ul > li:only-child > a[data-section="followUsOnGoogleClick"])
 noizz.pl##.shareButtons > ul > li:not(:only-child):has(> a[data-section="followUsOnGoogleClick"])
+forumrowerowe.org###elRSS
 noizz.pl##a[data-section="followUsOnGoogleClick"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
