@@ -1,7 +1,3 @@
-noizz.pl##.shareButtons:has(> ul > li:only-child > a[data-section="followUsOnGoogleClick"])
-noizz.pl##.shareButtons > ul > li:not(:only-child):has(> a[data-section="followUsOnGoogleClick"])
-forumrowerowe.org###elRSS
-noizz.pl##a[data-section="followUsOnGoogleClick"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -169,6 +165,7 @@ forum.benchmark.pl,forum.komputerswiat.pl,forum.satkurier.pl,paranormalne.pl,rol
 forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href*="forum.paramythology.pl/misc.php"]
 forum.unturned.pl##a[href="forums/-/index.rss"]
+forumrowerowe.org###elRSS
 forumsamochodowe.pl##.rsslink
 franchising.pl##.social-icons-googlenews
 fundacjawolnosci.org###menu-item-2756
@@ -348,6 +345,9 @@ newsweek.pl##.socialList .rs
 niebezpiecznik.pl###text-3 > .textwidget > p
 niedziela.pl##a > .mdi-rss-box.mdi
 nj24.pl###footer-feed-icon
+noizz.pl##.shareButtons > ul > li:not(:only-child):has(> a[data-section="followUsOnGoogleClick"])
+noizz.pl##.shareButtons:has(> ul > li:only-child > a[data-section="followUsOnGoogleClick"])
+noizz.pl##a[data-section="followUsOnGoogleClick"]
 nowyzmigrod.eu##.dd-rss-tag-icon
 o2.pl,~poczta.o2.pl##article #article-end ~ div:has(> div a[href*="google.com/publications"])
 o2.pl,~poczta.o2.pl##div[data-st-area="st-gallery-reactions"] button:has(> svg):has(+ div a[href*="google.com/publications"])
