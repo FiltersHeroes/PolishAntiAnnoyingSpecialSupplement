@@ -1,4 +1,3 @@
-app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.pl,farmacja.net,farmacja.pl,farmacja.tv,grupafarmacja.net,mgr.farm,receptura.pl,rx.edu.pl##.farmacja-google-news-cta
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner.com/"]
@@ -30,6 +29,7 @@ annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,fxmag.pl,goniec.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
+app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.pl,farmacja.net,farmacja.pl,farmacja.tv,grupafarmacja.net,mgr.farm,receptura.pl,rx.edu.pl##.farmacja-google-news-cta
 arimr.gov.pl##.soc-rss
 astronomia24.com##a[href="news_rss.php"]
 ataksja.org.pl###linkcat-34
