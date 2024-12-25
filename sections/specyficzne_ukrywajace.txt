@@ -160,7 +160,6 @@ florydziak.com###float_feed_box
 forbes.pl##.rs
 forexrev.pl##.ca_socialswidget
 forsal.pl##a[href*="/.feed"]
-forum.archlinux.org.pl###feedlinks
 forum.benchmark.pl,forum.satkurier.pl,paranormalne.pl,rolnik-forum.pl###rss_feed
 forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href*="forum.paramythology.pl/misc.php"]
@@ -251,7 +250,6 @@ kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
 komorkomat.pl#?#.post-content p:-abp-has(a[href^="https://news.google.com/publications/"])
 komputerswiat.pl##.ods-c-footer__social
-kordialne.pl##.footer_bar > .postbit_buttons.wrapper > a.float_right:nth-of-type(2)
 korr.pl##a[href^="/?format=feed&type=rss"]
 korsokolbuszowskie.pl##a[href*="korsokolbuszowskie.pl/rss"]
 kosapopatelni.pl##div.footer-col3:nth-of-type(3)
