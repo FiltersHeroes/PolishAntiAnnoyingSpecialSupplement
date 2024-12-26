@@ -150,6 +150,7 @@ ewaipiotr.pl,menworld.pl,oiot.pl,tabletowo.pl##.menu-icon-rss
 express-miejski.pl##[href="/rss"]
 exsites.pl##a[title="RSS"]
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
+facetikuchnia.com.pl##.about-cook-social form[action*="feedburner"]
 farmer.pl##.greyBox
 festiwalbiegowy.pl###block-block-52
 film.com.pl,smaki.pl##.stay-updated
@@ -289,7 +290,6 @@ lubsport.pl,politykabezpieczenstwa.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
 maciejewski.com##.fa-rss-square.fa
 madameedith.com##.top-social a[href*="feedburner."]
-facetikuchnia.com.pl##.about-cook-social form[action*="feedburner"]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 majkiit.github.io##footer .fa-rss
