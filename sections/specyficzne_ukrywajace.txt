@@ -1,4 +1,3 @@
-rybnik.com.pl,slaskibiznes.pl,tujastrzebie.pl,tuwodzislaw.pl,tuwroclaw.com,tuzory.pl##.section__box.section:has(a.button[href*="news.google.com/publications/"])
 4kdownload.com##.community__item--feed.community__item
 4media.com,tvmaster.eu,wielicka.tv##.social > .rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -435,6 +434,7 @@ roland-gazeta.pl##.jeSocial > span:last-child
 rpo-swietokrzyskie.pl##a[class^="ftr_social_rss"]
 rpo.lubelskie.pl##a[title^="RSS"]
 rybnik.com.pl,slaskibiznes.pl,tujastrzebie.pl,tuwodzislaw.pl,tuwroclaw.com,tuzory.pl##.follow__google-news
+rybnik.com.pl,slaskibiznes.pl,tujastrzebie.pl,tuwodzislaw.pl,tuwroclaw.com,tuzory.pl##.section__box.section:has(a.button[href*="news.google.com/publications/"])
 rybnik.com.pl,slaskibiznes.pl,tujastrzebie.pl,tuwodzislaw.pl,tuwroclaw.com,tuzory.pl##li a[href*="/feed"]
 rynek-kolejowy.pl,rynek-lotniczy.pl,rynekinfrastruktury.pl,transport-publiczny.pl##.sledzNasContainer, .sledzNasContainerStopka, .sledzNasStopkaContainer
 rynek-lotniczy.pl##a[href$="/rss/rss.xml"]
