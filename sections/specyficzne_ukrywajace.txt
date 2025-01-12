@@ -125,7 +125,7 @@ dns.pl##.follow-icon__rss
 dns.pl##.follow-links > li[class*="rss" i]
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
 dojczland.info##.td-footer-template-13
-dompelenpomyslow.pl##a[href*="news.google.com/"]
+dompelenpomyslow.pl##a[href*="news.google.com/publications/"]
 dw.com,e-petrol.pl,gram.pl,miastonowydwor.pl,mkm.szczecin.pl##a[href*="/rss/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennik.com##.t-right.omega.g3
@@ -305,8 +305,8 @@ mattomatti.com##a[href="rss"]
 media.netflix.com##.signup-for-blog
 media.pkobp.pl##.pko-menu__section > .pko-menu__social-icons > .pko-icon.pko-icon--rss
 media.poczta-polska.pl##.subscribe-section__rss
-medonet.pl#?#p.additional-article-bottom-text + .additional-article-bottom-text:-abp-has(> a[href*="news.google.com/"])
-medonet.pl#?#p.additional-article-bottom-text:-abp-has(+ .additional-article-bottom-text a[href*="news.google.com/"])
+medonet.pl#?#p.additional-article-bottom-text + .additional-article-bottom-text:-abp-has(> a[href*="news.google.com/publications/"])
+medonet.pl#?#p.additional-article-bottom-text:-abp-has(+ .additional-article-bottom-text a[href*="news.google.com/publications/"])
 megascena.pl###footer > #subscribe-out
 melagu.pl##.ty-footer-grid > div:first-of-type > div[class*="footer-"].span16
 mi-home.pl###newsletter_block_left
@@ -380,9 +380,9 @@ pl.coinmill.com###rsslink
 pl.msi.com##.shortcut__link[href*="/rss"]
 pl.wikipedia.org###feed-atom
 planszowkiwedwoje.pl###HTML7 > .title, a[href*="planszowki.blogspot.com/feeds/posts/default"]
-plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/"])
-plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/"] > em:-abp-contains(Obserwuj))
-plejada.pl#?#p.narrow.hyphenate:-abp-contains(/^Bądź na bieżąco/):-abp-has(> a[href*="news.google.com/"] > strong)
+plejada.pl#?#article p.hyphenate:nth-child(-n+2):-abp-has(> a[href*="news.google.com/publications/"])
+plejada.pl#?#p.hyphenate:-abp-has(> a[href*="news.google.com/publications/"] > em:-abp-contains(Obserwuj))
+plejada.pl#?#p.narrow.hyphenate:-abp-contains(/^Bądź na bieżąco/):-abp-has(> a[href*="news.google.com/publications/"] > strong)
 pless.pl##small > a[href="//www.pless.pl/rss.xml"]
 pm1kg.pl##.rss-tag-icon
 podkasty.info##.social > li:first-of-type
@@ -574,5 +574,5 @@ ztm.waw.pl###Banneryiztm > a[href*="ztm.waw.pl/"]:nth-of-type(-n+4):nth-of-type(
 zuch.media##.fw-footer-social > a:nth-of-type(4)
 zus.pl##.b-icon-before-large-rss
 zus.pl##a.social-link[href*="rss"]
-zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/"])
+zxu.pl#?#.code-block:-abp-has(> a[href*="news.google.com/publications/"])
 zyleta.info##.followupdate
