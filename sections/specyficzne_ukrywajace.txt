@@ -311,7 +311,7 @@ melagu.pl##.ty-footer-grid > div:first-of-type > div[class*="footer-"].span16
 mi-home.pl###newsletter_block_left
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
 miejscepiastowe.pl##a[href="_private/rssw.xml"]
-mirafaber.pl###divBottomRight a[href$="/feed"]
+mirafaber.pl##a[href$="/feed"]
 misyjne.pl##.text-right > a.signbtn:first-of-type
 miziaforum.wordpress.com###leftside > ul > li:first-of-type
 mkm.szczecin.pl###dropdownRSSNews
