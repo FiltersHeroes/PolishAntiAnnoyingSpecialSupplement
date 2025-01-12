@@ -209,7 +209,6 @@ histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calcu
 horecanet.pl,petrolnet.pl##hr + div:has(a[href*="news.google.com/publications/"] img)
 hydro.com.pl##.btn-rss
 i-systems.pl,interia.pl##a[href*="/feed"]
-i.pl##footer a[href="/rss"]
 igol.pl##a[href*="igol.pl/feed/"]
 igryfino.pl,korso.pl,korso24.pl,korsokolbuszowskie.pl,korsosanockie.pl,narew.info,naszrynek.pl,tarnowska.tv,tvdami.eu,tvpogranicze.pl##header > .top-mini-nav > .container > .sbuttons > li > a[href*="/rss"]
 ikominki.eu##a[href*="feed"]
