@@ -395,7 +395,7 @@ portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:first-of-type
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .navi > a:not(:nth-child(n+5))
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
-portu.pl##.footer-social-box > a[href="/rss.xml"]
+portu.pl##a[href="/rss.xml"]
 powiat-legionowski.pl##.h-ic-7
 poznan.uw.gov.pl##.feed-icon
 ppe.pl##a[href="/rss.html"]
@@ -506,7 +506,7 @@ tvrodzina.pl###gkRSS
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
-tygodnikpowszechny.pl##p > a[href="/rss.xml"]
+tygodnikpowszechny.pl##a[href="/rss.xml"]
 tygodnikziemiopolskiej.info###Mod246 li:nth-of-type(5)
 typeofweb.com##.menu-item[href*="/feed"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
