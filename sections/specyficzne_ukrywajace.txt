@@ -23,7 +23,7 @@ allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
-anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,radio.opole.pl,szczecinek.com,tvpolsat.info##.fa-rss
+anetaduk.com,bialogard.info,epremki.com,olgasmile.com,omediach.info,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,fxmag.pl,goniec.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
@@ -288,11 +288,11 @@ lubanski.eu##.rss-box > .posts-icon
 lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
 lubsport.pl,politykabezpieczenstwa.pl##footer a[href*="/feed"]
 lukaszrokicki.pl#?##sidebar > ul > li:-abp-contains(Śledź nowości)
-maciejewski.com##.fa-rss-square.fa
+maciejewski.com##.fa-rss-square
 madameedith.com##.top-social a[href*="feedburner."]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
-majkiit.github.io##footer .fa-rss
+majkiit.github.io##.fa-rss
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl,pobitegary.com,silesion.pl###text-3
 marketerplus.pl##.title.social-media__header, li.social-media__item:nth-of-type(5)
