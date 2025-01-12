@@ -90,6 +90,7 @@ ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chemiabudowlana.info##.widget_chemia_right
 chip.pl,leftlane.pl##.tipi-i-rss
 chroberz.info,katedra.rzeszow.pl,przeclaw24.pl,tygodniknotecki.pl##.syndicate-module
+bolesławiec.pl##.syndicate-module
 chwp.pl##a[href*="chwp.pl/feed/"]
 citybuzz.pl,prnews.pl##a[href="/feed"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
