@@ -407,7 +407,7 @@ propertynews.pl##.box-rssalert
 propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 przepisownia.pl###tmrcSocialTabs a[href*="/rss"]
-przysucha.pl##.mikona a[href="_private/rss.xml"]
+przysucha.pl##a[href="_private/rss.xml"]
 psp5zagan.pl##.linksColorInherit > a[href="/rss/news"]
 pswbp.pl##.module-content > a[href^="/index.php/pl"]
 pszczyna.pl##.komunikacja
@@ -538,7 +538,8 @@ wiadomoscihandlowe.pl,wiadomoscispozywcze.pl##.menu__link[href*="feed"]
 wielen.pl##.news_rss_icon
 wielen.pl##a.row.footer_more_site_link:nth-of-type(2)
 wikidot.com,~www.wikidot.com##.feedinfo
-wirtualnemedia.pl##.header .icon-right .middle-icon > span, a[href="/rss.html"]
+wirtualnemedia.pl##.header .icon-right .middle-icon > span
+wirtualnemedia.pl##a[href="/rss.html"]
 wittamina.pl###text-5 a[href*="/feed"]
 wiwa.info.pl##td > span > a[href^="/?format=feed"]
 wnp.pl##a[href*="wnp.pl/rss/"]
