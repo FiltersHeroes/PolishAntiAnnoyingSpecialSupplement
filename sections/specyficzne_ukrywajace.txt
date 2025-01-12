@@ -500,7 +500,7 @@ toiowo.eu###gk-rss
 trojmiejska.com##footer #easycontent_6 > .title_block
 trzynasty-schron.net##.dolneIkonki > li:first-of-type
 tulodz.pl##.section-bottom-social__box--rss
-tuudi.net##a.tdb-social-item > .td-icon-font.td-icon-rss
+tuudi.net##.td-icon-rss
 tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
 twoje-seriale.pl##.Syn > ul
