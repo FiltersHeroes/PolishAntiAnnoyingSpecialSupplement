@@ -398,7 +398,7 @@ portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*=
 portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
 portu.pl##.footer-social-box > a[href="/rss.xml"]
 powiat-legionowski.pl##.h-ic-7
-poznan.uw.gov.pl##.feed-icon > .feed-icon
+poznan.uw.gov.pl##.feed-icon
 ppe.pl##a[href="/rss.html"]
 praca.policja.pl##li:first-of-type > h2
 programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
