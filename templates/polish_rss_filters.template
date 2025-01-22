@@ -33,7 +33,7 @@
 !
 !
 ! Specyficzne filtry usuwające ABP
-!#if (ext_abp)
+!#if ext_abp
 @include specyficzne_ABP
 !#endif
 !
