@@ -1,4 +1,3 @@
-kapitanhack.pl##a[href="/feed"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -200,6 +199,7 @@ hackintosh.com.pl###sidebar > div.syndicate.sidebar-content:nth-of-type(4)
 handelextra.pl##a img[alt="Google Wiadomości - Handelextra"]
 haps.pl##footer li:nth-of-type(3) > a[href$="000,0.html"]
 hardcorowo.pl,sadownictwo.com.pl###rssLink
+hdtv.com.pl,xboxforum.pl##.p-footer-rssLink
 helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org#?##article div[style*="auto"] > div[style*="bold"]:-abp-has(+ #calculatedSocials)
@@ -236,6 +236,7 @@ joannapachla.com##.newsletter-section-new
 joomla.pl,preppersi.pl,sp36.bytom.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
+kapitanhack.pl##a[href="/feed"]
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
 kas.gov.pl,kis.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
@@ -545,7 +546,6 @@ wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
 wykop.pl##a[href*="wykop.pl/rss"]
 wylecz.to##.google-news_block
 wyleczpc.pl##a.footer-sni[href*="/feed"]
-xboxforum.pl##.p-footer-rssLink
 yafud.pl##a[href*="feedproxy.google.com/YAFUD"]
 yuliyababich.eu###StaticPanel > #AnimalPanel
 yves-rocher.pl##.l-footer__services div.service__column:nth-of-type(2)
