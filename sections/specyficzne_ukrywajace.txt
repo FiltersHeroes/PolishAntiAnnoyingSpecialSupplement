@@ -27,6 +27,7 @@ angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,e-tlumacze.net,fxmag.pl,goniec.pl,green-news.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
+aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,topnewsy.pl##.page-link[href*="news.google.com/publications/"]
 anyforum.pl,skyup.pl##.rs.sicon
 app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.pl,farmacja.net,farmacja.pl,farmacja.tv,grupafarmacja.net,mgr.farm,receptura.pl,rx.edu.pl##.farmacja-google-news-cta
 astronomia24.com##a[href="news_rss.php"]
