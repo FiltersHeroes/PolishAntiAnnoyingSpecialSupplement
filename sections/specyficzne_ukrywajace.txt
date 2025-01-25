@@ -1,5 +1,3 @@
-e-kolo.pl##img[src*="images/googlesmall.png"] + a[href*="news.google.com/publications/"]
-e-kolo.pl##img[src*="images/googlesmall.png"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -29,10 +27,10 @@ angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
 antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,e-tlumacze.net,fxmag.pl,goniec.pl,green-news.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
-aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,topnewsy.pl##.page-link[href*="news.google.com/publications/"]
 anyforum.pl,skyup.pl##.rs.sicon
 app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.pl,farmacja.net,farmacja.pl,farmacja.tv,grupafarmacja.net,mgr.farm,receptura.pl,rx.edu.pl##.farmacja-google-news-cta
 astronomia24.com##a[href="news_rss.php"]
+aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,topnewsy.pl##.page-link[href*="news.google.com/publications/"]
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
@@ -92,7 +90,7 @@ ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chemiabudowlana.info##.widget_chemia_right
 chip.pl,leftlane.pl##.tipi-i-rss
 chwp.pl##a[href*="chwp.pl/feed/"]
-citybuzz.pl,prnews.pl##a[href="/feed"]
+citybuzz.pl,kapitanhack.pl,prnews.pl##a[href="/feed"]
 ckmuza.eu##div.sidebar:nth-of-type(5) > .line, .social > li:nth-of-type(3)
 comparic.pl###menu-item-264018
 consil.com.pl##.footerbar > div.col-md-6.col-sm-6 > ul > li:nth-of-type(4) > a > img
@@ -134,6 +132,8 @@ dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,ec
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#.componentsArticlesBarArticleLinkWithLogo:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl#?#ul.componentsRecommendationsSelected__list--withPhoto > li.componentsRecommendationsSelected__item:-abp-has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
+e-kolo.pl##img[src*="images/googlesmall.png"]
+e-kolo.pl##img[src*="images/googlesmall.png"] + a[href*="news.google.com/publications/"]
 e-konkursy.info,hokej.net,pixelophobia.pl,polska-zbrojna.pl##.social-rss
 egospodarka.pl##.ego-ico4
 ekorekta24.pl##a.social:nth-of-type(3)
@@ -239,7 +239,6 @@ joannapachla.com##.newsletter-section-new
 joomla.pl,preppersi.pl,sp36.bytom.pl,testhub.pl##.icon-feed
 joomla.pl,tygodniknotecki.pl,wadowice24.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
-kapitanhack.pl##a[href="/feed"]
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
 kas.gov.pl,kis.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
