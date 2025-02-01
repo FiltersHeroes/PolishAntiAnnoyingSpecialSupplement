@@ -1,5 +1,5 @@
 ---
-name: Ulepszenia
-about: Improvements
+name: Ulepszenia 🌱
+about: Improvements 📈
 labels: ulepszenie
 ---

@@ -1,6 +1,6 @@
-name: Zgłoszenia niezablokowanych elementów RSS 📶 / widgetów zmieszanych z RSS 📶
-description: Reports of non-blocked RSS elements📶 / mixed widgets with RSS 📶
-labels: RSS
+name: Zgłoszenia zmieszanych elementów social media 👍🏻 z newsletterem 📩 lub pop-upem 🗨️
+description: Reports of mixed social media elements 👍🏻 with a newsletter 📩 or pop-up 🗨️
+labels: zgłoszenie
 
 body:
   - type: markdown
