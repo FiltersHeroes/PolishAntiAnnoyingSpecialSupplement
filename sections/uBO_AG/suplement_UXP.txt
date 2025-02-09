@@ -1,0 +1,3 @@
+boop.pl##+js(ra, class, article ~ div p a.uppercase[class*="hover:"], stay)
+boop.pl##+js(ra, href, article ~ div p a[href*="gunuri"], stay)
+plejada.pl##+js(ra, href, detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"], stay)

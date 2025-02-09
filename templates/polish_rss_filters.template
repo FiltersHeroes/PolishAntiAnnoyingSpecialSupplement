@@ -40,5 +40,11 @@
 !
 ! Dodatkowe filtry dla uBO & AG
 !#if (!adguard_ext_android_cb && !adguard_app_ios)
-!#include sections/suplement.txt
+!#include sections/uBO_AG/suplement_ogolny.txt
+!#endif
+!#if env_legacy
+!#include sections/uBO_AG/suplement_UXP.txt
+!#endif
+!#if !ext_ublock
+!#include sections/uBO_AG/suplement_AdGuard.txt
 !#endif
