@@ -25,4 +25,4 @@ jobs:
           GIT_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          python3 "/usr/bin/SFLB.py" polish_rss_filters.txt
+          python3 "/usr/bin/SFLB.py" polish_rss_filters.txt PASS_supp.txt

@@ -1,0 +1,12 @@
+! Codename: PASS - Supplement
+! Dodatkowe filtry dla uBO & AG
+@sectionsPath sections/uBO_AG
+!#if (!adguard_ext_android_cb && !adguard_app_ios)
+@include suplement_ogolny
+!#endif
+!#if env_legacy
+@include suplement_UXP
+!#endif
+!#if !ext_ublock
+@include suplement_AdGuard
+!#endif

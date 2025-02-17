@@ -10,8 +10,8 @@
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
 ! License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
-! Creator: RikoDev
-! Maintainer: Filters Heroes
+! Original creator: RikoDev
+! Current maintainer: Filters Heroes
 ! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement
 ! Aktualizacja: @localizedDT
 !
@@ -38,13 +38,4 @@
 !#endif
 !
 !
-! Dodatkowe filtry dla uBO & AG
-!#if (!adguard_ext_android_cb && !adguard_app_ios)
-!#include sections/uBO_AG/suplement_ogolny.txt
-!#endif
-!#if env_legacy
-!#include sections/uBO_AG/suplement_UXP.txt
-!#endif
-!#if !ext_ublock
-!#include sections/uBO_AG/suplement_AdGuard.txt
-!#endif
+!#include PAASS_supp.txt
