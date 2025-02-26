@@ -34,6 +34,7 @@ aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,top
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
+bithub.pl##.code-block > i:only-child:has(> a[href*="news.google.com/publications/"]:only-child)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
