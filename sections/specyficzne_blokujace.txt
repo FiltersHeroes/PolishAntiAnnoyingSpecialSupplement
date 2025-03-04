@@ -45,4 +45,4 @@
 ||wolnemedia.net/obrazki/rss-ikona.png
 ||zabiele.pl/images/stories/ikonki_social/feed-
 ||zdmk.krakow.pl/wp-content/themes/justidea_theme/assets/img/rss.svg
-||instalki.pl/wp-content/uploads/2025/01/gnews_logo
+||instalki.pl/wp-content/uploads/*/gnews_logo
