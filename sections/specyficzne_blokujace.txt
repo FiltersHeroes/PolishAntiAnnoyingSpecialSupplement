@@ -18,6 +18,7 @@
 ||forum-brukarskie.pl/images/footerrssicon.png
 ||i.racjonalista.pl/img/rssc.gif
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
+||instalki.pl/wp-content/uploads/*/gnews_logo
 ||ishopfair.net/fileadmin/_migrated/pics/rss_feed_icon_
 ||ithardware.pl/img/rss.svg
 ||jak-zdobyc-dziewczyne.pl/wp-content/uploads/*/xrss.jpg
@@ -45,4 +46,3 @@
 ||wolnemedia.net/obrazki/rss-ikona.png
 ||zabiele.pl/images/stories/ikonki_social/feed-
 ||zdmk.krakow.pl/wp-content/themes/justidea_theme/assets/img/rss.svg
-||instalki.pl/wp-content/uploads/*/gnews_logo
