@@ -1,6 +1,7 @@
 ! Codename: PASS - Supplement
 ! Dodatkowe filtry dla uBO & AG
 !#if (!adguard_ext_android_cb && !adguard_app_ios)
+||instalki.pl/wp-content/uploads/*/gnews_logo$important
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
