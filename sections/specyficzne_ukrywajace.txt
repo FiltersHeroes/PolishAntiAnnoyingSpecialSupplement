@@ -1,5 +1,3 @@
-lovekrakow.pl##.header-top-nav-social-list a[href*="rss"]
-instalki.pl##span > a[href*="news.google.com/publications/"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -221,6 +219,7 @@ in4.pl##div.sidebar-block:nth-of-type(7)
 infor.pl##.footer__bottomLink[href*="/rss/"]
 insert.com.pl###footer > .footer-box > .column.last
 insert.com.pl##li:first-of-type > .info-channel
+instalki.pl##span > a[href*="news.google.com/publications/"]
 instytutsprawobywatelskich.pl###site-header a[href*="/feed/"]
 intercyza-blog.pl###text-18
 interia.pl,pomponik.pl##.google-news-container
@@ -288,6 +287,7 @@ listwy-dekoracyjne.pl###newsletter_block_social
 lookcam.com,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lotosasfalt.pl##.footer__socialMenu__item[href*="rss"]
+lovekrakow.pl##.header-top-nav-social-list a[href*="rss"]
 lubanski.eu##.rss-box > .posts-icon
 lubsport.pl##.footer-widget-section > .row > div:first-child > div:nth-child(2) > div:first-child > .widget-title
 lubsport.pl,politykabezpieczenstwa.pl##footer a[href*="/feed"]
