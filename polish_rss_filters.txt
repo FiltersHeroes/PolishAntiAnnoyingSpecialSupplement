@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Tue, 18 Mar 2025, 22:40 UTC+01:00
-! Version: 2025.3.2
+! Last modified: Sun, 30 Mar 2025, 00:07 UTC+01:00
+! Version: 2025.3.3
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -13,7 +13,7 @@
 ! Original creator: RikoDev
 ! Current maintainer: Filters Heroes
 ! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement
-! Aktualizacja: wto, 18 mar 2025, 22:40 UTC+01:00
+! Aktualizacja: nie, 30 mar 2025, 00:07 UTC+01:00
 !
 !
 ! Ogólne filtry ukrywające
@@ -24,6 +24,7 @@
 ~google.pl,pl##.google-news-banner
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
+eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="msn.com/"])
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
@@ -79,7 +80,7 @@ amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,majkiit.github.io,olgasmile.com,omediach.info,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
 annopol.info,histmag.org,money.pl##a[href*="/rss"]
-antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,e-tlumacze.net,fxmag.pl,goniec.pl,green-news.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,zpierwszegotloczenia.pl##a[href="/rss"]
+antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,e-tlumacze.net,fxmag.pl,goniec.pl,green-news.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,yelp.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl#?#.post-content > p:last-of-type:-abp-has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
 app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.pl,farmacja.net,farmacja.pl,farmacja.tv,grupafarmacja.net,mgr.farm,receptura.pl,rx.edu.pl##.farmacja-google-news-cta
@@ -554,6 +555,7 @@ trzynasty-schron.net##.dolneIkonki > li:first-of-type
 tulodz.pl##.section-bottom-social__box--rss
 tvn24.pl##.rbox
 tvrodzina.pl###gkRSS
+twojapogoda.pl##.article__content p:has(> strong:only-child > a[href*="news.google.com/publications/"]:only-child)
 twoje-seriale.pl##.Syn > ul
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 tygodnikoko.pl##a[href*="tygodnikoko.pl/rss"]
