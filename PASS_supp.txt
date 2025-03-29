@@ -23,6 +23,7 @@ wsqn.pl##.extralight-border:style(border: none !important)
 www.lenovo.com##.footerForumsIcon:lang(pl) > a::before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important)
+zteshop.pl##.footer .newsletter:has(.social-media:matches-css(display: none)):has(form:matches-css(display: none))
 !#endif
 !#if env_legacy
 boop.pl##+js(ra, class, article ~ div p a.uppercase[class*="hover:"], stay)
