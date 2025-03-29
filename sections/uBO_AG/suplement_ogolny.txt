@@ -1,5 +1,4 @@
 ||instalki.pl/wp-content/uploads/*/gnews_logo$important
-zteshop.pl##.footer .newsletter:has(.social-media:matches-css(display: none)):has(form:matches-css(display: none))
 30minut.pl##.gora_ikony:style(background: #00adef !important; padding: 0 0 3px 0)
 30minut.pl##.gora_ikony_rss:style(visibility: hidden !important)
 antyweb.pl##.post-content > p > a[href^="https://news.google.com/publications/"]:upward(p)
@@ -21,3 +20,4 @@ wsqn.pl##.extralight-border:style(border: none !important)
 www.lenovo.com##.footerForumsIcon:lang(pl) > a::before:style(color: white !important; content: "Z"; font-size: 18pt; font-weight: 700; position: relative; top: -3px; left: 10px)
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important)
+zteshop.pl##.footer .newsletter:has(.social-media:matches-css(display: none)):has(form:matches-css(display: none))

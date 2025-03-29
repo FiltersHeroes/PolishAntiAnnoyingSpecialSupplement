@@ -5,8 +5,8 @@
 ~google.pl,pl##.google-news-banner
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
-info,pl##.stickySocialIcon a[href*=".xml"]
 eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="msn.com/"])
+info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
 pl##.art-bar-googlenews
