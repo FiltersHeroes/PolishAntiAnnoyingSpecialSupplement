@@ -32,12 +32,13 @@ app.pharmasistant.pl,aptekarz.pl,aptekaszpitalna.pl,farmaceuta.pl,farmacja.edu.p
 astronomia24.com##a[href="news_rss.php"]
 aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,topnewsy.pl##.page-link[href*="news.google.com/publications/"]
 ataksja.org.pl###linkcat-34
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl##.ods-c-footer__social:has(> a[href]:is([href*="feed" i], [href*="rss" i], [href=".xml"]))
 augustow24.pl##a[href="rss.xml"]
-auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl##.googleNewsBanner
-auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.follow-us:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,onet.pl,plejada.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl##.googleNewsBanner
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl#?#.follow-us:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl#?#.follow-us:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl#?#.followUs:-abp-has(> a[href*="news.google.com/publications/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl,komputerswiat.pl,przegladsportowy.pl#?#.followUs:-abp-has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
 autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
