@@ -1,5 +1,5 @@
-pl##a[href^="api/posts/get_list.rss"]
-~pl##a[href^="api/posts/get_list.rss"]:lang(pl)
+pl##a[href*="/posts/get_list.rss"]
+~pl##a[href*="/posts/get_list.rss"]:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
 ~google.co.uk,~google.com,~pl##a[href*="news.google.com/publications/"] img:lang(pl)
