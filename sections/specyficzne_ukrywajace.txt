@@ -47,8 +47,8 @@ autor.pl##.rssocial-icons.rssocial-container
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
 bankbps.pl,silesiabank.pl##.rss-link
-bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,plotek.pl,sport.pl,tokfm.pl,transfery.info,ugotuj.to##footer a[href*="/rss/"]
-bankier.pl,bryla.pl,claudia.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,infoladnydom.pl,infozdrowie24.pl,kobieta.pl,moto.pl,plotek.pl,sport.pl,tokfm.pl,transfery.info,wrc.net.pl,wroclaw.pl##.googleNews
+bankier.pl,bryla.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,moto.pl,plotek.pl,sport.pl,tokfm.pl,transfery.info##footer a[href*="/rss/"]
+bankier.pl,bryla.pl,czterykaty.pl,dyskusje24.pl,edziecko.pl,gazeta.pl,haps.pl,moto.pl,plotek.pl,sport.pl,tokfm.pl,transfery.info,wrc.net.pl,wroclaw.pl##.googleNews
 banzaj.pl###foot_monika
 barbelo.com.pl###topmenuright > li:first-of-type
 bazatelefonow.pl###rightpane > div:first-of-type
