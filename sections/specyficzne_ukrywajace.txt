@@ -246,8 +246,8 @@ kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 karointhekitchen.com##footer div.col-md-4.col-lg-4:nth-of-type(2) > div.content-block.row
 kas.gov.pl,kis.gov.pl###linkRSS
 katowice24.info##.rst-list-social > li:nth-of-type(4)
-katowice24.info##.widget_social .ss_social li.rss
 katowice24.info##.section__box:has(> h3 img[alt="Obserwuje nas na Google News"])
+katowice24.info##.widget_social .ss_social li.rss
 kcynia.pl,um.gorzow.pl##.news__rss
 kety.pl###twittery > ul > li:nth-of-type(2)
 kghm.com###footer a[href="/pl/rss"]
