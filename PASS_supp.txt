@@ -14,7 +14,8 @@ lkslodz.pl###modal, .modal-backdrop
 lkslodz.pl##.modal-open[class]:style(overflow: auto !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important)
-plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
+onet.pl##p[class*="BottomAdditionalText_container"] a[href*="/publications"]:remove-attr(href)
+plejada.pl##.ods-c-gallery__item__description a[href*="/publications"]:remove-attr(href)
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important)
 rootblog.pl##+js(remove-node-text, #text, Chcesz być na bieżąco?)
 rootblog.pl##a[href*="news.google.com/publications/"] b
@@ -26,15 +27,22 @@ www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important)
 zteshop.pl##.footer .newsletter:has(.social-media:matches-css(display: none)):has(form:matches-css(display: none))
 !#endif
 !#if env_legacy
+boop.pl##+js(ra, class, article ~ div p a.uppercase[class*="hover:"])
 boop.pl##+js(ra, class, article ~ div p a.uppercase[class*="hover:"], stay)
+boop.pl##+js(ra, href, article ~ div p a[href*="gunuri"])
 boop.pl##+js(ra, href, article ~ div p a[href*="gunuri"], stay)
-plejada.pl##+js(ra, href, detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"], stay)
+onet.pl##+js(ra, href, p[class*="BottomAdditionalText_container"] a[href*="/publications"])
+onet.pl##+js(ra, href, p[class*="BottomAdditionalText_container"] a[href*="/publications"], stay)
+plejada.pl##+js(ra, href, .ods-c-gallery__item__description a[href*="/publications"])
+plejada.pl##+js(ra, href, .ods-c-gallery__item__description a[href*="/publications"], stay)
 !#endif
 !#if !ext_ublock
 boop.pl##+js(ra, class, article ~ div p a.uppercase[class*="hover:"])
 boop.pl##+js(ra, href, article ~ div p a[href*="gunuri"])
 boop.pl#@#article ~ div p a.uppercase[class*="hover:"]:remove-attr(class)
 boop.pl#@#article ~ div p a[href*="gunuri"]:remove-attr(href)
-plejada.pl##+js(ra, href, detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"])
-plejada.pl#@##detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
+onet.pl##+js(ra, href, p[class*="BottomAdditionalText_container"] a[href*="/publications"])
+onet.pl#@#p[class*="BottomAdditionalText_container"] a[href*="/publications"]:remove-attr(href)
+plejada.pl##+js(ra, href, .ods-c-gallery__item__description a[href*="/publications"])
+plejada.pl#@#.ods-c-gallery__item__description a[href*="/publications"]:remove-attr(href)
 !#endif
