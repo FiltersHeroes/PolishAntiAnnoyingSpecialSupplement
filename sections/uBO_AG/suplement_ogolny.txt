@@ -11,7 +11,8 @@ lkslodz.pl###modal, .modal-backdrop
 lkslodz.pl##.modal-open[class]:style(overflow: auto !important; padding-right: 0 !important)
 markoweobuwie.com.pl###social_block:style(visibility: hidden !important)
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]:style(display: none !important)
-plejada.pl###detail.articleBody p:nth-last-child(-n+3) a[href*="news.google.com/"]:remove-attr(href)
+plejada.pl##.ods-c-gallery__item__description a[href*="/publications"]:remove-attr(href)
+onet.pl##p[class*="BottomAdditionalText_container"] a[href*="/publications"]:remove-attr(href)
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"]:style(visibility: hidden !important)
 rootblog.pl##+js(remove-node-text, #text, Chcesz być na bieżąco?)
 rootblog.pl##a[href*="news.google.com/publications/"] b
