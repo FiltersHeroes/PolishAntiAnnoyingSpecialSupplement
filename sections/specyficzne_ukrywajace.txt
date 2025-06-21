@@ -374,7 +374,7 @@ paslek.pl##.footer_more_site_link[href*="/rss/"]
 pcfoster.pl##[href^="/public/rss/"][href*=".xml"]
 pch24.pl##a[href$="/rss,0"]
 pcworld.pl##.googlenewssub
-pepper.pl##footer#footer.footer > div:nth-child(3) > div > section:nth-child(4)
+pepper.pl##footer a[href*="/rss"]
 pepsieliot.com##.pepsi-more > .wrapper > h2
 pepsieliot.com,rybyakwariowe.eu##.rss-button
 phpcodex.com###fotter .lico, #fotter .sico
