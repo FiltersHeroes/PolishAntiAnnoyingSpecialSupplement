@@ -17,7 +17,7 @@ aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djole
 aleksandrow-lodzki.pl,konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
-alilove.pl,lifehacking.pl,tuudi.net,wyborkierowcow.pl##.td-icon-rss
+alilove.pl,tuudi.net,wyborkierowcow.pl##.td-icon-rss
 allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
@@ -281,7 +281,7 @@ laptopshop.pl##a[href*="=RSS"]
 leclerc.rzeszow.pl##.foot_newsletter
 legionowo.pl##.icons-box a[href*="rss"]
 librus.pl##.zse-footer__social-link
-lifehacking.pl,wyborkierowcow.pl##.footer-social-wrap
+wyborkierowcow.pl##.footer-social-wrap
 linuxiarze.pl##article[class*="post"] div:has(> a[href*="/feed"])
 linuxiarze.pl##article[class*="post"] div:has(> a[href*="/feed"]) + hr
 linuxiarze.pl##article[class*="post"] div:has(> a[href*="katalog."])
