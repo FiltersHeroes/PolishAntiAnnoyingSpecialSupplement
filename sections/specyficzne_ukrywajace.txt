@@ -1,3 +1,4 @@
+polsat.pl##a[href*="/feed"]
 przeketonowa.pl##.footer-credit > [href*="/feed/"]
 polskieradio.pl##.submenu-more__link[href="/399/8214"]
 4kdownload.com##.community__item--feed.community__item
