@@ -1,4 +1,3 @@
-||seigi.eu/templates/images/icons/rss_64.png
 /feed.png$domain=booklips.pl|dzeta.com.pl|marcinmazurek.com.pl
 /images/index_r.png$domain=deblin24.eu|lipsko24.pl|pionki24.pl
 /layouts/_sources/panel/img/icons/panel_rss.gif$domain=spzaduszniki.pl|superszkolna.pl
@@ -40,6 +39,7 @@
 ||roland-gazeta.pl/images/aplikacja_mobilna/google_news_$image
 ||rugby.info.pl/wp-content/plugins/*/*/default_rss.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
+||seigi.eu/templates/images/icons/rss_64.png
 ||sps24.pl/media/desktop/rss.swf
 ||suwalki24.pl/site/gfx/social/rss_big.png
 ||tvpolsat.info/themes/tvpolsatinfo/images/rssicon.png
