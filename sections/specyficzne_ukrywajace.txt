@@ -1,5 +1,3 @@
-nowymarketing.pl##.menu-item a[href*="rss"]
-pieknoumyslu.com##.footer-social-item.ast-rss
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -358,10 +356,11 @@ nj24.pl###footer-feed-icon
 noizz.pl##.shareButtons > ul > li:not(:only-child):has(> a[data-section="followUsOnGoogleClick"])
 noizz.pl##.shareButtons:has(> ul > li:only-child > a[data-section="followUsOnGoogleClick"])
 noizz.pl##a[data-section="followUsOnGoogleClick"]
+nowymarketing.pl##.menu-item a[href*="rss"]
 nowyzmigrod.eu##.dd-rss-tag-icon
 o2.pl,~poczta.o2.pl##article #article-end ~ div:has(> div a[href*="google.com/publications"])
 o2.pl,~poczta.o2.pl##div[data-st-area="st-gallery-reactions"] button:has(> svg):has(+ div a[href*="google.com/publications"])
-obcyjezykpolski.pl##.footer-social-item.ast-rss
+obcyjezykpolski.pl,pieknoumyslu.com##.footer-social-item.ast-rss
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href*="ogloszenioteka.pl/feed.php"]
 oiot.pl,tabletowo.pl###top-bar-message
