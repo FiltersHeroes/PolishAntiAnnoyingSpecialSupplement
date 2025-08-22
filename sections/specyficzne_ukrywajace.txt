@@ -1,3 +1,5 @@
+smartyou.pl##.m-article-toolbar .column:has(.rss) .title
+smartyou.pl##.socials-title
 blix.pl##a[href*="/rss"]
 pixelnerd.pl##.bi-rss
 4kdownload.com##.community__item--feed.community__item
