@@ -24,7 +24,7 @@ aluprof.eu##.sidebar
 amu.edu.pl,telewizjazary.pl##a[href$="/rss"]
 anetaduk.com,bialogard.info,epremki.com,majkiit.github.io,olgasmile.com,omediach.info,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info##.fa-rss
 angela.pl##a[href="rss.php"]
-annopol.info,blix.pl,histmag.org,money.pl##a[href*="/rss"]
+annopol.info,blix.pl,histmag.org,money.pl,money.wp.pl,moneyv.wp.pl##a[href*="/rss"]
 antyfake.pl,biznesinfo.pl,cashless.pl,cooltura24.co.uk,domekiogrodek.pl,e-tlumacze.net,fxmag.pl,goniec.pl,green-news.pl,lelum.pl,pacjenci.pl,portalparentingowy.pl,rolnikinfo.pl,smakosze.pl,swiatgwiazd.pl,swiatzwierzat.pl,turysci.pl,wczestochowie.pl,yelp.pl,zpierwszegotloczenia.pl##a[href="/rss"]
 antyweb.pl##.post-content > p:last-of-type:has(a[href*="news.google.com/publications/"])
 anyforum.pl,skyup.pl##.rs.sicon
