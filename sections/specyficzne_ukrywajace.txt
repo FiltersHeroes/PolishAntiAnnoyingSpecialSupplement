@@ -17,7 +17,6 @@ aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djole
 aleksandrow-lodzki.pl,konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
-alilove.pl,tuudi.net,wyborkierowcow.pl##.td-icon-rss
 allegro.pl##div[data-box-name="google news"]
 altair.com.pl##.icoRSS
 aluprof.eu##.sidebar
