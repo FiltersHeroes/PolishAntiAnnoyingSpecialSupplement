@@ -1,3 +1,4 @@
+##.elementor-social-icon[href*="/feed"]
 ##.td-icon-rss
 ~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
 ~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
