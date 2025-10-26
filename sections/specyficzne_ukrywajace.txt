@@ -523,6 +523,7 @@ unimot.pl##.menu_top__social-media > li:nth-of-type(6)
 upflix.pl##.so-rss
 upflix.pl##.social-icons > a.ico-o:nth-of-type(4)
 uprp.gov.pl###header-rss-link
+uprp.gov.pl##li.scale-text.nav-item:has(#header-rss-link)
 ure.gov.pl##.opcje a.icon-flash[href*="/rss"]
 utrzymanieruchu.pl###footernav > a[href="menu-gorne/kanaly-rss/"]
 valtra.pl##li.vfooter__social-item:last-child
