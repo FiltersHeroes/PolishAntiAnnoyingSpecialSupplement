@@ -370,7 +370,6 @@ oko.press##:is(.flex, li) > a[href*="news.google.com/publications/"]
 omediach.info###custom_html-5 > .panel-header
 onetech.pl#?#.elementor-column:first-child + .elementor-column:last-child div[data-element_type="widget"][data-widget_type*="heading"] div:has-text(Dołącz do nas)
 orlen.pl##.newsletterAndRss
-oszczedzarka.co.uk##.row > .engine-block.small-12.large-3 > center:has(img[src="/img/soc_3.png"])
 otososnowiec.pl,swietochlowiceonline.pl##a[href$="/feed/rss/"]
 ox.pl##.navIcons__displayIcons--close
 paczkow.pl##.rss-linkl
