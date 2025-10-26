@@ -476,7 +476,6 @@ smakosze.pl#?#button:has(span:has-text(Obserwuj nas w))
 smartyou.pl##.m-article-toolbar .column:has(.rss) .title
 smartyou.pl##.social > .title
 smartyou.pl##.socials-title
-sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
 socialpress.pl##.follow_us.container-fluid
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
 sp4.pisz.pl##.er-rss-tag-icon
