@@ -114,7 +114,7 @@ demagog.org.pl##.dg-social_icons a[href*="/feed"]
 developers.google.com##.devsite-footer-promos-list > li:has([href*="/feed"])
 dhl.com##.c-footer-social-container
 di.com.pl##li:has(a[href$="/rss.html"])
-di.pk.edu.pl##.RssFeedIcon
+cc.pk.edu.pl##.RssFeedIcon
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href*="feedburner."]
 diver.net.pl##.xpd-ele-1
