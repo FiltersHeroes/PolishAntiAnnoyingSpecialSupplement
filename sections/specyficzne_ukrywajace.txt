@@ -40,7 +40,7 @@ auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.googleNew
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##[class*="footer__social"]:is(.ods-c-footer__social, .ods-o-footer__social):has(> a[href]:is([href*="feed" i], [href*="rss" i], [href=".xml"]))
 autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
-autokult.pl,fitness.wp.pl,fotoblogia.pl,gadzetomania.pl,jejswiat.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl,smaczneblogi.pl##.link-rss
+autokult.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl##.link-rss
 autokult.pl,fotoblogia.pl##.main-article.article > .insert:has(.html a[href*="bit.ly/"] img)
 autor.pl##.rssocial-icons.rssocial-container
 axa.pl##.has-socials
