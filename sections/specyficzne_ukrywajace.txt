@@ -61,7 +61,7 @@ bezdroza.pl,dlabystrzakow.pl,ebookpoint.pl,onepress.pl,sensus.pl##a[href*="rss."
 bezpieczny.blog###custom_html-3 > div > .widget-title, #custom_html-3 > div > a[href$="/feed/"]
 bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info,maciejewski.com##.fa-rss-square
-bialoleka.waw.pl,zlotoryjska.pl##.rss_ul
+zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
 bip.prochowice.com##a.bip_links__link[href*="rss"]
 biskupice.pl###top-menu-list-04
