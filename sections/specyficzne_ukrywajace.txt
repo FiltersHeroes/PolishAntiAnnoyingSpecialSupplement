@@ -40,8 +40,8 @@ auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.googleNew
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##[class*="footer__social"]:is(.ods-c-footer__social, .ods-o-footer__social):has(> a[href]:is([href*="feed" i], [href*="rss" i], [href=".xml"]))
 autocentrum.pl##a[href="/rss/"]
 autoidea.pl###media
-autokult.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl##.link-rss
 autokult.pl,fotoblogia.pl##.main-article.article > .insert:has(.html a[href*="bit.ly/"] img)
+autokult.pl,fotoblogia.pl,gadzetomania.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,nowymarketing.pl##.link-rss
 autor.pl##.rssocial-icons.rssocial-container
 axa.pl##.has-socials
 aztecas.eu##.stopka > div[class*="stopka2"] > a[href$="/feed/"]
@@ -61,7 +61,6 @@ bezdroza.pl,dlabystrzakow.pl,ebookpoint.pl,onepress.pl,sensus.pl##a[href*="rss."
 bezpieczny.blog###custom_html-3 > div > .widget-title, #custom_html-3 > div > a[href$="/feed/"]
 bialogard.info###footshare > .wrapper > a.newwindow:nth-of-type(4)
 bialogard.info,maciejewski.com##.fa-rss-square
-zlotoryjska.pl##.rss_ul
 bieszczady.pl###header_menu > a[href$="/rss.xml"]
 bip.prochowice.com##a.bip_links__link[href*="rss"]
 biskupice.pl###top-menu-list-04
@@ -84,6 +83,7 @@ businessinsider.com.pl##a[href*="feed"] > .footer_social-links_icons
 butyjana.pl###bjNewsletter
 bydgoszcz.com##a[href*="bydgoszcz.com/rss"]
 cad-akademia.pl,mergado.pl,niebezpiecznik.pl,nowiny.pl,p-programowanie.pl##.feed
+cc.pk.edu.pl##.RssFeedIcon
 ceneo.pl##section.footer__main__section:nth-of-type(5)
 cert.pl,strajk.eu##.rss-icon
 cgm.pl##.menu-item > a[href*="/feed/rss/"]
@@ -114,7 +114,6 @@ demagog.org.pl##.dg-social_icons a[href*="/feed"]
 developers.google.com##.devsite-footer-promos-list > li:has([href*="/feed"])
 dhl.com##.c-footer-social-container
 di.com.pl##li:has(a[href$="/rss.html"])
-cc.pk.edu.pl##.RssFeedIcon
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href*="feedburner."]
 diver.net.pl##.xpd-ele-1
@@ -578,6 +577,7 @@ yves-rocher.pl##.l-footer__services div.service__column:nth-of-type(2)
 zadania.info###atomR > a[href^="/feed"]
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
+zlotoryjska.pl##.rss_ul
 zlotyaniol.pl###ic3
 znajdzto.pl##.subRss
 zs-cogito.pl##a[href*="/?feed=rss"]
