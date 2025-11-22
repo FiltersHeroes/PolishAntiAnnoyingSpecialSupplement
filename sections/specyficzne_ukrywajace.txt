@@ -1,4 +1,3 @@
-alertmedyczny.pl##.vc_column[class*="9"] > .wpb_wrapper > .tdm_block:has(+ .tdb-author-box):has(> div[class*="tdm"] a[href*="news.google.com/publications/"])
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -16,6 +15,7 @@ agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabut
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,niedziela.pl,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,tarnowska.tv,tczewska.pl,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info##.icon-rss
 aleksandrow-lodzki.pl,konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
+alertmedyczny.pl##.vc_column[class*="9"] > .wpb_wrapper > .tdm_block:has(+ .tdb-author-box):has(> div[class*="tdm"] a[href*="news.google.com/publications/"])
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
 allegro.pl##div[data-box-name="google news"]
@@ -34,12 +34,12 @@ aszdziennik.pl,dadhero.pl,innpoland.pl,klubzwierzaki.pl,mamadu.pl,natemat.pl,top
 ataksja.org.pl###linkcat-34
 augustow24.pl##a[href="rss.xml"]
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.follow-us:has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.follow-us:has(> div > a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> a[href*="news.google.com/publications/"]:only-of-type)
-auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.follow-us:has(> a[href*="profile.google.com/cp/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.follow-us:has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.follow-us:has(> div > a[href*="profile.google.com/cp/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> a[href*="profile.google.com/cp/"]:only-of-type)
+auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> div > a[href*="news.google.com/publications/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.followUs:has(> div > a[href*="profile.google.com/cp/"]:only-of-type)
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##.googleNewsBanner
 auto-swiat.pl,fakt.pl,komputerswiat.pl,medonet.pl,onet.pl,plejada.pl##[class*="footer__social"]:is(.ods-c-footer__social, .ods-o-footer__social):has(> a[href]:is([href*="feed" i], [href*="rss" i], [href=".xml"]))
