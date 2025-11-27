@@ -1,3 +1,4 @@
+bezpieczenstwoxd.pl##a[href*="/feed"]
 dobrzemieszkaj.pl##.google-box
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.tv,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,strzelec.info,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
@@ -15,7 +16,7 @@ adex.pisz.pl,alejasztuki.com,forum-brukarskie.pl,gazetawiecborska.eu,ozonowanie-
 agnieszkawielobob.pl,glitch.com.pl,jsdn.pl,kuchniatruckera.pl,mvno-gsm.pl,prabuty.pl,webinsider.pl,zary24.pl##.widget_rss_links
 agora.pl,chceauto.pl,cmrev.com,copernicuscenter.edu.pl,copernicusfestival.com,eurogamer.pl,filozofiawnauce.pl,lookcam.com,lublin24.pl,mmorpg.org.pl,naukaireligia.pl##a[href^="/rss"]
 aiocollective.pl,boleslawiec.tv,bydgoszcz.com,cooltura24.co.uk,debica24.eu,djoles.com,dziennik.com,echotygodnik.info,gorlice.tv,halogorlice.info,koscierzyna24.info,kwidzyn1.pl,lokalna.news,lubelska.tv,namyslow.eu,narew.info,niedziela.pl,olesnica24.com,pkobp.pl,portalpomorza.pl,poznan.pl,projektpraca.eu,sejny.info,srem.pl,strzelec.info,tarnowska.tv,tczewska.pl,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info##.icon-rss
-aleksandrow-lodzki.pl,konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed/"]
+aleksandrow-lodzki.pl,konkretny.pl,kosmogadka.pl,oswiecim.pl##a[href*="/feed"]
 alertmedyczny.pl##.vc_column[class*="9"] > .wpb_wrapper > .tdm_block:has(+ .tdb-author-box):has(> div[class*="tdm"] a[href*="news.google.com/publications/"])
 alicjawkrainiegarow.blogspot.com###Subscribe1
 aliholik.pl###text-12
@@ -411,7 +412,7 @@ propertydesign.pl##a[href*="/rss_info.html"]
 propertynews.pl##.box-rssalert
 propertynews.pl##.social-box-title, .social-box-list-link[href*="rss"]
 przeglad-finansowy.pl###HTML3 > .widget-content > center
-przeketonowa.pl##.footer-credit > [href*="/feed/"]
+przeketonowa.pl##.footer-credit > a[href*="/feed/"]
 przepisownia.pl###tmrcSocialTabs a[href*="/rss"]
 przysucha.pl,szadek.net##a[href="_private/rss.xml"]
 psp5zagan.pl##.linksColorInherit > a[href="/rss/news"]
@@ -474,7 +475,7 @@ smartyou.pl##.socials-title
 socialpress.pl##.follow_us.container-fluid
 socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
 sp4.pisz.pl##.er-rss-tag-icon
-sp23bytom.edupage.org##.linksColorInherit > [href="/rss/news"]
+sp23bytom.edupage.org##.linksColorInherit > a[href="/rss/news"]
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
 spidersweb.pl##footer > div > div > div[class^="Footer_footer__menu"]:last-child
