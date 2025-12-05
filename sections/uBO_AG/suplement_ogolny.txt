@@ -22,3 +22,5 @@ www.lenovo.com##.footerForumsIcon:lang(pl) > a::before:style(color: white !impor
 www.lenovo.com##.footerForumsIcon:lang(pl):hover:style(background: #e1140a !important)
 www.lenovo.com##.footerForumsIcon:lang(pl):style(background: #7f7f7f !important)
 zteshop.pl##.footer .newsletter:has(.social-media:matches-css(display: none)):has(form:matches-css(display: none))
+www.wisniowski.pl###footer > div > div:first-child > div:first-child:has(> :nth-child(-n+3):matches-css(display: none)):has(> div svg:matches-css(display: none))
+www.wisniowski.pl###footer > div > div:first-child > div:first-child:has(> :nth-child(-n+3):matches-css(display: none)):has(> div svg:matches-css(display: none)) + div:style(border-left: none !important)
