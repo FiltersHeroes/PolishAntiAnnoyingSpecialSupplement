@@ -4,8 +4,8 @@
 ! Codename: PASS
 ! Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 ! Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-! Last modified: Sat, 14 Feb 2026, 21:00 UTC+01:00
-! Version: 2026.2.1
+! Last modified: Sat, 14 Feb 2026, 21:01 UTC+01:00
+! Version: 2026.2.2
 ! Expires: 7 days
 ! Support:
 !   Github => https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement/issues
@@ -13,7 +13,7 @@
 ! Original creator: RikoDev
 ! Current maintainer: Filters Heroes
 ! Homepage: https://github.com/FiltersHeroes/PolishAntiAnnoyingSpecialSupplement
-! Aktualizacja: sob, 14 lut 2026, 21:00 UTC+01:00
+! Aktualizacja: sob, 14 lut 2026, 21:01 UTC+01:00
 !
 !
 ! Ogólne filtry ukrywające
@@ -237,7 +237,6 @@ forumsamochodowe.pl##.rsslink
 franchising.pl##.social-icons-googlenews
 francuskie.pl##.custom-html-widget.textwidget > b ~ div:has(> a[href*="news.google.com/"])
 francuskie.pl##.custom-html-widget.textwidget > b:has(~ div a[href*="news.google.com/"])
-freestyle.pl,mojewypiekiinietylko.com,smsuchabeskidzka.pl,starychemik.wordpress.com###rss-link
 fundacjawolnosci.org###menu-item-2756
 gagadget.com##.b-social__rss
 gazeo.pl##.rss-blue
@@ -387,6 +386,7 @@ mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojaniepodlegla.pl##footer .icon-info.dist
+mojewypiekiinietylko.com,smsuchabeskidzka.pl,starychemik.wordpress.com###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 motorola.com##.checkout-footer-social
 mototube.pl##a[href*="mototube.pl/rss/najnowsze/"]
