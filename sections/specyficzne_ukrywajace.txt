@@ -176,7 +176,6 @@ forumsamochodowe.pl##.rsslink
 franchising.pl##.social-icons-googlenews
 francuskie.pl##.custom-html-widget.textwidget > b ~ div:has(> a[href*="news.google.com/"])
 francuskie.pl##.custom-html-widget.textwidget > b:has(~ div a[href*="news.google.com/"])
-freestyle.pl,mojewypiekiinietylko.com,smsuchabeskidzka.pl,starychemik.wordpress.com###rss-link
 fundacjawolnosci.org###menu-item-2756
 gagadget.com##.b-social__rss
 gazeo.pl##.rss-blue
@@ -326,6 +325,7 @@ mkm.szczecin.pl###dropdownRSSNews
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojaniepodlegla.pl##footer .icon-info.dist
+mojewypiekiinietylko.com,smsuchabeskidzka.pl,starychemik.wordpress.com###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 motorola.com##.checkout-footer-social
 mototube.pl##a[href*="mototube.pl/rss/najnowsze/"]
