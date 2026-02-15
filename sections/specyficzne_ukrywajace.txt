@@ -323,6 +323,7 @@ miejscepiastowe.pl##a[href="_private/rssw.xml"]
 misyjne.pl##.text-right > a.signbtn:first-of-type
 miziaforum.wordpress.com###leftside > ul > li:first-of-type
 mkm.szczecin.pl###dropdownRSSNews
+mloteczka.pl,n1ghtwish.no-ip.pl##.footer_links_external.footer_links > a[href*="rss"]
 mmorpg.org.pl##.content__right > div.box__right:nth-of-type(6)
 mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojaniepodlegla.pl##footer .icon-info.dist
@@ -334,7 +335,6 @@ mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mullvad.net##a[href$="/blog/feed/atom"]
 mvno-gsm.pl###nav_menu-12
 mynaszlaku.pl##.socicon-rss
-n1ghtwish.no-ip.pl,mloteczka.pl##.footer_links_external.footer_links > a[href*="rss"]
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
