@@ -334,7 +334,7 @@ mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mullvad.net##a[href$="/blog/feed/atom"]
 mvno-gsm.pl###nav_menu-12
 mynaszlaku.pl##.socicon-rss
-n1ghtwish.no-ip.pl##.footer_links_external.footer_links > a[href*="rss"]
+n1ghtwish.no-ip.pl,mloteczka.pl##.footer_links_external.footer_links > a[href*="rss"]
 nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
