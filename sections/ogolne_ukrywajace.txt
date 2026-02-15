@@ -2,11 +2,11 @@
 ##.td-icon-rss
 ##a[href*="podcasts.google.com/"]
 ##li:has(> a[href*="podcasts.google.com/"])
-~google.co.uk,~google.com,~google.de,~pl##.google-news-banner:lang(pl)
-~google.co.uk,~google.com,~google.de,~pl##.google-news:lang(pl)
-~google.co.uk,~google.com,~pl##a[href*="news.google.com/publications/"] img:lang(pl)
-~google.pl,pl##.google-news
-~google.pl,pl##.google-news-banner
+~pl##.google-news-banner:lang(pl)
+~pl##.google-news:lang(pl)
+~pl##a[href*="news.google.com/publications/"] img:lang(pl)
+pl##.google-news
+pl##.google-news-banner
 ~pl##a[href*="/posts/get_list.rss"]:lang(pl)
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
