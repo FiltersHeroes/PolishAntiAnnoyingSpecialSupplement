@@ -90,7 +90,7 @@ cert.pl,strajk.eu##.rss-icon
 cgm.pl##.menu-item > a[href*="/feed/rss/"]
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chemiabudowlana.info##.widget_chemia_right
-chip.pl,leftlane.pl##.tipi-i-rss
+chip.pl##div[class^="fc-SocialsList"] > a[href*="/feed"]
 chwp.pl##a[href*="chwp.pl/feed/"]
 ciemnastrona.com.pl##a[href="/feed.xml"]
 citybuzz.pl,kapitanhack.pl,prnews.pl##a[href="/feed"]
