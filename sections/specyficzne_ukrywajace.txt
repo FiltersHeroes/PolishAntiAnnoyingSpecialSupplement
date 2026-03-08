@@ -539,6 +539,7 @@ wadowice24.pl##a[href*="wadowice24.pl/index.php/nowe.feed"]
 wagrowiec.eu###header-top-1 > a.icon:nth-of-type(2)
 wakacje.pl###rightTabs
 warka24.pl##.top-rss
+freeforums.net,boards.net,proboards.com##.info a[href*="/rss"]
 waw4free.pl###spolecznosci
 webinsider.pl,zuch.media##.fa-feed
 weeb.tv##.feed.icon
