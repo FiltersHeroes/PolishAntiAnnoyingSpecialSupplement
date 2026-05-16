@@ -8,9 +8,9 @@
 ~pl##a[href*="news.google.com/publications/"] img:lang(pl)
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
-info,eu,pl,com##.prefer-google-source
+com,eu,info,pl##.prefer-google-source
+eu,info,pl##.google-news__button
 eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="msn.com/"])
-info,eu,pl##.google-news__button
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
