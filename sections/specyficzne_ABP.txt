@@ -1,2 +1,2 @@
-lkslodz.pl###modal, .modal-backdrop { display: none }
 biznesinfo.pl,domekiogrodek.pl,goniec.pl,pacjenci.pl,rolnikinfo.pl,swiatgwiazd.pl,swiatsportu.pl,swiatzwierzat.pl,techgame.pl,turysci.pl,wawainfo.pl,wtv.pl,zdrogi.pl##.chakra-portal { display: none }
+lkslodz.pl###modal, .modal-backdrop { display: none }
