@@ -227,6 +227,7 @@ helion.pl###social a[href*="rss"]
 hfc.com.pl##.rss-sprite
 histmag.org###article div[style*="auto"] > div[style*="bold"]:has(+ #calculatedSocials)
 horecanet.pl,petrolnet.pl##hr + div:has(a[href*="news.google.com/publications/"] img)
+hub.pl,interia.pl,pomponik.pl,terazgotuje.pl,top.pl##.ids-preferred-source-button.preferred-source
 hub.pl,interia.pl,pomponik.pl,terazgotuje.pl,top.pl##.google-news-container
 hub.pl,interia.pl,pomponik.pl,terazgotuje.pl,top.pl##.google-news-social-btn
 hub.pl,interia.pl,~poczta.interia.pl,pomponik.pl,terazgotuje.pl,top.pl#?##react_component_article div[width="9"] div p:has(b:has-text(Bądź na bieżąco) ~ a[href*="news.google.com/publications/"])
