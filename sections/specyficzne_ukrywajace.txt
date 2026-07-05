@@ -320,7 +320,7 @@ madameedith.com##.top-social a[href*="feedburner."]
 magazynauto.pl##.social--list a[href*="/rss"]
 magazynkuchenny.com###social > li > a[href*="feed"]
 majsterkowo.pl###sitebox-social-4 > .widget-title
-manjaro.pl,pobitegary.com,silesion.pl###text-3
+manjaro.pl,silesion.pl###text-3
 marketerplus.pl##.title.social-media__header, li.social-media__item:nth-of-type(5)
 marketerplus.pl##a[href*="marketerplus.pl/feed/"]
 marketingprzykawie.pl##li > a[href="/feed/"]
