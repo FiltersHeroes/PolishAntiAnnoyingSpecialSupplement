@@ -1,3 +1,4 @@
+##.s-nie-przegap-google
 ##.elementor-social-icon[href*="/feed"]
 ##.td-icon-rss
 ##a[href*="podcasts.google.com/"]
