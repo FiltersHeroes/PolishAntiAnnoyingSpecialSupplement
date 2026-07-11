@@ -1,5 +1,5 @@
-##.s-nie-przegap-google
 ##.elementor-social-icon[href*="/feed"]
+##.s-nie-przegap-google
 ##.td-icon-rss
 ##a[href*="podcasts.google.com/"]
 ##li:has(> a[href*="podcasts.google.com/"])
