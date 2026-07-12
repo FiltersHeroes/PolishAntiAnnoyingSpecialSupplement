@@ -592,7 +592,6 @@ wsqn.pl##ul.social_bookmarks
 wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
-www.logitech.com##.footer-bar-socials > .social-links + svg
 wyborkierowcow.pl##.footer-social-wrap
 wykop.pl##a[href*="wykop.pl/rss"]
 wylecz.to##.google-news_block
