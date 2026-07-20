@@ -6,12 +6,13 @@
 ~pl##.google-news-banner:lang(pl)
 ~pl##.google-news:lang(pl)
 ~pl##a[href*="/posts/get_list.rss"]:lang(pl)
-~pl##a[href*="news.google.com/publications/"] img:lang(pl)
+~pl##a[href*="google.com/publications/"] img:lang(pl)
 ~pl##footer a[href$="/rss.xml"]:lang(pl)
 ~pl##li > a > .icon-rss:lang(pl)
 com,eu,info,pl##.prefer-google-source
 eu,info,pl##.google-news__button
-eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="msn.com/"])
+eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="google.com/preferences/source"], [href*="google.com/preferences/source"], [href*="profile.google.com/cp/"], [href*="msn.com/"])
+eu,pl##div[data-ea="google_discover"]
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
 pl###s_rss[href*="/feed"]
@@ -29,7 +30,7 @@ pl##.s_rss[href*="/feed"]
 pl##.slide-rss-out-div
 pl##.top-bar .social a[href="/rss"]
 pl##a[href*="/posts/get_list.rss"]
-pl##a[href*="news.google.com/publications/"] img
+pl##a[href*="google.com/publications/"] img
 pl##footer .social a[href="/rss"]
 pl##footer a[href$="/rss.xml"]
 pl##li > a > .icon-rss
