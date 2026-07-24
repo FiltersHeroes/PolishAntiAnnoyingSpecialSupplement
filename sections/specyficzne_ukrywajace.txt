@@ -189,6 +189,7 @@ forum.linuxmint.pl###button_rss
 forum.linuxmint.pl##a[href*="?action=syndication"]
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href*="forum.paramythology.pl/misc.php"]
 forumrowerowe.org###elRSS
+forum.studia.net###elRSS
 forumsamochodowe.pl##.rsslink
 franchising.pl##.social-icons-googlenews
 francuskie.pl##.custom-html-widget.textwidget > b ~ div:has(> a[href*="news.google.com/"])
