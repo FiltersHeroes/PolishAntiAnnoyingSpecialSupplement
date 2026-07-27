@@ -531,7 +531,6 @@ thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondCol
 tko.pl#?#.tdm-popup-modal-wrap:has-text(Google News)
 toiowo.eu###gk-rss
 topspozywcze.pl##a[class*="button"][href*="google.com/publications/"]
-trojmiejska.com##footer #easycontent_6 > .title_block
 trzynasty-schron.net##.dolneIkonki > li:first-of-type
 tulodz.pl##.section-bottom-social__box--rss
 tvn24.pl##.rbox
