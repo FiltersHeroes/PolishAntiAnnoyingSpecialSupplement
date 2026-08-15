@@ -536,6 +536,7 @@ topspozywcze.pl##a[class*="button"][href*="google.com/publications/"]
 trzynasty-schron.net##.dolneIkonki > li:first-of-type
 tulodz.pl##.section-bottom-social__box--rss
 tvn24.pl##.rbox
+tvn24.pl,tvn.pl##yen-preferred-source-button
 tvrodzina.pl###gkRSS
 twojapogoda.pl##.article__content p:has(> strong:only-child > a[href*="google.com/publications/"]:only-child)
 twoje-seriale.pl##.Syn > ul
