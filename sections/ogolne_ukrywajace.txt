@@ -11,8 +11,8 @@
 ~pl##li > a > .icon-rss:lang(pl)
 com,eu,info,pl##.prefer-google-source
 eu,info,pl##.google-news__button
-eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="google.com/preferences/source"], [href*="profile.google.com/cp/"], [href*="msn.com/"])
 eu,pl##.atomsNavigationFooterSocialmedia__link:is([href*="feed"], [href*=".xml"])
+eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="google.com/preferences/source"], [href*="profile.google.com/cp/"], [href*="msn.com/"])
 eu,pl##div[data-ea="google_discover"]
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
