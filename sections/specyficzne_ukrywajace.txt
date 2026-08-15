@@ -1,3 +1,5 @@
+takietam.pl##.preferred-source
+takietam.pl##a[href*="/feed"]
 0db.pl##.ttip[data-tooltip*="RSS"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,deccoria.pl,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.pl,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,support.eset.com,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
@@ -101,7 +103,7 @@ cert.pl,strajk.eu##.rss-icon
 cgm.pl##.menu-item > a[href*="/feed/rss/"]
 ch24.pl,zachod.pl##.social > li:nth-of-type(4)
 chemiabudowlana.info##.widget_chemia_right
-chip.pl##div[class^="fc-SocialsList"] > a[href*="/feed"]
+chip.pl##a[href*="/feed"]
 chwp.pl##a[href*="chwp.pl/feed/"]
 ciemnastrona.com.pl##a[href="/feed.xml"]
 citybuzz.pl,kapitanhack.pl,prnews.pl##a[href="/feed"]
@@ -122,10 +124,10 @@ czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
 dbamozeby.com,keko.pl###menu_blog_rss
 deccoria.pl###google-news-button
-deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl##.google-news-container
-deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl##.google-news-social-btn
+deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl,takietam.pl##.google-news-container
+deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl,takietam.pl##.google-news-social-btn
 deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl##.preferred-source
-deccoria.pl,hub.pl,interia.pl,~poczta.interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl#?##react_component_article div[width="9"] div p:has(b:has-text(Bądź na bieżąco) ~ a[href*="google.com/publications/"])
+deccoria.pl,hub.pl,interia.pl,~poczta.interia.pl,polsat.pl,pomponik.pl,smaker.pl,terazgotuje.pl,top.pl,takietam.pl#?##react_component_article div[width="9"] div p:has(b:has-text(Bądź na bieżąco) ~ a[href*="google.com/publications/"])
 demagog.org.pl##.dg-social_icons a[href*="/feed"]
 depesza.fm,zaradnakobieta.pl##div[class^="style_container_"]:has(> div[class^="style_content_"] > div[class^="style_imageContainer_"] [alt="Google news icon" i])
 developers.google.com##.devsite-footer-promos-list > li:has([href*="/feed"])
