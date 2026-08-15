@@ -534,9 +534,8 @@ tko.pl#?#.tdm-popup-modal-wrap:has-text(Google News)
 toiowo.eu###gk-rss
 topspozywcze.pl##a[class*="button"][href*="google.com/publications/"]
 trzynasty-schron.net##.dolneIkonki > li:first-of-type
+ttv.pl,tvn.pl,tvn24.pl,tvn7.pl,tvnstyle.pl##yen-preferred-source-button
 tulodz.pl##.section-bottom-social__box--rss
-tvn7.pl,tvnstyle.pl,ttv.pl##yen-preferred-source-button
-tvn24.pl,tvn.pl##yen-preferred-source-button
 tvrodzina.pl###gkRSS
 twojapogoda.pl##.article__content p:has(> strong:only-child > a[href*="google.com/publications/"]:only-child)
 twoje-seriale.pl##.Syn > ul

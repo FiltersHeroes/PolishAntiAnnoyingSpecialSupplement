@@ -2,6 +2,7 @@
 ##.s-nie-przegap-google
 ##.td-icon-rss
 ##a[href*="podcasts.google.com/"]
+##body a[href^="https://www.google.com/preferences/source?q="]
 ##li:has(> a[href*="podcasts.google.com/"])
 ~pl##.google-news-banner:lang(pl)
 ~pl##.google-news:lang(pl)
@@ -12,7 +13,6 @@
 com,eu,info,pl##.prefer-google-source
 eu,info,pl##.google-news__button
 eu,pl##.atomsNavigationFooterSocialmedia__link:is([href*="feed"], [href*=".xml"])
-##body a[href^="https://www.google.com/preferences/source?q="]
 eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google.com/publications/"], [href*="google.com/preferences/source"], [href*="profile.google.com/cp/"], [href*="msn.com/"])
 eu,pl##div[data-ea="google_discover"]
 info,pl##.stickySocialIcon a[href*=".xml"]
