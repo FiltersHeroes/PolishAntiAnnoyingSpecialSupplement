@@ -119,7 +119,6 @@ czeladz.pl##.i-rss
 czestochowa.pl###left_bookmarks > a[href="../data/rss/index.rss"]
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 dami24.pl,drohiczyn.info,hydro.com.pl,polsatsport.pl,twojapogoda.pl##.ico-rss
-dbamozeby.com,keko.pl###menu_blog_rss
 deccoria.pl###google-news-button
 deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,takietam.pl,terazgotuje.pl,top.pl##.google-news-container
 deccoria.pl,hub.pl,interia.pl,polsat.pl,pomponik.pl,smaker.pl,takietam.pl,terazgotuje.pl,top.pl##.google-news-social-btn
