@@ -1,3 +1,5 @@
+~pl###preferred-source-banner:lang(pl), .preferred-source-banner:lang(pl)
+pl###preferred-source-banner, .preferred-source-banner
 ###menu_blog_rss
 ##.elementor-social-icon[href*="/feed"]
 ##.s-nie-przegap-google
