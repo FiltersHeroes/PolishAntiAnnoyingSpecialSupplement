@@ -1,5 +1,3 @@
-~pl###preferred-source-banner:lang(pl), .preferred-source-banner:lang(pl)
-pl###preferred-source-banner, .preferred-source-banner
 ###menu_blog_rss
 ##.elementor-social-icon[href*="/feed"]
 ##.s-nie-przegap-google
@@ -7,6 +5,7 @@ pl###preferred-source-banner, .preferred-source-banner
 ##a[href*="podcasts.google.com/"]
 ##body a[href^="https://www.google.com/preferences/source?q="]
 ##li:has(> a[href*="podcasts.google.com/"])
+~pl###preferred-source-banner:lang(pl), .preferred-source-banner:lang(pl)
 ~pl##.google-news-banner:lang(pl)
 ~pl##.google-news:lang(pl)
 ~pl##a[href*="/posts/get_list.rss"]:lang(pl)
@@ -20,6 +19,7 @@ eu,pl##.componentsNavigationFooterNewExpanded__socialMediaLink:is([href*="google
 eu,pl##div[data-ea="google_discover"]
 info,pl##.stickySocialIcon a[href*=".xml"]
 pl###naglowek-link-rss
+pl###preferred-source-banner, .preferred-source-banner
 pl###s_rss[href*="/feed"]
 pl##.art-bar-googlenews
 pl##.div_menu_prawe_wysuwane a[href*="/rss"]
