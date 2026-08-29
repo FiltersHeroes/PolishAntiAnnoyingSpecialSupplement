@@ -1,3 +1,4 @@
+portalspozywczy.pl##.right > div[class*="box"]:has(.fb-like):has([href*="xml"]):has(#newsletterMail)
 0db.pl##.ttip[data-tooltip*="RSS"]
 wyborcza.pl##.google_preferred_source_button__wrapper
 4kdownload.com##.community__item--feed.community__item
@@ -424,8 +425,6 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:first-of-type
-portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .navi > a:not(:nth-child(n+5))
-portalspozywczy.pl##.right > div[class*="box"] ~ div[class*="box"] ~ div[class*="box"] .tabs-1 > .panes > .one:not(:nth-child(n+5))
 powiat-legionowski.pl##.h-ic-7
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"] { visibility: hidden !important }
 ppe.pl,wirtualnemedia.pl##a[href*="/rss.html"]
