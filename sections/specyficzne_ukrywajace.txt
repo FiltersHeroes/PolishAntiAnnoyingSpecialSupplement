@@ -1,6 +1,4 @@
-portalspozywczy.pl##.right > div[class*="box"]:has(.fb-like):has([href*="xml"]):has(#newsletterMail)
 0db.pl##.ttip[data-tooltip*="RSS"]
-wyborcza.pl##.google_preferred_source_button__wrapper
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,debica24.eu,deccoria.pl,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.pl,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,support.eset.com,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
 10minut.tv##.td-header-sp-top-widget a[href*="feedburner."]
@@ -425,6 +423,7 @@ porozmawiajmyoit.pl##.buzz_rss
 portalautomatyki.pl,portalrolniczy.info##.ninjarss-_rss_css a[href^="/component/ninjarsssyndicator/"]
 portalmedialny.pl##.rss_subscription
 portalmmo.pl##.soc-icons > li:first-of-type
+portalspozywczy.pl##.right > div[class*="box"]:has(.fb-like):has([href*="xml"]):has(#newsletterMail)
 powiat-legionowski.pl##.h-ic-7
 powiatkwidzynski.pl##a[href*="/index.php?format=feed&type=rss"], img[src="/portal/images/wyglad/RSS-Icon.png"] { visibility: hidden !important }
 ppe.pl,wirtualnemedia.pl##a[href*="/rss.html"]
@@ -595,6 +594,7 @@ wsqn.pl##ul.social_bookmarks
 wtp.waw.pl##.home-changes-rss
 wtp.waw.pl##.home-changes-track
 wtp.waw.pl##.home-social-media > li > a[href$="/feed/"]
+wyborcza.pl##.google_preferred_source_button__wrapper
 wyborkierowcow.pl##.footer-social-wrap
 wykop.pl##a[href*="wykop.pl/rss"]
 wylecz.to##.google-news_block
