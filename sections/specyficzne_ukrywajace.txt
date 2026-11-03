@@ -1,4 +1,4 @@
-biuroprasowe.orange.pl##a[href*="/rss/"]
+biuroprasowe.orange.pl##a[href$="/rss/"]
 dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##a[title="Google News"]
 0db.pl##.ttip[data-tooltip*="RSS"]
 4kdownload.com##.community__item--feed.community__item
