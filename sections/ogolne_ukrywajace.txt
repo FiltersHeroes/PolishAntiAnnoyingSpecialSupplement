@@ -4,7 +4,6 @@
 ##.td-icon-rss
 ##a[href*="podcasts.google.com/"]
 ##body a[href^="https://www.google.com/preferences/source?q="]
-pl##.share__social:has(> a[href*="news.google.com/"])
 ##li:has(> a[href*="podcasts.google.com/"])
 ~pl###preferred-source-banner:lang(pl), .preferred-source-banner:lang(pl)
 ~pl##.google-news-banner:lang(pl)
@@ -33,6 +32,7 @@ pl##.google-news-banner
 pl##.rss-button
 pl##.rss:not(.block)
 pl##.s_rss[href*="/feed"]
+pl##.share__social:has(> a[href*="news.google.com/"])
 pl##.slide-rss-out-div
 pl##.top-bar .social a[href="/rss"]
 pl##a[href*="/posts/get_list.rss"]

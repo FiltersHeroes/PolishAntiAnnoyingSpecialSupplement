@@ -1,5 +1,3 @@
-biuroprasowe.orange.pl##a[href$="/rss/"]
-dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##a[title="Google News"]
 0db.pl##.ttip[data-tooltip*="RSS"]
 4kdownload.com##.community__item--feed.community__item
 4media.com,agencja-informacyjna.com,bip.dzialdowo.eu,bip.gig.eu,boleslawiec.tv,cadenas.de,centrum.fm,channel9.msdn.com,cooltura24.co.uk,dariusz.wieckiewicz.org,debica24.eu,deccoria.pl,e-plytki.eu,ec.europa.eu,echotygodnik.info,gorlice.tv,interia.pl,kadantiscam.netlify.app,limanowa.in,lokalna.news,lubelska.tv,mmpk.info,mzuim.chorzow.eu,olesnica24.com,piroart.eu,pl.ambafrance.org,pl.near-place.com,portalodo.com,radiomalbork.fm,sejny.info,siatka.org,slubice.tv,support.eset.com,tarnowska.tv,truso.tv,tvdami.eu,tvmaster.eu,wejherowo24.info,wielicka.tv,wielkabrytaniaonline.co.uk##.rss
@@ -76,6 +74,7 @@ bieszczady.pl###header_menu > a[href$="/rss.xml"]
 bip.prochowice.com##a.bip_links__link[href*="rss"]
 biskupice.pl###top-menu-list-04
 bithub.pl##.code-block > i:only-child:has(> a[href*="google.com/publications/"]:only-child)
+biuroprasowe.orange.pl,dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl,naszemiasto.pl##a[href$="/rss/"]
 biuroprasowe.play.pl##.footer__icons-container > li:nth-of-type(6)
 biznes.pap.pl###social > a[href="/pl/rss/"]
 biznesalert.pl##.footer-col-icons > .footer-col-icons-title
@@ -150,6 +149,8 @@ dompelenpomyslow.pl##a[href*="google.com/publications/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennik.com##.t-right.omega.g3
 dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.googleNewsBtn
+dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.newsButton
+dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##a[title="Google News"]
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,pepper.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl##footer a[href*="/rss"]
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl##.componentsArticlesBarArticleLinkWithLogo:has([href*="/jestesmy-na-google-news-sledz-portal-"])
 dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,dziennikzachodni.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gratka.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszahistoria.pl,naszemiasto.pl,nekrologi.net,nowiny24.pl,nowosci.com.pl,nto.pl,polskatimes.pl,pomorska.pl,poranny.pl,regiodom.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronakuchni.pl,stronapodrozy.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,tygodnikits.pl,wspolczesna.pl##ul.componentsRecommendationsSelected__list--withPhoto > li.componentsRecommendationsSelected__item:has([href*="/jestesmy-na-google-news-sledz-portal-"])
@@ -207,8 +208,6 @@ gagadget.com##.b-social__rss
 gazeo.pl##.rss-blue
 gazeta-mosina.pl###short_code_si_icon > a[href*="/rss"]
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
-dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.newsButton
-dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl,naszemiasto.pl##a[href$="/rss/"]
 gb.pl,wsieciprawdy.pl##.xy.socIco
 gbpizs.gov.pl##.ikona-menu.bip-rss
 gc2.pl##a[href*="gc2.pl/forum/misc.php"]
