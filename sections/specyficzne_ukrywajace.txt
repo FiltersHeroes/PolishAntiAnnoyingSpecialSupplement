@@ -148,6 +148,7 @@ dojczland.info##.td-footer-template-13
 dompelenpomyslow.pl##a[href*="google.com/publications/"]
 dzeta.com.pl,zssucha.pl###block-node-syndicate
 dziennik.com##.t-right.omega.g3
+dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##footer a[href*="/.feed"]
 dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.googleNewsBtn
 dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##.newsButton
 dziennik.pl,forsal.pl,gazetaprawna.pl,infor.pl##a[title="Google News"]
