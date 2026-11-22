@@ -2,7 +2,7 @@ name: 'Ochroniarz'
 
 on:
   schedule:
-    - cron: '0 0 26 * *'
+    - cron: '0 2 * * */2'
 
 jobs:
   lock:
